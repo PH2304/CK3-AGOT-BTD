@@ -1,0 +1,69 @@
+pdxmesh = {
+	name = "building_special_valyria_industrial_mesh"
+	file = "building_special_valyria_industrial.mesh"
+
+	meshsettings = {
+		name = "building_special_valyria_dragonShape"
+		index = 0
+		texture_diffuse = "PDXmat_building_special_valyria_dragonShape_diffuse.dds"
+		texture_normal = "PDXmat_building_special_valyria_dragonShape_normal.dds"
+		texture_specular = "PDXmat_building_special_valyria_dragonShape_properties.dds"
+		shader = "standard_winter"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "building_special_valyria_east_mainShape"
+		index = 0
+		texture_diffuse = "PDXmat_building_special_valyria_east_mainShape_diffuse.dds"
+		texture_normal = "PDXmat_building_special_valyria_east_mainShape_normal.dds"
+		texture_specular = "PDXmat_building_special_valyria_east_mainShape_properties.dds"
+		shader = "standard_winter"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "building_special_valyria_ind_buildingsShape"
+		index = 0
+		texture_diffuse = "PDXmat_building_special_valyria_ind_buildingsShape_diffuse.dds"
+		texture_normal = "PDXmat_building_special_valyria_ind_buildingsShape_normal.dds"
+		texture_specular = "PDXmat_building_special_valyria_ind_buildingsShape_properties.dds"
+		shader = "standard_winter"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "building_special_valyrian_amph_connectorShape"
+		index = 0
+		texture_diffuse = "PDXmat_building_special_valyrian_amph_connectorShape_diffuse.dds"
+		texture_normal = "PDXmat_building_special_valyrian_amph_connectorShape_normal.dds"
+		texture_specular = "PDXmat_building_special_valyrian_amph_connectorShape_properties.dds"
+		shader = "standard_winter"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "building_special_valyrian_centerShape"
+		index = 0
+		texture_diffuse = "PDXmat_building_special_valyrian_centerShape_diffuse.dds"
+		texture_normal = "PDXmat_building_special_valyrian_centerShape_normal.dds"
+		texture_specular = "PDXmat_building_special_valyrian_centerShape_properties.dds"
+		shader = "standard_winter"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "building_special_valyrian_gargoylesShape"
+		index = 0
+		texture_diffuse = "PDXmat_building_special_valyrian_gargoylesShape_diffuse.dds"
+		texture_normal = "PDXmat_building_special_valyrian_gargoylesShape_normal.dds"
+		texture_specular = "PDXmat_building_special_valyrian_gargoylesShape_properties.dds"
+		shader = "standard_winter"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+}
+
+entity = {
+	name = "building_special_valyria_industrial_entity"
+	pdxmesh = "building_special_valyria_industrial_mesh"
+}

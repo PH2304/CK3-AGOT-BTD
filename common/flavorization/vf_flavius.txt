@@ -1,0 +1,12 @@
+﻿kingdom_freehold = {
+	type = title
+	tier = kingdom
+	priority = 50
+	governments = { freehold_government }
+}
+empire_freehold = {
+	type = title
+	tier = empire
+	priority = 101
+	governments = { freehold_government }
+}

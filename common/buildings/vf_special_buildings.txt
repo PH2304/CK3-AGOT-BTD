@@ -1,0 +1,266 @@
+﻿vf_dragon_tower_01 = {
+
+	construction_time = very_slow_construction_time
+
+	can_construct_potential = {
+		vf_can_build_dragontower = yes
+	}
+
+	can_construct_showing_failures_only = {
+		building_requirement_tribal = no
+	}
+
+	asset = {
+		type = pdxmesh
+		name = "building_special_dragon_tower_mesh"
+	}
+
+	effect_desc = building_vf_dragonpit_effect
+
+	on_complete = {
+		county.holder = {
+			trigger_event = vf_dragonpit_redirect.0001
+		}
+	}
+
+	county_modifier = {
+		hostile_raid_time = 0.3
+		defender_holding_advantage = 5
+	}
+
+	province_modifier = {
+		fort_level = 2
+	}
+	
+	type_icon = "icon_building_dragontower.dds"
+
+	ai_value = {
+		base = 100
+		culture_likely_to_fortify_modifier = yes
+	}
+
+	type = special
+}
+
+vf_valyria_city_defenses = {
+	construction_time = very_slow_construction_time
+
+	can_construct_potential = {
+	}
+
+	can_construct_showing_failures_only = {
+		building_requirement_tribal = no
+	}
+
+	asset = {
+		type = pdxmesh
+		name = "building_special_valyria_defenses_mesh"
+	}
+
+	effect_desc = building_valyria_city_effect
+
+	#on_complete = {
+	#	county.holder = {
+	#		trigger_event = vf_valyria_city_redirect.0001
+	#	}
+	#}
+
+
+	county_modifier = {
+		garrison_size = 2
+		levy_reinforcement_rate = 1
+	}
+
+	province_modifier = {
+		fort_level = 15
+		hostile_raid_time = 0.8
+		defender_holding_advantage = 20
+	}
+	
+	type_icon = "icon_building_valyria_defenses.dds"
+
+	ai_value = {
+		base = 100
+		culture_likely_to_fortify_modifier = yes
+	}
+
+	type = special
+}
+
+vf_valyria_city_civic = {
+	construction_time = very_slow_construction_time
+
+	can_construct_potential = {
+		vf_can_build_dragontower = yes
+	}
+
+	can_construct_showing_failures_only = {
+		building_requirement_tribal = no
+	}
+
+	asset = {
+		type = pdxmesh
+		name = "building_special_valyria_civic_mesh"
+	}
+
+	effect_desc = building_vf_dragonpit_effect
+
+	on_complete = {
+		county.holder = {
+			trigger_event = vf_dragonpit_redirect.0001
+		}
+	}
+
+
+	county_modifier = {
+		development_growth_factor = 1
+		development_growth = 0.85
+	}
+
+	province_modifier = {
+		fort_level = 15
+		hostile_raid_time = 0.8
+		defender_holding_advantage = 20
+	}
+	
+	type_icon = "icon_building_valyria_civic.dds"
+
+	ai_value = {
+		base = 100
+		culture_likely_to_fortify_modifier = yes
+	}
+
+	type = special
+}
+
+vf_valyria_city_industrial = {
+	construction_time = very_slow_construction_time
+
+	can_construct_potential = {
+	}
+
+	can_construct_showing_failures_only = {
+		building_requirement_tribal = no
+	}
+
+	asset = {
+		type = pdxmesh
+		name = "building_special_valyria_industrial_mesh"
+	}
+
+	effect_desc = building_valyria_city_effect
+
+	#on_complete = {
+	#	county.holder = {
+	#		trigger_event = vf_valyria_city_redirect.0001
+	#	}
+	#}
+
+	county_modifier = {
+		build_gold_cost = -0.80
+		build_speed = -0.45
+	}
+
+	province_modifier = {
+		fort_level = 15
+		hostile_raid_time = 0.8
+		defender_holding_advantage = 20
+	}
+	
+	type_icon = "icon_building_valyria_industrial.dds"
+
+	ai_value = {
+		base = 100
+		culture_likely_to_fortify_modifier = yes
+	}
+
+	type = special
+}
+
+vf_valyria_city_entertainment = {
+	construction_time = very_slow_construction_time
+
+	can_construct_potential = {
+	}
+
+	can_construct_showing_failures_only = {
+		building_requirement_tribal = no
+	}
+
+	asset = {
+		type = pdxmesh
+		name = "building_special_valyria_entertainment_mesh"
+	}
+
+	effect_desc = building_valyria_city_effect
+
+	#on_complete = {
+	#	county.holder = {
+	#		trigger_event = vf_valyria_city_redirect.0001
+	#	}
+	#}
+
+	county_modifier = {
+		tax_mult = 0.25
+		monthly_county_control_growth_add = 0.3
+	}
+
+	province_modifier = {
+		fort_level = 15
+		hostile_raid_time = 0.8
+		defender_holding_advantage = 20
+	}
+	
+	type_icon = "icon_building_valyria_entertainment.dds"
+
+	ai_value = {
+		base = 100
+		culture_likely_to_fortify_modifier = yes
+	}
+
+	type = special
+}
+
+vf_valyria_city_sept = {
+	construction_time = very_slow_construction_time
+
+	can_construct_potential = {
+	}
+
+	can_construct_showing_failures_only = {
+		building_requirement_tribal = no
+	}
+
+	asset = {
+		type = pdxmesh
+		name = "building_special_valyria_sept_mesh"
+	}
+
+	effect_desc = building_valyria_city_effect
+
+	#on_complete = {
+	#	county.holder = {
+	#		trigger_event = vf_valyria_city_redirect.0001
+	#	}
+	#}
+
+	county_modifier = {
+		build_piety_cost = -1
+		tax_mult = 1
+	}
+
+	province_modifier = {
+		fort_level = 15
+		hostile_raid_time = 0.8
+		defender_holding_advantage = 20
+	}
+	
+	type_icon = "icon_building_valyria_sept.dds"
+
+	ai_value = {
+		base = 100
+		culture_likely_to_fortify_modifier = yes
+	}
+
+	type = special
+}

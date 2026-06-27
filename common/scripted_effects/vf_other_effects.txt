@@ -1,0 +1,394 @@
+﻿vf_game_start_dragonpit_effect = {
+	title:c_daelynor = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_zhaeryth = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_faelith = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_zhaelthor = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_ilythar = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_jaeryn = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_aerionor = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_elythorion = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_brynysor = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_vaenor = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_oelrynor = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_jaelys = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_paelion = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_haelyx = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_daenyth = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_daelthor = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_qaelyx = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_aelzor = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_maenythor = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_saelrion = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_raelythor = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_xaelrynor = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_gaelzor = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_ilyrion = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_oelyth = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_yrnith = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_valyria = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_haelthor = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_jaelion = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_vaeryth = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_naelrion = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_ulenor = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_gaelion = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_naelthor = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_oelyrion = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_qaelrion = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_saelion = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_elythar = {
+		add_to_list = dragonpit_titles
+	}
+	title:c_zaelthor = {
+		add_to_list = dragonpit_titles
+	}
+	every_in_list = {
+		list = dragonpit_titles
+		agot_dragonpit_gamestart_init_pit_effect = yes
+		this.holder ?= {
+			vf_generate_dragonstone_head_dragonkeeper = { HOLDER = this }
+			appoint_court_position = {
+				recipient = scope:head_dragonkeeper
+				court_position = head_dragonkeeper_court_position
+			}
+		}
+	}
+}
+
+vf_add_special_buildings_7888 = {
+	####### THE MINES ########
+	# 1
+	province:8461 = {
+		add_special_building = vf_copper_mines_04
+	}
+	province:8471 = {
+		add_special_building = vf_gold_mines_04
+	}
+	province:8472 = {
+		add_special_building = vf_silver_mines_04
+	}
+	province:8480 = {
+		add_special_building = vf_silver_mines_04
+	}
+	province:8482 = {
+		add_special_building = vf_gold_mines_04
+	}
+	province:8483 = {
+		add_special_building = vf_silver_mines_04
+	}
+	province:8485 = {
+		add_special_building = vf_copper_mines_04
+	}
+	province:8492 = {
+		add_special_building = vf_copper_mines_04
+	}
+	province:8493 = {
+		add_special_building = vf_gold_mines_04
+	}
+	province:8494 = {
+		add_special_building = vf_silver_mines_04
+	}
+	# 2
+	province:8454 = {
+		add_special_building = vf_gold_mines_04
+	}
+	province:8448 = {
+		add_special_building = vf_silver_mines_04
+	}
+	province:8446 = {
+		add_special_building = vf_copper_mines_04
+	}
+	province:8445 = {
+		add_special_building = vf_gold_mines_04
+	}
+	province:8449 = {
+		add_special_building = vf_silver_mines_04
+	}
+	province:8450 = {
+		add_special_building = vf_copper_mines_04
+	}
+	province:8490 = {
+		add_special_building = vf_gold_mines_04
+	}
+	province:8487 = {
+		add_special_building = vf_silver_mines_04
+	}
+	province:8403 = {
+		add_special_building = vf_gold_mines_04
+	}
+	province:8400 = {
+		add_special_building = vf_silver_mines_04
+	}
+	province:8522 = {
+		add_special_building = vf_copper_mines_04
+	}
+	province:8527 = {
+		add_special_building = vf_gold_mines_04
+	}
+	province:8529 = {
+		add_special_building = vf_gold_mines_04
+	}
+	province:8533 = {
+		add_special_building = vf_silver_mines_04
+	}
+	province:8574 = {
+		add_special_building = vf_gold_mines_04
+	}
+	province:8571 = {
+		add_special_building = vf_silver_mines_04
+	}
+	province:8568 = {
+		add_special_building = vf_gold_mines_04
+	}
+	province:8567 = {
+		add_special_building = vf_copper_mines_04
+	}
+	province:8579 = {
+		add_special_building = vf_silver_mines_04
+	}
+	province:8399 = {
+		add_special_building = vf_gold_mines_04
+	}
+	province:8530 = {
+		add_special_building = vf_silver_mines_04
+	}
+	province:8358 = {
+		add_special_building = vf_gold_mines_04
+	}
+	province:8359 = {
+		add_special_building = vf_copper_mines_04
+	}
+	province:8360 = {
+		add_special_building = vf_silver_mines_04
+	}
+	province:8362 = {
+		add_special_building = vf_gold_mines_04
+	}
+	province:8364 = {
+		add_special_building = vf_copper_mines_04
+	}
+	province:8366 = {
+		add_special_building = vf_silver_mines_04
+	}
+	province:8370 = {
+		add_special_building = vf_copper_mines_04
+	}
+	province:8371 = {
+		add_special_building = vf_gold_mines_04
+	}
+	province:8372 = {
+		add_special_building = vf_silver_mines_04
+	}
+	province:8339 = {
+		add_special_building = vf_copper_mines_04
+	}
+	###########################
+	province:8219 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8227 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8242 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8255 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8269 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8284 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8291 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8303 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8315 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8319 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8343 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8354 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8357 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8368 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8373 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8389 = {
+		add_special_building = vf_copper_mines_04
+	}
+	province:8392 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8396 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	##### VALYRIA CITY #####
+	province:8410 = {
+		add_special_building = vf_valyria_city_civic 
+	}
+	province:8411 = {
+		add_special_building = vf_valyria_city_industrial 
+	}
+	province:8412 = {
+		add_special_building = vf_valyria_city_sept 
+	}
+	province:8413 = {
+		add_special_building = vf_valyria_city_entertainment 
+	}
+	province:8414 = {
+		add_special_building = vf_valyria_city_defenses 
+	}
+	##### 
+	province:8425 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8433 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8453 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8476 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8484 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8488 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8495 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8517 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8532 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8540 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8553 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8562 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8566 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8575 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8613 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8629 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8645 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8650 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8667 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8681 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+	province:8693 = {
+		add_special_building = vf_dragon_tower_01 
+	}
+}

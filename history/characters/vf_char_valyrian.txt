@@ -1,0 +1,3983 @@
+﻿# OLD VALYRIA
+Mataeryon_2_vf = {
+	name = Maegor
+	dynasty = dynn_Mataeryon
+	#dna = Mataeryon_2_vf
+	father = Mataeryon_1
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_learning_3
+	trait = impatient
+	trait = honest
+	trait = just
+	trait = brave
+
+	disallow_random_traits = yes
+
+	7887.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Mataeryon_3_vf = {
+	name = Aerea
+	dynasty = dynn_Mataeryon
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	female = yes
+	father = Mataeryon_1
+	disallow_random_traits = yes
+	trait = bossy
+	trait = sadistic
+	trait = vengeful
+	trait = wrathful
+	trait = paranoid
+	trait = possessed_genetic
+	trait = education_martial_5
+	7885.9.10 = { birth = yes }
+	7950.1.1 = { death = yes }
+}
+
+Mataeryon_4 = {
+	name = Aelorys
+	dynasty = dynn_Mataeryon
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	father = Mataeryon_1
+	disallow_random_traits = yes
+	trait = curious
+	trait = education_learning_3
+	trait = intellect_good_2
+	trait = calm
+	trait = patient
+	trait = humble
+	trait = diligent
+	7886.5.4 = { birth = yes }
+	7950.1.1 = { death = yes }
+}
+Varezys_2 = {
+	name = Varys
+	dynasty = dynn_Varezys
+	#dna = Varezys_2
+	father = Varezys_1
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_intrigue_5
+	trait = deceitful
+	trait = patient
+	trait = cynical
+	trait = paranoid
+
+	disallow_random_traits = yes
+
+	7887.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Varezys_3 = {
+	name = Aerion
+	dynasty = dynn_Varezys
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	father = Varezys_1
+	disallow_random_traits = yes
+	trait = charming
+	trait = ambitious
+	trait = brave
+	trait = rude
+	trait = calm
+	trait = education_diplomacy_3
+	trait = physique_good_1
+	7885.1.1 = { birth = yes }
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+
+Varezys_4 = {
+	name = Aryanne
+	dynasty = dynn_Varezys
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	female = yes
+	father = Varezys_1
+	disallow_random_traits = yes
+	trait = charming
+	trait = stubborn
+	trait = brave
+	trait = forgiving
+	trait = gregarious
+	trait = education_intrigue_3
+	trait = beauty_good_1
+	7885.12.30 = { birth = yes }
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+# HOUSE ATREIDES (id = dynn_Atreides)
+# There is only power, and those too weak to seek it
+ancestor_Atreides_1 = {
+	name = Lēthos
+	dynasty = dynn_Atreides
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	disallow_random_traits = yes
+	trait = ambitious
+	trait = authoritative
+	trait = deceitful
+	trait = calm
+	trait = education_intrigue_4
+	trait = rowdy
+	trait = intellect_good_3
+	trait = beauty_good_3
+	7802.6.10 = { birth = yes }
+	7872.1.1 = { death = yes }
+}
+
+ancestor_Atreides_2 = {
+	name = Haelena
+	dynasty = dynn_Atreides
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	female = yes
+	disallow_random_traits = yes
+	trait = beauty_good_2
+	trait = intellect_good_1
+	trait = charming
+	trait = education_diplomacy_3
+	trait = calm
+	trait = inquisitive
+	trait = gregarious
+	trait = forgiving
+	7803.2.16 = { birth = yes }
+	7819.2.16 = { add_spouse = ancestor_Atreides_1 }
+	7886.1.1 = { death = yes }
+}
+Atreides_1 = {
+	name = Daemon # Daemon, the Sword of the Evening | Dragonlord 1/39 # HAS LAND
+	dynasty = dynn_Atreides
+	#dna = Atreides_1
+	father = ancestor_Atreides_1
+	mother = ancestor_Atreides_2
+
+	martial = 10
+	diplomacy = 3
+	intrigue = 3
+	stewardship = 7
+	learning = 6
+	prowess = 12
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_5
+	trait = intellect_good_2
+	trait = beauty_good_2
+	trait = pensive
+	trait = brave
+	trait = diligent
+	trait = patient
+	trait = temperate
+	trait = education_martial_prowess_5
+	trait = lifestyle_blademaster_3_history
+
+	disallow_random_traits = yes
+
+
+	7840.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7882.1.1 = { trait = dragonrider } # Duncan (Done)
+	7885.1.1 = {
+		give_nickname = nick_the_sword_of_the_evening
+		effect = { 
+			add_character_flag = claimed_dusk
+			add_character_flag = is_sword_of_evening
+		}
+	}
+	7887.1.1 = { add_spouse = Atreides_2 } # Naerys Atreides
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Atreides_2 = {
+	name = Naerys # Wife of Lord Daemon
+	dynasty = dynn_Atreides
+	#dna = Atreides_2
+	father = ancestor_Atreides_1
+	mother = ancestor_Atreides_2
+	female = yes
+
+	martial = 2
+	diplomacy = 9
+	intrigue = 5
+	stewardship = 7
+	learning = 6
+	prowess = 3
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_diplomacy_3
+	trait = beauty_good_2
+	trait = charming
+	trait = compassionate
+	trait = patient
+	trait = just
+	trait = calm
+	trait = education_martial_prowess_1
+
+	disallow_random_traits = yes
+
+	7871.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7885.1.1 = { trait = dragonrider } # Terrax
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Atreides_3 = {
+	name = Aemond
+	dynasty = dynn_Atreides
+	#dna = Atreides_3
+	father = Atreides_1
+	mother = Atreides_2
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_intrigue_5
+	trait = education_diplomacy_5
+	trait = education_stewardship_5
+	trait = education_learning_5
+	trait = education_martial_5
+	trait = intellect_good_3
+	trait = ambitious
+	trait = calm
+	trait = patient
+	trait = cynical
+
+	7887.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Atreides_4 = {
+	name = Viserys
+	dynasty = dynn_Atreides
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	father = ancestor_Atreides_1
+	mother = ancestor_Atreides_2
+	disallow_random_traits = yes
+	trait = pensive
+	trait = education_learning_2
+	trait = beauty_good_2
+	trait = content
+	trait = trusting
+	trait = forgiving
+	trait = gregarious
+	7860.12.6 = { birth = yes }
+	7950.1.1 = { death = yes }
+}
+
+Atreides_5 = {
+	name = Viserra
+	dynasty = dynn_Atreides
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	female = yes
+	father = ancestor_Atreides_1
+	mother = ancestor_Atreides_2
+	disallow_random_traits = yes
+	trait = generous
+	trait = fickle
+	trait = humble
+	trait = gregarious
+	trait = curious
+	trait = education_diplomacy_3
+	trait = beauty_good_2
+	7865.12.6 = { birth = yes }
+	7881.12.6 = { add_spouse = Atreides_4 }
+	7950.1.1 = { death = yes }
+}
+
+Atreides_6 = {
+	name = Ghaenima
+	dynasty = dynn_Atreides
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	female = yes
+	father = Atreides_4
+	mother = Atreides_5
+	disallow_random_traits = yes
+	trait = pensive
+	trait = education_learning_5
+	trait = intellect_good_3
+	trait = shrewd
+	trait = compassionate
+	trait = humble
+	trait = honest
+	trait = patient
+	trait = twin
+	7882.10.25 = { birth = yes }
+	7950.1.1 = { death = yes }
+}
+
+Atreides_7 = {
+	name = Lēthos
+	dynasty = dynn_Atreides
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	father = Atreides_4
+	mother = Atreides_5
+	disallow_random_traits = yes
+	trait = pensive
+	trait = education_learning_5
+	trait = intellect_good_3
+	trait = shrewd
+	trait = ambitious
+	trait = brave
+	trait = stubborn
+	trait = authoritative
+	trait = twin
+	7882.10.25 = { birth = yes }
+	7950.1.1 = { death = yes }
+}
+
+# HOUSE QORBAREON (id = dynn_Qorbareon) IN HONOR OF QAnon
+Qorbareon_ancestor_1 = {
+	name = Qaenys
+	dynasty = dynn_Qorbareon
+	#dna = Qorbareon_ancestor
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_2
+	trait = authoritative
+	trait = patient
+	trait = rude
+	trait = arrogant
+	trait = education_martial_prowess_3
+
+	disallow_random_traits = yes
+
+	7756.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7859.12.13 = {
+		death = yes
+	}
+}
+Qorbareon_ancestor_2 = {
+	name = Qaenor
+	dynasty = dynn_Qorbareon
+	#dna = Qorbareon_ancestor
+	father = Qorbareon_ancestor_1
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_2
+	trait = paranoid
+	trait = wrathful
+	trait = greedy
+	trait = arrogant
+	trait = education_martial_prowess_3
+
+	disallow_random_traits = yes
+
+	7825.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7859.12.13 = {
+		death = yes
+	}
+}
+Qorbareon_1 = {
+	name = Rhaelene # Aunt and wife of Lord Rhaemon
+	dynasty = dynn_Qorbareon
+	#dna = Qorbareon_1
+	female = yes
+	father = Qorbareon_ancestor_1
+
+	martial = 0
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 4
+	learning = 6
+	prowess = 0
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_intrigue_3
+	trait = impatient
+	trait = gluttonous
+	trait = trusting
+	trait = lustful
+
+	disallow_random_traits = yes
+
+	7827.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Qorbareon_2 = {
+	name = Rhaemon # Lord Rhaemon Qorbareon | Dragonlord 2/39 # HAS LAND
+	dynasty = dynn_Qorbareon
+	#dna = Qorbareon_2
+	father = Qorbareon_ancestor_2
+
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	learning = 5
+	prowess = 5
+	fertility = 2.0
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_stewardship_3
+	trait = beauty_good_2
+	trait = bossy
+	trait = brave
+	trait = diligent
+	trait = vengeful
+	trait = arrogant
+	trait = education_martial_prowess_3
+
+	disallow_random_traits = yes
+
+	7856.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7871.1.1 = { trait = dragonrider } # Jaeqaelix (Done)
+	7872.1.1 = { add_spouse = Qorbareon_1 } # Rhaelene Qorbareon
+	7888.1.1 = { add_spouse = Qorbareon_9 } # Aemma Qorbareon
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Qorbareon_3 = {
+	name = Arano # Brother of Lord Rhaemon
+	dynasty = dynn_Qorbareon
+	#dna = Qorbareon_3
+	father = Qorbareon_ancestor_2
+
+	#martial = 
+	#diplomacy = 
+	#intrigue = 
+	#stewardship = 
+	#learning = 
+	#prowess = 
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	#trait = education_
+
+	disallow_random_traits = yes
+
+	7867.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Qorbareon_4 = {
+	name = Rogo # Brother of Lord Rhaemon
+	dynasty = dynn_Qorbareon
+	#dna = Qorbareon_4
+	father = Qorbareon_ancestor_2
+
+	#martial = 
+	#diplomacy = 
+	#intrigue = 
+	#stewardship = 
+	#learning = 
+	#prowess = 
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	#trait = education_
+
+	disallow_random_traits = yes
+
+	7869.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Qorbareon_5 = {
+	name = Ellara # Sister of Lord Rhaemon
+	dynasty = dynn_Qorbareon
+	#dna = Qorbareon_5
+	father = Qorbareon_ancestor_2
+	female = yes
+
+	#martial = 
+	#diplomacy = 
+	#intrigue = 
+	#stewardship = 
+	#learning = 
+	#prowess = 
+	trait = bossy
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	#trait = education_
+
+	disallow_random_traits = yes
+
+	7873.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Qorbareon_6 = {
+	name = Laerion # Son of Lord Rhaemon
+	dynasty = dynn_Qorbareon
+	#dna = Qorbareon_6
+	father = Qorbareon_2
+	mother = Qorbareon_9
+
+	martial = 3
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	learning = 10
+	prowess = 2
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	father = Qorbareon_2
+	mother = Qorbareon_1
+
+	trait = education_learning_4
+	trait = twin
+	trait = pensive
+	trait = humble
+	trait = honest
+	trait = shy
+	trait = forgiving
+	trait = theologian
+	trait = scholar
+	trait = devoted
+
+	disallow_random_traits = yes
+
+	7873.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Qorbareon_7 = {
+	name = Daerion # Son of Lord Rhaemon
+	dynasty = dynn_Qorbareon
+	#dna = Qorbareon_7
+	father = Qorbareon_2
+	mother = Qorbareon_9
+
+	martial = 5
+	diplomacy = 4
+	intrigue = 3
+	stewardship = 2 
+	learning = 2
+	prowess = 12
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	father = Qorbareon_2
+	mother = Qorbareon_1
+
+	trait = education_martial_1
+	trait = intellect_bad_1
+	trait = twin
+	trait = rowdy
+	trait = brave
+	trait = wrathful
+	trait = lustful
+	trait = education_martial_prowess_1
+
+	disallow_random_traits = yes
+
+	7873.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Qorbareon_8 = {
+	name = Dyaerys # Son of Lord Rhaemon
+	dynasty = dynn_Qorbareon
+	#dna = Qorbareon_8
+	father = Qorbareon_2
+	mother = Qorbareon_9
+
+	martial = 4
+	diplomacy = 9
+	intrigue = 5
+	stewardship = 7
+	learning = 8
+	prowess = 3
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	father = Qorbareon_2
+	mother = Qorbareon_1
+
+	trait = education_intrigue_5
+	trait = beauty_good_3
+	trait = intellect_good_3
+	trait = twin
+	trait = curious
+	trait = ambitious
+	trait = craven
+	trait = chaste
+	trait = greedy
+
+	disallow_random_traits = yes
+
+	7873.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Qorbareon_9 = {
+	name = Aemma # Second wife of Lord Rhaemon
+	dynasty = dynn_Qorbareon
+	#dna = Qorbareon_9
+	female = yes
+	father = Qorbareon_ancestor_2
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	#martial = 
+	#diplomacy = 
+	#intrigue = 
+	#stewardship = 
+	#learning = 
+	#prowess =
+
+	#trait = education_
+
+	disallow_random_traits = yes
+
+	7872.1.1 = {
+		birth= yes
+		add_character_flag = has_scripted_appearance
+	}
+	7888.1.1 = { add_spouse = Qorbareon_2 } # Rhaemon Qorbareon
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+# HOUSE STAVARYEN (id = dynn_Stavaryen) IN HONOR OF QAnon
+Stavaryen_1_dad = {
+	name = Vargo
+	dynasty = dynn_Stavaryen
+	#dna = Stavaryen_1_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_intrigue_4
+	trait = deceitful
+	trait = patient
+	trait = greedy
+	trait = cynical
+
+	disallow_random_traits = yes
+
+	7800.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7872.3.7 = {
+		death = yes
+	}
+}
+Stavaryen_1 = {
+	name = Vargo # Lord Vargo Stavaryen | Dragonlord 3/39 # HAS LAND
+	dynasty = dynn_Stavaryen
+	#dna = Stavaryen_1
+	father = Stavaryen_1_dad
+
+	martial = 5
+	diplomacy = 5
+	intrigue = 10
+	stewardship = 4
+	learning = 7
+	prowess = 3
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_intrigue_4
+	trait = charming
+	trait = craven
+	trait = wrathful
+	trait = chaste
+	trait = vengeful
+
+	disallow_random_traits = yes
+
+	7818.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7833.1.1 = { trait = dragonrider } # Shellox (Done)
+	7852.1.1 = { add_spouse = Stavaryen_2 } # Norenya Stavaryen
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Stavaryen_2 = {
+	name = Norenya # Wife of Lord Vargo
+	dynasty = dynn_Stavaryen
+	#dna = Stavaryen_2
+	female = yes
+	father = Stavaryen_1_dad
+
+	martial = 4
+	diplomacy = 3
+	intrigue = 9
+	stewardship = 8
+	learning = 6
+	prowess = 2
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_intrigue_3
+	trait = rowdy
+	trait = wrathful
+	trait = lustful
+	trait = greedy
+	trait = sadistic
+
+	disallow_random_traits = yes
+
+	7829.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Stavaryen_3 = {
+	name = Vaenora # Daughter of Lord Vargo
+	dynasty = dynn_Stavaryen
+	#dna = Stavaryen_3
+	female = yes
+	
+	martial = 2
+	diplomacy = 7
+	intrigue = 1
+	stewardship = 6
+	learning = 4
+	prowess = 2
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	father = Stavaryen_1
+	mother = Stavaryen_2
+
+	trait = education_stewardship_2
+	trait = bossy
+	trait = trusting
+	trait = impatient
+	trait = just
+	trait = humble
+
+	disallow_random_traits = yes
+
+	7853.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Stavaryen_4 = {
+	name = Vargo # Son of Lord Vargo
+	dynasty = dynn_Stavaryen
+	#dna = Stavaryen_4
+
+	martial = 1
+	diplomacy = 1
+	intrigue = 0
+	stewardship = 0
+	learning = 2
+	prowess = 0
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	father = Stavaryen_1
+	mother = Stavaryen_2
+
+	trait = bossy
+	trait = physique_bad_3
+	trait = weak
+
+	disallow_random_traits = yes
+
+	7854.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7859.1.1 = {
+		trait = ill
+		death = { death_reason = death_ill }
+	}
+}
+Stavaryen_5 = {
+	name = Parios # Son of Lord Vargo
+	dynasty = dynn_Stavaryen
+	#dna = Stavaryen_5
+
+	martial = 3
+	diplomacy = 0
+	intrigue = 0
+	stewardship = 0
+	learning = 1
+	prowess = 2
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	father = Stavaryen_1
+	mother = Stavaryen_2
+
+	trait = rowdy
+	trait = physique_bad_2
+	trait = bleeder
+
+	disallow_random_traits = yes
+
+	7857.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7858.11.1 = {
+		death = { death_reason = death_wounds }
+	}
+}
+Stavaryen_6 = {
+	name = Naesys # Daughter of Lord Vargo
+	dynasty = dynn_Stavaryen
+	#dna = Stavaryen_6
+	female = yes
+
+	martial = 2
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 8
+	learning = 4
+	prowess = 2
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	father = Stavaryen_1
+	mother = Stavaryen_2
+
+	trait = curious
+	trait = honest
+	trait = gregarious
+	trait = greedy
+	trait = vengeful
+
+	disallow_random_traits = yes
+
+	7866.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Stavaryen_7 = {
+	name = Garios # Son of Lord Vargo
+	dynasty = dynn_Stavaryen
+	#dna = Stavaryen_7
+
+	martial = 2
+	diplomacy = 4
+	intrigue = 3
+	stewardship = 5
+	learning = 7
+	prowess = 1
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	father = Stavaryen_1
+	mother = Stavaryen_2
+
+	trait = curious
+	trait = shy
+	trait = cynical
+	trait = impatient
+
+	disallow_random_traits = yes
+
+	7876.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+
+Melnibone_1 = {
+	name = Elric # The White Wolf | Dragonlord 4/39 # HAS LAND
+	dynasty = dynn_Melnibone
+	#dna = Targaryen_96
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	give_nickname = nick_the_white_wolf
+
+	trait = education_learning_5
+	trait = education_martial_prowess_3
+	trait = albino
+	trait = physique_bad_2
+	trait = depressed_1
+	trait = patient
+	trait = just
+	trait = lifestyle_mystic_3_history
+
+	7863.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7875.1.1 = { trait = dragonrider } # Flamefang (Done)
+	7885.1.1 = { add_spouse = Melnibone_2 }
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+
+Melnibone_2 = {
+	name = Cymoril # Elrics bae
+	dynasty = dynn_Melnibone
+	female = yes
+	#dna = Targaryen_97
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	7860.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Melnibone_3 = {
+    name = Maegon
+    dynasty = dynn_Melnibone
+#   dna = Melnibone_3
+    father = Melnibone_1
+    mother = Melnibone_2
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = rowdy
+
+    disallow_random_traits = yes
+
+    7884.5.10 = {
+        birth = yes
+    }
+    7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Melnibone_4 = {
+    name = Baela
+    dynasty = dynn_Melnibone
+#   dna = Melnibone_4
+    female = yes
+    father = Melnibone_1
+    mother = Melnibone_2
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = curious
+
+    disallow_random_traits = yes
+
+    7886.7.15 = {
+        birth = yes
+    }
+    7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Melnibone_5 = {
+    name = Rhaegar
+    dynasty = dynn_Melnibone
+#   dna = Melnibone_5
+    father = Melnibone_1_dad
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = education_intrigue_3
+    trait = deceitful
+    trait = ambitious
+    trait = paranoid
+    trait = sadistic
+
+    disallow_random_traits = yes
+
+    7866.1.1 = {
+        birth = yes
+    }
+    7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Melnibone_6 = {
+    name = Daenys
+    dynasty = dynn_Melnibone
+#   dna = Melnibone_6
+    female = yes
+    father = Melnibone_1_dad
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = education_diplomacy_3
+    trait = compassionate
+    trait = patient
+    trait = just
+    trait = calm
+
+    disallow_random_traits = yes
+
+    7868.3.12 = {
+        birth = yes
+    }
+    7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Melnibone_7 = {
+    name = Aerys
+    dynasty = dynn_Melnibone
+#   dna = Melnibone_7
+    father = Melnibone_1_dad
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = education_martial_4
+    trait = brave
+    trait = diligent
+    trait = ambitious
+
+    disallow_random_traits = yes
+
+    7864.2.18 = {
+        birth = yes
+    }
+    7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Jentys_1_dad = {
+	name = Daemond
+	dynasty = dynn_Jentys
+	#dna = Jentys_1_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_intrigue_3
+	trait = deceitful
+	trait = patient
+	trait = greedy
+	trait = cynical
+
+	disallow_random_traits = yes
+
+	7810.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7872.3.7 = {
+		death = yes
+	}
+}
+Jentys_1 = {
+	name = Daeron # Dragonlord 5/39 # HAS LAND
+	dynasty = dynn_Jentys
+	father = Jentys_1_dad
+
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_diplomacy_5
+	trait = gregarious
+	trait = diligent
+	trait = forgiving
+	trait = just
+
+	disallow_random_traits = yes
+
+	7860.3.4 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7871.1.1 = { trait = dragonrider } # Arraks (Done)
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Jentys_2 = {
+	name = Daemond # Son of Lord Daeron
+	dynasty = dynn_Jentys
+	father = Jentys_1
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = curious
+	trait = intellect_good_2
+
+	disallow_random_traits = yes
+
+	7887.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Jentys_3 = {
+    name = Aelor
+    dynasty = dynn_Jentys
+#   dna = Jentys_3
+    father = Jentys_1
+    mother = Jentys_1_wife
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = bossy
+
+    disallow_random_traits = yes
+
+    7882.6.1 = {
+        birth = yes
+    }
+    7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Jentys_4 = {
+    name = Maelys
+    dynasty = dynn_Jentys
+#   dna = Jentys_4
+    father = Jentys_1_dad
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = education_stewardship_3
+    trait = greedy
+    trait = ambitious
+    trait = arbitrary
+    trait = patient
+
+    disallow_random_traits = yes
+
+    7865.1.1 = {
+        birth = yes
+    }
+    7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Jentys_5 = {
+    name = Helaena
+    dynasty = dynn_Jentys
+#   dna = Jentys_5
+    female = yes
+    father = Jentys_1_dad
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = education_intrigue_3
+    trait = paranoid
+    trait = sadistic
+    trait = deceitful
+
+    disallow_random_traits = yes
+
+    7867.3.5 = {
+        birth = yes
+    }
+    7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Jentys_6 = {
+    name = Naerys
+    dynasty = dynn_Jentys
+#   dna = Jentys_6
+    female = yes
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = education_diplomacy_3
+    trait = compassionate
+    trait = patient
+    trait = just
+    trait = calm
+
+    disallow_random_traits = yes
+
+    7840.1.1 = {
+        birth = yes
+    }
+    7856.1.1 = {
+        add_spouse = Jentys_1_dad
+    }
+    7880.1.1 = {
+        death = yes
+    }
+}
+Azantys_1_dad = {
+	name = Aenys
+	dynasty = dynn_Azantys
+	#dna = Azantys_1_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_2
+	trait = brave
+	trait = ambitious
+	trait = shy
+	trait = arrogant
+
+	disallow_random_traits = yes
+
+	7810.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7862.3.7 = {
+		death = yes
+	}
+}
+Azantys_1 = {
+	name = Aenys # Dragonlord 6/39 # HAS LAND
+	dynasty = dynn_Azantys
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_5
+	trait = intellect_good_1
+	trait = strong
+	trait = cynical
+	trait = sadistic
+	trait = vengeful
+	trait = greedy
+
+	disallow_random_traits = yes
+
+	7843.12.27 = {
+		birth = yes
+	}
+	7855.1.1 = { trait = dragonrider } # Bantāzma (Done)
+	7865.12.10 = { add_spouse = Azantys_1_wife }
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Azantys_1_wife = {
+	name = Daenys
+	dynasty = dynn_Azantys
+	father = Azantys_1_dad
+	female = yes
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_diplomacy_3
+	trait = compassionate
+	trait = patient
+	trait = just
+	trait = calm
+
+	7850.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Azantys_2 = {
+	name = Aenorys # Son of Lord Aenys
+	dynasty = dynn_Azantys
+	father = Azantys_1
+	mother = Azantys_1_wife
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_stewardship_5
+	trait = intellect_good_3
+	trait = calm
+	trait = patient
+	trait = fickle
+	trait = temperate
+
+	disallow_random_traits = yes
+
+	7869.3.13 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Azantys_3 = {
+    name = Rhaella
+    dynasty = dynn_Azantys
+#   dna = Azantys_3
+    female = yes
+    father = Azantys_1
+    mother = Azantys_1_wife
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = rowdy
+
+    disallow_random_traits = yes
+
+    7880.1.1 = {
+        birth = yes
+    }
+    7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Azantys_4 = {
+    name = Aelor
+    dynasty = dynn_Azantys
+#   dna = Azantys_4
+    father = Azantys_1_dad
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = education_martial_4
+    trait = brave
+    trait = diligent
+    trait = ambitious
+    trait = wrathful
+
+    disallow_random_traits = yes
+
+    7862.1.1 = {
+        birth = yes
+    }
+    7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Azantys_5 = {
+    name = Daenaera
+    dynasty = dynn_Azantys
+#   dna = Azantys_5
+    female = yes
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = education_diplomacy_3
+    trait = compassionate
+    trait = patient
+    trait = just
+    trait = calm
+
+    disallow_random_traits = yes
+
+    7840.1.1 = {
+        birth = yes
+    }
+    7856.1.1 = {
+        add_spouse = Azantys_1_dad
+    }
+    7880.1.1 = {
+        death = yes
+    }
+}
+Issaros_1_dad = {
+	name = Daenor
+	dynasty = dynn_Issaros
+	#dna = Issaros_1_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_learning_4
+	trait = humble
+	trait = lazy
+	trait = generous
+	trait = zealous
+
+	disallow_random_traits = yes
+
+	7810.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7884.3.7 = {
+		death = yes
+	}
+}
+Issaros_1 = {
+	name = Daegon # Dragonlord 7/39 # HAS LAND
+	dynasty = dynn_Issaros
+	father = Issaros_1_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_learning_4
+	trait = zealous
+	trait = trusting
+	trait = just
+	trait = brave
+
+	disallow_random_traits = yes
+
+	7861.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7875.1.1 = { trait = dragonrider } # Ezarion (Done)
+	7876.2.5 = { add_spouse = Issaros_1_wife }
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Issaros_1_wife = {
+	name = Daenys 
+	dynasty = dynn_Issaros
+	father = Issaros_1_dad
+	female = yes
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_diplomacy_3
+	trait = compassionate
+	trait = patient
+	trait = just
+	trait = calm
+
+	7871.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Issaros_2 = {
+	name = Aerion # Son of Lord Daegon
+	dynasty = dynn_Issaros
+	father = Issaros_1
+	mother = Issaros_1_wife
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = curious
+	trait = intellect_good_2
+	trait = ambitious
+
+	disallow_random_traits = yes
+
+	7876.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Issaros_3 = {
+    name = Aelor
+    dynasty = dynn_Issaros
+#   dna = Issaros_3
+    father = Issaros_1_dad
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = education_martial_4
+    trait = brave
+    trait = diligent
+    trait = ambitious
+
+    disallow_random_traits = yes
+
+    7863.5.10 = {
+        birth = yes
+    }
+    7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Issaros_4 = {
+    name = Rhaena
+    dynasty = dynn_Issaros
+#   dna = Issaros_4
+    female = yes
+    mother = Issaros_1_wife
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = bossy
+
+    disallow_random_traits = yes
+
+    7880.8.22 = {
+        birth = yes
+    }
+    7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Issaros_5 = {
+    name = Aelinor
+    dynasty = dynn_Issaros
+#   dna = Issaros_5
+    female = yes
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = education_diplomacy_3
+    trait = generous
+    trait = patient
+    trait = just
+    trait = humble
+
+    disallow_random_traits = yes
+
+    7840.4.14 = {
+        birth = yes
+    }
+    7857.1.1 = {
+        add_spouse = Issaros_1_dad
+    }
+    7890.6.30 = {
+        death = yes
+    }
+}
+Jaelarys_1_dad = {
+	name = Aerys
+	dynasty = dynn_Jaelarys
+	#dna = Jaelarys_1_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_intrigue_1
+	trait = forgiving
+	trait = trusting
+	trait = generous
+	trait = content
+	trait = intellect_bad_1
+
+	disallow_random_traits = yes
+
+	7792.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7872.3.7 = {
+		death = yes
+	}
+}
+Jaelarys_1 = {
+	name = Aerys # Dragonlord 8/39 # HAS LAND
+	dynasty = dynn_Jaelarys
+	father = Jaelarys_1_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_intrigue_5
+	trait = deceitful
+	trait = ambitious
+	trait = vengeful
+	trait = callous
+	trait = intellect_good_1
+	trait = shrewd
+
+	disallow_random_traits = yes
+
+	7865.1.1 = {
+		birth = yes
+	}
+	7878.1.1 = { trait = dragonrider } # Geratrix (Done)
+	7886.9.13 = { add_spouse = Jaelarys_1_wife }
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Jaelarys_1_wife = {
+	name = Joanna
+	dynasty = dynn_Jaelarys
+	father = Jaelarys_1_dad
+	female = yes
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_diplomacy_3
+	trait = compassionate
+	trait = patient
+	trait = just
+	trait = calm
+
+	7871.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Jaelarys_2 = {
+	name = Taerion
+	dynasty = dynn_Jaelarys
+	father = Jaelarys_1
+	mother = Jaelarys_1_wife
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = curious
+	trait = intellect_good_2
+	trait = dwarf
+
+	disallow_random_traits = yes
+
+	7887.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Jaelarys_3 = {
+    name = Maelor
+    dynasty = dynn_Jaelarys
+#   dna = Jaelarys_3
+    father = Jaelarys_1_dad
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = education_intrigue_3
+    trait = deceitful
+    trait = ambitious
+    trait = paranoid
+    trait = sadistic
+
+    disallow_random_traits = yes
+
+    7868.9.15 = {
+        birth = yes
+    }
+    7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Jaelarys_4 = {
+    name = Rhaella
+    dynasty = dynn_Jaelarys
+#   dna = Jaelarys_4
+    female = yes
+    mother = Jaelarys_1_wife
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = curious
+
+    disallow_random_traits = yes
+
+    7882.3.20 = {
+        birth = yes
+    }
+    7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Jaelarys_5 = {
+    name = Aelinor
+    dynasty = dynn_Jaelarys
+#   dna = Jaelarys_5
+    female = yes
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = education_diplomacy_3
+    trait = compassionate
+    trait = patient
+    trait = just
+    trait = calm
+
+    disallow_random_traits = yes
+
+    7842.7.11 = {
+        birth = yes
+    }
+    7859.1.1 = {
+        add_spouse = Jaelarys_1_dad
+    }
+    7892.1.1 = {
+        death = yes
+    }
+}
+Zalarys_1_dad = {
+	name = Vaemys
+	dynasty = dynn_Zalarys
+	#dna = Zalarys_1_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_stewardship_2
+	trait = greedy
+	trait = honest
+	trait = just
+	trait = compassionate
+
+	disallow_random_traits = yes
+
+	7789.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7862.3.7 = {
+		death = yes
+	}
+}
+Zalarys_1 = {
+	name = Vaegon # Dragonlord 9/39 # HAS LAND
+	dynasty = dynn_Zalarys
+	father = Zalarys_1_dad
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_4
+	trait = patient
+	trait = authoritative
+	trait = diligent
+
+	disallow_random_traits = yes
+
+	7858.1.1 = {
+		birth = yes
+	}
+	7871.1.1 = { trait = dragonrider } # Katla (Done)
+	7876.2.5 = { add_spouse = Zalarys_1_wife }
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Zalarys_1_wife = {
+	name = Daenys
+	dynasty = dynn_Zalarys
+	father = Zalarys_1_dad
+	female = yes
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_diplomacy_3
+	trait = compassionate
+	trait = patient
+	trait = just
+	trait = calm
+
+	7856.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Zalarys_2 = {
+	name = Vaerion
+	dynasty = dynn_Zalarys
+	father = Zalarys_1
+	mother = Zalarys_1_wife
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_intrigue_3
+	trait = intellect_good_1
+	trait = ambitious
+	trait = diligent
+	trait = arrogant
+	trait = wrathful
+
+	disallow_random_traits = yes
+
+	7870.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Zalarys_3 = {
+    name = Baela
+    dynasty = dynn_Zalarys
+#   dna = Zalarys_3
+    female = yes
+    mother = Zalarys_1_wife
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = curious
+
+    disallow_random_traits = yes
+
+    7880.6.5 = {
+        birth = yes
+    }
+    7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Zalarys_4 = {
+    name = Maegon
+    dynasty = dynn_Zalarys
+#   dna = Zalarys_4
+    father = Zalarys_1_dad
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = education_martial_4
+    trait = brave
+    trait = diligent
+    trait = ambitious
+
+    disallow_random_traits = yes
+
+    7865.3.12 = {
+        birth = yes
+    }
+    7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Zalarys_5 = {
+    name = Aelinor
+    dynasty = dynn_Zalarys
+#   dna = Zalarys_5
+    female = yes
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = education_intrigue_3
+    trait = deceitful
+    trait = ambitious
+    trait = paranoid
+    trait = sadistic
+
+    disallow_random_traits = yes
+
+    7845.1.1 = {
+        birth = yes
+    }
+    7861.1.1 = {
+        add_spouse = Zalarys_1_dad
+    }
+    7890.1.1 = {
+        death = yes
+    }
+}
+Vaeritrix_1_dad = {
+	name = Aegon
+	dynasty = dynn_Vaeritrix
+	#dna = Vaeritrix_1_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_1
+	trait = calm
+	trait = generous
+	trait = diligent
+	trait = arrogant
+
+	disallow_random_traits = yes
+
+	7812.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7872.3.7 = {
+		death = yes
+	}
+}
+Vaeritrix_1 = {
+	name = Aelyx # Dragonlord 10/39 # HAS LAND
+	dynasty = dynn_Vaeritrix
+	father = Vaeritrix_1_dad
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_learning_4
+	trait = patient
+	trait = chaste
+	trait = inquisitive
+	trait = stubborn
+	trait = twin
+
+	disallow_random_traits = yes
+
+	7871.1.1 = {
+		birth = yes
+	}
+	7886.12.16 = { add_spouse = Vaeritrix_1_wife }
+	7887.1.1 = { trait = dragonrider } # Gravyx (Done)
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Vaeritrix_1_wife = {
+	name = Aelyssa
+	dynasty = dynn_Vaeritrix
+	father = Vaeritrix_1_dad
+	female = yes
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_diplomacy_3
+	trait = compassionate
+	trait = patient
+	trait = just
+	trait = calm
+	trait = twin
+
+	disallow_random_traits = yes
+
+	7871.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Vaeritrix_2 = {
+	name = Aegon
+	dynasty = dynn_Vaeritrix
+	father = Vaeritrix_1
+	mother = Vaeritrix_1_wife
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = rowdy
+	trait = intellect_good_2
+
+	disallow_random_traits = yes
+
+	7887.12.19 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Vaeritrix_3 = {
+    name = Rhaella
+    dynasty = dynn_Vaeritrix
+#   dna = Vaeritrix_3
+    female = yes
+    mother = Vaeritrix_1_wife
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = bossy
+
+    disallow_random_traits = yes
+
+    7883.8.20 = {
+        birth = yes
+    }
+    7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Vaeritrix_4 = {
+    name = Baelor
+    dynasty = dynn_Vaeritrix
+#   dna = Vaeritrix_4
+    father = Vaeritrix_1
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = curious
+
+    disallow_random_traits = yes
+
+    7885.5.15 = {
+        birth = yes
+    }
+    7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Vaeritrix_5 = {
+    name = Maegor
+    dynasty = dynn_Vaeritrix
+#   dna = Vaeritrix_5
+    father = Vaeritrix_1_dad
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = education_martial_3
+    trait = brave
+    trait = diligent
+    trait = ambitious
+
+    disallow_random_traits = yes
+
+    7865.9.18 = {
+        birth = yes
+    }
+    7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Aegustys_1_dad = {
+	name = Aeulius
+	dynasty = dynn_Aegustys
+	#dna = Aegustys_1_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_4
+	trait = brave
+	trait = ambitious
+	trait = diligent
+	trait = arrogant
+
+	disallow_random_traits = yes
+
+	7810.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7834.12.5 = { give_nickname = nick_caesar }
+	7872.3.7 = {
+		death = yes
+	}
+}
+Aegustys_1 = {
+	name = Octaevien # Dragonlord 11/39 # HAS LAND
+	dynasty = dynn_Aegustys
+	father = Aegustys_1_dad
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_diplomacy_5
+	trait = intellect_good_3
+	trait = shrewd
+	trait = ambitious
+	trait = diligent
+	trait = patient
+	trait = calm
+	trait = administrator
+
+	disallow_random_traits = yes
+
+	7868.1.1 = {
+		birth = yes
+	}
+	7872.3.7 = { give_nickname = nick_caesar }
+	7876.2.5 = { add_spouse = Aegustys_1_wife }
+	7878.1.1 = { trait = dragonrider } # Zaesar (Done)
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Aegustys_1_wife = {
+	name = Liviae # Wife of Lord Octaevien
+	dynasty = dynn_Aegustys
+	father = Aegustys_1_dad
+	female = yes
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_diplomacy_3
+	trait = compassionate
+	trait = patient
+	trait = just
+	trait = calm
+
+	7871.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Aegustys_2 = {
+	name = Tiberius # Son of Lord Octaevien
+	dynasty = dynn_Aegustys
+	father = Aegustys_1
+	mother = Aegustys_1_wife
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = curious
+	trait = intellect_good_2
+
+	disallow_random_traits = yes
+
+	7887.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Aegustys_3 = {
+    name = Aelinor
+    dynasty = dynn_Aegustys
+#   dna = Aegustys_3
+    female = yes
+    mother = Aegustys_1_wife
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = curious
+
+    disallow_random_traits = yes
+
+    7883.12.30 = {
+        birth = yes
+    }
+    7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Aegustys_4 = {
+    name = Valarr
+    dynasty = dynn_Aegustys
+#   dna = Aegustys_4
+    father = Aegustys_1
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = rowdy
+
+    disallow_random_traits = yes
+
+    7881.4.18 = {
+        birth = yes
+    }
+    7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Aegustys_5 = {
+    name = Rhaena
+    dynasty = dynn_Aegustys
+#   dna = Aegustys_5
+    female = yes
+
+    religion = valyrian_pan_freehold
+    culture = high_valyrian
+
+    trait = education_diplomacy_4
+    trait = compassionate
+    trait = patient
+    trait = just
+    trait = calm
+
+    disallow_random_traits = yes
+
+    7845.2.14 = {
+        birth = yes
+    }
+    7862.1.1 = {
+        add_spouse = Aegustys_1_dad
+    }
+    7895.7.21 = {
+        death = yes
+    }
+}
+Taenys_ancestor_1_dad = {
+	name = Vaerion
+	dynasty = dynn_Taenys
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	disallow_random_traits = yes
+	trait = sadistic
+	trait = deceitful
+	trait = authoritative
+	trait = education_intrigue_3
+	trait = hunchbacked
+	7792.4.10 = { birth = yes }
+	7808.4.10 = { add_spouse = Taenys_ancestor_2_mom }
+	7885.9.14 = { death = yes }
+}
+
+Taenys_ancestor_2_mom = {
+	name = Aelicia
+	dynasty = dynn_Taenys
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	female = yes
+	disallow_random_traits = yes
+	trait = lustful
+	trait = sadistic
+	trait = vengeful
+	trait = impatient
+	trait = education_intrigue_3
+	7782.3.20 = { birth = yes }
+	7808.4.10 = { add_spouse = Taenys_ancestor_1_dad }
+	7845.9.15 = { death = yes }
+}
+Taenys_1 = {
+	name = Viserion # Dragonlord 12/39 # HAS LAND
+	dynasty = dynn_Taenys
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+	father = Taenys_ancestor_1_dad
+
+	trait = education_intrigue_4
+	trait = deceitful
+	trait = sadistic
+	trait = paranoid
+	trait = vengeful
+
+	disallow_random_traits = yes
+
+	7832.1.1 = {
+		birth = yes
+	}
+	7854.1.1 = { trait = dragonrider } # Arostys (Done)
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Taenys_2 = {
+	name = Aenar 
+	dynasty = dynn_Taenys
+	father = Taenys_1
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_4
+	trait = intellect_good_2
+	trait = ambitious
+	trait = diligent
+	trait = arrogant
+	trait = vengeful
+	trait = twin
+
+	disallow_random_traits = yes
+
+	7854.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Taenys_3 = {
+	name = Aenys 
+	dynasty = dynn_Taenys
+	father = Taenys_1
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_4
+	trait = intellect_good_2
+	trait = ambitious
+	trait = diligent
+	trait = arrogant
+	trait = vengeful
+	trait = twin
+
+	disallow_random_traits = yes
+
+	7854.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Taenys_4 = {
+	name = Vaerion
+	dynasty = dynn_Taenys
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	father = Taenys_ancestor_1_dad
+	mother = Taenys_ancestor_2_mom
+	disallow_random_traits = yes
+	trait = education_diplomacy_4
+	trait = intellect_good_1
+	trait = just
+	trait = patient
+	trait = stubborn
+	trait = forgiving
+	7820.1.2 = { birth = yes }
+	7838.1.2 = { add_spouse = Taenys_5 }
+	7890.2.1 = { death = yes }
+}
+
+Taenys_5 = {
+	name = Helaena
+	dynasty = dynn_Taenys
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	female = yes
+	father = Taenys_ancestor_1_dad
+	mother = Taenys_ancestor_2_mom
+	disallow_random_traits = yes
+	trait = education_learning_3
+	trait = inquisitive
+	trait = humble
+	trait = eccentric
+	trait = honest
+	trait = beauty_good_1
+	7822.1.2 = { birth = yes }
+	7838.1.2 = { add_spouse = Taenys_4 }
+	7894.2.1 = { death = yes }
+}
+
+Taenys_6 = {
+	name = Vaerys
+	dynasty = dynn_Taenys
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	father = Taenys_4
+	mother = Taenys_5
+	disallow_random_traits = yes
+	trait = intellect_good_2
+	trait = beauty_good_1
+	trait = education_intrigue_4
+	trait = calm
+	trait = deceitful
+	trait = patient
+	trait = ambitious
+	7851.2.4 = { birth = yes }
+	7875.7.12 = { add_spouse = Taenys_7 }
+	7897.6.8 = { death = yes }
+}
+
+Taenys_7 = {
+	name = Saera
+	dynasty = dynn_Taenys
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	female = yes
+	father = Taenys_4
+	mother = Taenys_5
+	disallow_random_traits = yes
+	trait = intellect_good_1
+	trait = education_diplomacy_3
+	trait = honest
+	trait = gregarious
+	trait = eccentric
+	trait = calm
+	7849.7.12 = { birth = yes }
+	7875.7.12 = { add_spouse = Taenys_6 }
+	7900.6.8 = { death = yes }
+}
+Zaldrizys_1_dad = {
+	name = Aemon
+	dynasty = dynn_Zaldrizys
+	#dna = Zaldrizys_1_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_4
+	trait = brave
+	trait = ambitious
+	trait = diligent
+	trait = arrogant
+
+	disallow_random_traits = yes
+
+	7769.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7854.3.7 = {
+		death = yes
+	}
+}
+Zaldrizys_1 = {
+	name = Aemon # Dragonlord 13/39 # HAS LAND
+	dynasty = dynn_Zaldrizys
+	father = Zaldrizys_1_dad
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_4
+	trait = impatient
+	trait = honest
+	trait = gregarious
+	trait = arbitrary
+
+	disallow_random_traits = yes
+
+	7846.1.1 = {
+		birth = yes
+	}
+	7864.3.5 = { add_spouse = Zaldrizys_1_wife } # Alysanne Zaldrizys
+	7865.1.1 = { trait = dragonrider } # Haeron (Done)
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Zaldrizys_1_wife = {
+	name = Alysanne # Wife of Lord Aemon
+	dynasty = dynn_Zaldrizys
+	father = Zaldrizys_1_dad
+	female = yes
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_diplomacy_3
+	trait = compassionate
+	trait = patient
+	trait = just
+	trait = calm
+
+	7849.7.20 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Zaldrizys_2 = {
+	name = Aerys # Son of Lord Aemon
+	dynasty = dynn_Zaldrizys
+	father = Zaldrizys_1
+	mother = Zaldrizys_1_wife
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_5
+	trait = intellect_good_2
+	trait = ambitious
+	trait = authoritative
+	trait = diligent
+	trait = vengeful
+
+	disallow_random_traits = yes
+	7871.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Vermaxos_1_dad = {
+	name = Rhaegar 
+	dynasty = dynn_Vermaxos
+	#dna = Vermaxos_1_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_4
+	trait = calm
+	trait = callous
+	trait = temperate
+	trait = arrogant
+
+	disallow_random_traits = yes
+
+	7789.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7874.3.7 = {
+		death = yes
+	}
+}
+Vermaxos_1 = {
+	name = Faegon # Dragonlord 14/39 # HAS LAND
+	dynasty = dynn_Vermaxos
+	father = Vermaxos_1_dad
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_learning_5
+	trait = zealous
+	trait = stubborn
+	trait = calm
+	trait = diligent
+
+	disallow_random_traits = yes
+
+	7857.4.17 = {
+		birth = yes
+	}
+	7873.4.17 = { add_spouse = Vermaxos_1_wife } # 
+	7877.1.1 = { trait = dragonrider } # Blackfyre (Done)
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Vermaxos_1_wife = {
+	name = Aelyssa # Wife of Lord Faegon
+	dynasty = dynn_Vermaxos
+	father = Vermaxos_1_dad
+	female = yes
+	
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_diplomacy_3
+	trait = beauty_good_2
+	trait = compassionate
+	trait = patient
+	trait = just
+	trait = calm
+
+	7852.7.20 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Paelinox_1_dad = {
+	name = Aenyx # Father of Lord Aegon
+	dynasty = dynn_Paelinox
+	#dna = Paelinox_1_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_4
+	trait = authoritative
+	trait = patient	
+	trait = diligent
+	trait = calm
+
+	disallow_random_traits = yes
+
+	7789.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7874.3.7 = {
+		death = yes
+	}
+}
+Paelinox_1 = {
+	name = Aegon # Dragonlord 15/39 # HAS LAND
+	dynasty = dynn_Paelinox
+	father = Paelinox_1_dad
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_4
+	trait = vengeful
+	trait = ambitious
+	trait = callous
+	trait = temperate
+
+	disallow_random_traits = yes
+
+	7869.10.25 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7882.1.1 = { trait = dragonrider } # Pertinax (Done)
+	7885.1.1 = { add_spouse = Paelinox_1_wife } 
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Paelinox_1_wife = {
+	name = Aenys # Wife of Lord Aegon
+	dynasty = dynn_Paelinox
+	father = Paelinox_1_dad
+	female = yes
+	#dna = Paelinox_1_wife
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_diplomacy_3
+	trait = gregarious
+	trait = compassionate
+	trait = patient
+	trait = just
+
+	disallow_random_traits = yes
+
+	7870.12.25 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Paelinox_2 = {
+	name = Aenys # Son of Lord Aegon
+	dynasty = dynn_Paelinox
+	father = Paelinox_1
+	mother = Paelinox_1_wife
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = rowdy
+	trait = intellect_good_2
+	trait = strong
+
+	disallow_random_traits = yes
+
+	7887.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Ramessid_1_dad = {
+	name = Ramesys # Father of Lord Ramesys
+	dynasty = dynn_Ramessid
+	#dna = Ramessid_1_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_4
+	trait = brave
+	trait = ambitious
+	trait = diligent
+	trait = arrogant
+	trait = strong
+
+	disallow_random_traits = yes
+
+	7789.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7885.5.1 = {
+		death = yes
+	}
+}
+Ramessid_1 = {
+	name = Ramesys # Dragonlord 16/39 # HAS LAND
+	dynasty = dynn_Ramessid
+	father = Ramessid_1_dad
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_5
+	trait = arrogant
+	trait = ambitious
+	trait = brave
+	trait = patient
+	trait = august
+	trait = strong
+	trait = shrewd
+
+	disallow_random_traits = yes
+
+	7857.1.1 = {
+		birth = yes
+	}
+	7871.1.1 = { trait = dragonrider } # Seti (Done)
+	7885.10.3 = { give_nickname = nick_ozymandias }
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Ramessid_1_wife = {
+	name = Nefertaery # Wife of Lord Ramesys
+	dynasty = dynn_Ramessid
+	father = Ramessid_1_dad
+	#dna = Ramessid_1_wife
+	female = yes
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_diplomacy_3
+	trait = beauty_good_2
+	trait = charming
+	trait = compassionate
+	trait = patient
+	trait = just
+	trait = calm
+
+	disallow_random_traits = yes
+
+	7859.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7875.1.1 = { add_spouse = Ramessid_1 } # Ramesys
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Ramessid_2 = {
+	name = Ay # Son of Lord Ramesys
+	dynasty = dynn_Ramessid
+	father = Ramessid_1
+	mother = Ramessid_1_wife
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = rowdy
+	trait = beauty_good_2
+	trait = brave
+
+	disallow_random_traits = yes
+
+	7879.4.7 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+
+# OLD VALYRIA
+Roloros_1 = {
+	name = Maegon # Dragonlord 17/39 # HAS LAND
+	dynasty = dynn_Roloros
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_learning_1
+	trait = craven
+	trait = lazy
+	trait = content
+
+	disallow_random_traits = yes
+
+	7808.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7822.1.1 = { trait = dragonrider } # Ronyx (C)
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Roloros_2 = {
+	name = Alyssa
+	dynasty = dynn_Roloros
+	female = yes
+	father = Roloros_1
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_intrigue_3
+	trait = greedy
+	trait = humble
+	trait = shrewd
+
+	disallow_random_traits = yes
+
+	7864.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Roloros_3 = {
+	name = Maegon
+	dynasty = dynn_Roloros
+	father = Roloros_1
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_stewardship_5
+	trait = greedy
+	trait = deceitful
+	trait = shy
+	trait = ambitious
+
+	disallow_random_traits = yes
+
+	7854.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7887.12.12 = { add_spouse = Roloros_2 }
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+
+Aderion_1 = {
+	name = Daria # Dragonlord 18/39 # HAS LAND
+	dynasty = dynn_Aderion
+	female = yes
+	
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_diplomacy_3
+	trait = calm
+	trait = lustful
+	trait = just
+	trait = zealous
+
+	disallow_random_traits = yes
+
+	7818.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7838.1.1 = { trait = dragonrider } # Orix (C)
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+
+Aderion_2 = {
+	name = Dario
+	dynasty = dynn_Aderion
+	mother = Aderion_1
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_4
+	trait = brave
+	trait = diligent
+	trait = wrathful
+	trait = ambitious
+
+	disallow_random_traits = yes
+
+	7840.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Doros_1_dad = {
+	name = Aemon
+	dynasty = dynn_Doros
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_2
+	trait = fickle
+	trait = paranoid
+	trait = wrathful
+	trait = cynical
+
+	disallow_random_traits = yes
+
+	7753.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7832.1.1 = {
+		death = yes
+	}
+}
+Doros_1 = {
+	name = Ebiron # Dragonlord 19/39 # HAS LAND
+	dynasty = dynn_Doros
+	father = Doros_1_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_learning_2
+	trait = zealous
+	trait = content
+	trait = honest
+	trait = forgiving
+
+	disallow_random_traits = yes
+
+	7820.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7828.1.1 = { give_nickname = nick_the_exile }
+	7832.1.1 = { trait = dragonrider } # Noctus (C)
+	7834.2.6 = { add_spouse = Doros_1_wife }
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Doros_1_wife = {
+	name = Alyssa
+	dynasty = dynn_Doros
+	father = Doros_1_dad
+	female = yes
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_intrigue_3
+	trait = greedy
+	trait = paranoid
+	trait = deceitful
+	trait = callous
+
+	disallow_random_traits = yes
+
+	7822.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Doros_2 = {
+	name = Aemon
+	dynasty = dynn_Doros
+	father = Doros_1
+	mother = Doros_1_wife
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_3
+	trait = brave
+	trait = gregarious
+	trait = zealous
+	trait = temperate
+
+	disallow_random_traits = yes
+
+	7840.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Doros_3 = {
+	name = Aemond
+	dynasty = dynn_Doros
+	father = Doros_1
+	mother = Doros_1_wife
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_stewardship_3
+	trait = diligent
+	trait = patient
+	trait = ambitious
+	trait = greedy
+
+	disallow_random_traits = yes
+
+	7845.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Doros_4 = {
+	name = Daemon
+	dynasty = dynn_Doros
+	father = Doros_1
+	mother = Doros_1_wife
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_intrigue_3
+	trait = deceitful
+	trait = paranoid
+	trait = arbitrary
+	trait = sadistic
+
+	disallow_random_traits = yes
+
+	7848.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Danderion_1 = {
+	name = Alion
+	dynasty = dynn_Danderion # Dragonlord 20/39 # HAS LAND
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_3
+	trait = brave
+	trait = wrathful
+	trait = lustful
+	trait = ambitious
+
+	disallow_random_traits = yes
+
+	7850.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7864.1.1 = { trait = dragonrider } # Draxxis (C)
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Danderion_2 = {
+	name = Aelys
+	dynasty = dynn_Danderion
+	father = Danderion_1
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_5
+	trait = honest
+	trait = calm
+	trait = callous
+	trait = ambitious
+
+	disallow_random_traits = yes
+
+	7870.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+
+Vyros_1 = {
+	name = Jaerjaerys # Dragonlord 21/39 # HAS LAND
+	dynasty = dynn_Vyros
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_diplomacy_2
+	trait = fickle
+	trait = trusting
+	trait = shy
+	trait = compassionate
+	trait = intellect_bad_2
+	trait = physique_bad_1
+
+	disallow_random_traits = yes
+
+	7838.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7869.1.1 = { trait = dragonrider } # Binx (C)
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+
+Vyros_2 = {
+	name = Rheaheamon
+	dynasty = dynn_Vyros
+	father = Vyros_1
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = charming
+	trait = ambitious
+
+	disallow_random_traits = yes
+
+	7879.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+
+Vyros_3 = {
+	name = Aemon
+	dynasty = dynn_Vyros
+	father = Vyros_1
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_4
+	trait = rowdy
+	trait = brave
+	trait = calm
+	trait = ambitious
+
+	disallow_random_traits = yes
+
+	7874.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+
+Festerion_1 = {
+	name = Karlerys # Dragonlord 22/39 # HAS LAND
+	dynasty = dynn_Festerion
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_learning_5
+	trait = ambitious
+	trait = zealous
+	trait = patient
+	trait = stubborn
+
+	disallow_random_traits = yes
+
+	7788.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7805.1.1 = { trait = dragonrider } # Maraxis (C)
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+
+Festerion_2 = {
+	name = Targan
+	dynasty = dynn_Festerion
+	father = Festerion_1
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_5
+	trait = brave
+	trait = calm
+	trait = zealous
+	trait = ambitious
+
+	disallow_random_traits = yes
+
+	7858.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+#Konaryan_1 = {
+#	name = Maemon # Dragonlord 23/39 # FREEANDREMOVED CUZ I FORGOT TO ACCOUNT FOR 4 PREEXISTING
+#	dynasty = dynn_Konaryan
+#
+#	religion = valyrian_pan_freehold
+#	culture = high_valyrian
+#
+#	trait = education_martial_3
+#	trait = brave
+#	trait = generous
+#	trait = just
+#	trait = content
+#	trait = intellect_bad_1
+#
+#	disallow_random_traits = yes
+#
+#	7848.1.1 = {
+#		birth = yes
+#	add_character_flag = has_scripted_appearance
+#	}
+#	7878.1.1 = { trait = dragonrider } # Verdax (NC)
+#}
+Bargerion_1 = {
+	name = Illio # Dragonlord 24/39 # HAS LAND
+	dynasty = dynn_Bargerion
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_4
+	trait = brave
+	trait = diligent
+	trait = wrathful
+	trait = ambitious
+
+	disallow_random_traits = yes
+
+	7859.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7873.1.1 = { give_nickname = nick_the_verdant }
+	7868.1.1 = { trait = dragonrider } # Seiless (C)
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Bargerion_2 = {
+	name = Illaerys
+	dynasty = dynn_Bargerion
+	father = Bargerion_1
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_stewardship_4
+	trait = bossy
+	trait = greedy
+	trait = paranoid
+	trait = ambitious
+	trait = arbitrary
+
+	disallow_random_traits = yes
+
+	7874.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Tavaros_1 = {
+	name = Aemor # Dragonlord 28/39 # HAS LAND
+	dynasty = dynn_Tavaros
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_3
+	trait = brave
+	trait = diligent
+	trait = wrathful
+	trait = ambitious
+
+	disallow_random_traits = yes
+
+	7858.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7868.1.1 = { trait = dragonrider } # Stix (C)
+	7886.9.2 = { add_spouse = Tavaros_2 }
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Tavaros_2 = {
+	name = Musara
+	dynasty = dynn_Tavaros
+	father = Tavaros_1
+	female = yes
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_diplomacy_3
+	trait = fickle
+	trait = trusting
+	trait = shy
+	trait = compassionate
+
+	7872.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+######## last done
+Heilor_1n2_dad = {
+	name = Aegar 
+	dynasty = dynn_Heilor
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_4
+	trait = brave
+	trait = diligent
+	trait = wrathful
+	trait = ambitious
+
+	disallow_random_traits = yes
+
+	7832.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7871.12.30 = {
+		death = yes
+	}
+}
+Heilor_1 = {
+	name = Aegar # Dragonlord 29/39 # HAS LAND
+	dynasty = dynn_Heilor
+	father = Heilor_1n2_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_5
+	trait = brave
+	trait = diligent
+	trait = calm
+	trait = ambitious
+	trait = twin
+
+	disallow_random_traits = yes
+
+	7858.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7874.10.25 = { add_spouse = Heilor_2 }
+	7868.1.1 = { trait = dragonrider } # Vexion (C)
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Heilor_2 = {
+	name = Sumara
+	dynasty = dynn_Heilor
+	female = yes
+	father = Heilor_1n2_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_intrigue_3
+	trait = greedy
+	trait = arrogant
+	trait = deceitful
+	trait = callous
+	trait = twin
+
+	7858.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Vaemerian_1 = {
+	name = Alysanne
+	dynasty = dynn_Vaemerian
+	female = yes
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_diplomacy_4
+	trait = gregarious
+	trait = diligent
+	trait = generous
+	trait = compassionate
+
+	disallow_random_traits = yes
+
+	7818.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7874.4.5 = { add_spouse = Vaemerian_2 }
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Vaemerian_2 = {
+	name = Maron # Dragonlord 30/39 # HAS LAND
+	dynasty = dynn_Vaemerian
+	mother = Vaemerian_1
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_intrigue_4
+	trait = brave
+	trait = temperate
+	trait = deceitful
+	trait = authoritative
+
+	disallow_random_traits = yes
+
+	7857.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7871.1.1 = { trait = dragonrider } # Nyx (C)
+	7874.4.5 = { give_nickname = nick_the_bear }
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Vaemerian_3 = {
+	name = Vaegon
+	dynasty = dynn_Vaemerian
+	father = Vaemerian_2
+	mother = Vaemerian_1
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_stewardship_3
+	trait = bossy
+	trait = calm
+	trait = authoritative
+	trait = patient
+	trait = ambitious
+
+	disallow_random_traits = yes
+
+	7874.12.5 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Zumeryon_1 = {
+	name = Maegor # Dragonlord 31/39 # HAS LAND
+	dynasty = dynn_Zumeryon
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_5
+	trait = brave
+	trait = authoritative
+	trait = wrathful
+	trait = ambitious
+
+	disallow_random_traits = yes
+
+	7844.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7868.1.1 = { trait = dragonrider } # Wormax (C)
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Zumeryon_2 = {
+	name = Aerion
+	dynasty = dynn_Zumeryon
+	father = Zumeryon_1
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = rowdy
+
+	trait = brave
+
+	disallow_random_traits = yes
+
+	7880.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Jultarion_1n2_dad = {
+	name = Gaerys
+	dynasty = dynn_Jultarion
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_learning_3
+	trait = zealous
+	trait = content
+	trait = honest
+	trait = forgiving
+
+	disallow_random_traits = yes
+
+	7788.5.13 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7871.5.13 = {
+		death = yes
+	}
+}
+Jultarion_1 = {
+	name = Faedor # Dragonlord 32/39 # HAS LAND
+	dynasty = dynn_Jultarion
+	father = Jultarion_1n2_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_4
+	trait = brave
+	trait = diligent
+	trait = wrathful
+	trait = ambitious
+
+	disallow_random_traits = yes
+
+	7848.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7865.4.11 = { add_spouse = Jultarion_2 }
+	7870.1.1 = { trait = dragonrider } # Gorax (C)
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Jultarion_2 = {
+	name = Thaelene
+	female = yes
+	dynasty = dynn_Jultarion
+	father = Jultarion_1n2_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_intrigue_4
+	trait = sadistic
+	trait = deceitful
+	trait = ambitious
+	trait = paranoid
+
+	disallow_random_traits = yes
+
+	7849.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Hanserion_1n2_dad = {
+	name = Faerys
+	dynasty = dynn_Hanserion
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_diplomacy_1
+	trait = trusting
+	trait = shy
+	trait = compassionate
+
+	disallow_random_traits = yes
+
+	7838.1.12 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7869.1.11 = {
+		death = {
+			death_reason = death_poison
+			killer = Hanserion_2 
+		}
+	}
+}
+Hanserion_1 = {
+	name = Vargon # Dragonlord 33/39 # HAS LAND
+	dynasty = dynn_Hanserion
+	father = Hanserion_1n2_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_3
+	trait = brave
+	trait = diligent
+	trait = wrathful
+	trait = ambitious
+
+	disallow_random_traits = yes
+
+	7853.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7868.1.1 = { give_nickname = nick_the_cat }
+	7869.1.12 = { add_spouse = Hanserion_2 }
+	7869.1.1 = { trait = dragonrider } # Barthor (C)
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Hanserion_2 = {
+	name = Sienya
+	dynasty = dynn_Hanserion
+	female = yes
+	father = Hanserion_1n2_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_intrigue_2
+	trait = deceitful
+	trait = ambitious
+	trait = paranoid
+	trait = lustful
+	trait = murderer
+	trait = kinslayer
+
+	disallow_random_traits = yes
+
+	7854.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Ullaryon_1n2_dad = {
+	name = Ilytherion
+	dynasty = dynn_Ullaryon
+
+	religion = valyrian_pan_freehold
+	culture =  high_valyrian
+
+	trait = education_learning_2
+	trait = zealous
+	trait = content
+	trait = honest
+	trait = forgiving
+
+	disallow_random_traits = yes
+	
+	7786.11.5 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7850.1.1 = { death = { death_reason = death_old_age } }
+}
+Ullaryon_1 = {
+	name = Ilythra # Dragonlord 34/39 # HAS LAND
+	dynasty = dynn_Ullaryon
+	father = Ullaryon_1n2_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_4
+	trait = lustful
+	trait = temperate
+	trait = cynical
+	trait = authoritative
+
+	disallow_random_traits = yes
+
+	7805.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7833.1.1 = { add_spouse = Ullaryon_1_wife }
+	7860.1.1 = { trait = dragonrider } # Rexiax (C)
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Ullaryon_1_wife = {
+	name = Lythera
+	female = yes
+	dynasty = dynn_Ullaryon
+	father = Ullaryon_1n2_dad
+
+	trait = education_intrigue_2
+	trait = gluttonous
+	trait = patient
+	trait = deceitful
+	trait = stubborn
+
+	disallow_random_traits = yes
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	7815.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Ullaryon_2 = {
+	name = Ilytherion
+	dynasty = dynn_Ullaryon
+	father = Ullaryon_1
+	mother = Ullaryon_1_wife
+	
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_intrigue_5
+	trait = calm
+	trait = patient
+	trait = deceitful
+	trait = ambitious
+
+	disallow_random_traits = yes
+
+	7863.5.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Penloryon_1n2_dad = {
+	name = Soryllarion
+	dynasty = dynn_Penloryon
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_learning_2
+	trait = zealous
+	trait = content
+	trait = honest
+	trait = forgiving
+
+	disallow_random_traits = yes
+
+	7821.4.12 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7871.1.1 = {
+		death = yes
+	}
+}
+Penloryon_1 = {
+	name = Sorylla # Dragonlord 35/39 # HAS LAND
+	dynasty = dynn_Penloryon
+	female = yes
+	father = Penloryon_1n2_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_3
+	trait = vengeful
+	trait = greedy
+	trait = wrathful
+	trait = honest
+
+	disallow_random_traits = yes
+
+	7865.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7864.1.1 = { give_nickname = nick_deaf }
+	7880.1.1 = { trait = dragonrider } # Neltrix (C)
+	7882.3.6 = { add_spouse = Penloryon_2 }
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Penloryon_2 = {
+	name = Xelys
+	dynasty = dynn_Penloryon
+	father = Penloryon_1n2_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_diplomacy_3
+	trait = content
+	trait = lustful
+	trait = lazy
+	trait = forgiving
+
+	disallow_random_traits = yes
+
+	7866.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Vuloryon_1_dad = {
+	name = Zaelys
+	dynasty = dynn_Vuloryon
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_2
+	trait = fickle
+	trait = paranoid
+	trait = wrathful
+	trait = cynical
+
+	disallow_random_traits = yes
+
+	7796.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7877.1.1 = {
+		death = yes
+	}
+}
+Vuloryon_1 = {
+	name = Zaelor # Dragonlord 36/39 # HAS LAND
+	dynasty = dynn_Vuloryon
+	father = Vuloryon_1_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_stewardship_4
+	trait = calm
+	trait = temperate
+	trait = patient
+	trait = blind
+
+	disallow_random_traits = yes
+
+	7863.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7871.1.1 = { give_nickname = nick_the_blind }
+	7886.1.1 = { trait = dragonrider } # Vhalix (C)
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Vuloryon_1_wife = {
+	name = Aemma
+	dynasty = dynn_Vuloryon
+	female = yes
+	father = Vuloryon_1_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_intrigue_3
+	trait = greedy
+	trait = paranoid
+	trait = deceitful
+	trait = callous
+
+	disallow_random_traits = yes
+
+	7866.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Vuloryon_2 = {
+	name = Aemon
+	dynasty = dynn_Vuloryon
+	father = Vuloryon_1
+	mother = Vuloryon_1_wife
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = rowdy
+	trait = ambitious
+
+	disallow_random_traits = yes
+
+	7880.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Orarion_1n2_dad = {
+	name = Loryx
+	dynasty = dynn_Orarion
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_learning_2
+	trait = zealous
+	trait = content
+	trait = honest
+	trait = forgiving
+
+	disallow_random_traits = yes
+
+	7836.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7881.1.1 = {
+		death = yes
+	}
+}
+Orarion_1 = {
+	name = Loryx # Dragonlord 37/39 # HAS LAND
+	dynasty = dynn_Orarion
+	father = Orarion_1n2_dad
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_2
+	trait = just
+	trait = impatient
+	trait = cynical
+	trait = stubborn
+
+	disallow_random_traits = yes
+
+	7864.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7868.1.1 = {
+		give_nickname = nick_the_bloody
+		add_spouse = Orarion_2
+	}
+	7879.1.1 = { trait = dragonrider } # Rend (C)
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Orarion_2 = {
+	name = Aemma
+	female = yes
+	father = Orarion_1n2_dad
+	dynasty = dynn_Orarion
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_stewardship_2
+	trait = lustful
+	trait = temperate
+	trait = cynical
+	trait = authoritative
+
+	7867.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Musarion_1 = {
+	name = Vaemir # Dragonlord 38/39 # HAS LAND
+	dynasty = dynn_Musarion
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_5
+	trait = sadistic
+	trait = authoritative
+	trait = rude
+
+	disallow_random_traits = yes
+
+	7851.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7864.1.1 = { give_nickname = nick_the_poor }
+	7869.1.1 = { trait = dragonrider } # Tearmax (C)
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Musarion_2 = {
+	name = Geraldos
+	dynasty = dynn_Musarion
+	father = Musarion_1
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_intrigue_4
+	trait = deceitful
+	trait = paranoid
+	trait = ambitious
+	trait = sadistic
+
+	disallow_random_traits = yes
+
+	7867.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Nilfarion_1 = {
+	name = Coryella # Dragonlord 39/39 # HAS LAND
+	dynasty = dynn_Nilfarion
+	female = yes
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_learning_5
+	trait = patient
+	trait = diligent
+	trait = calm
+	trait = just
+
+	disallow_random_traits = yes
+
+	7848.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7869.1.1 = { trait = dragonrider } # Verox (C)
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+Nilfarion_2 = {
+	name = Coaerys
+	dynasty = dynn_Nilfarion
+	mother = Nilfarion_1
+
+	religion = valyrian_pan_freehold
+	culture = high_valyrian
+
+	trait = education_martial_5
+	trait = brave
+	trait = diligent
+	trait = wrathful
+	trait = ambitious
+
+	disallow_random_traits = yes
+
+	7868.1.1 = {
+		birth = yes
+		add_character_flag = has_scripted_appearance
+	}
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}

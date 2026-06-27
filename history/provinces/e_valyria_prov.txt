@@ -1,0 +1,4249 @@
+﻿#################### b_aeryxor = ###################
+############# c_aelzor = - d_noghoqitta = #############
+8219 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+	7824.1.1 = {
+		buildings = { castle_05 hill_forts_06 barracks_03 }
+	}
+}
+#################### b_baelior = ###################
+############# c_aelzor = - d_noghoqitta = #############
+8220 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_caerynar = ###################
+############# c_aelzor = - d_noghoqitta = #############
+8221 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_daelys = ###################
+############# c_aelzor = - d_noghoqitta = #############
+8222 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_erythor = ###################
+############# c_aelzor = - d_noghoqitta = #############
+8223 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_faelion = ###################
+############# c_velys = - d_noghoqitta = #############
+8224 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_gaenor = ###################
+############# c_velys = - d_noghoqitta = #############
+8225 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_haeroxis = ###################
+############# c_velys = - d_noghoqitta = #############
+8226 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_ilythar = ###################
+############# c_daelthor = - d_valyria = #############
+8227 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_jaelonys = ###################
+############# c_daelthor = - d_valyria = #############
+8228 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_kaerthos = ###################
+############# c_daelthor = - d_valyria = #############
+8229 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_laenysor = ###################
+############# c_daelthor = - d_valyria = #############
+8230 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_maerion = ###################
+############# c_daelthor = - d_valyria = #############
+8231 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_naelion = ###################
+############# c_rhaenor = - d_valyria = #############
+8232 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_oeryxos = ###################
+############# c_rhaenor = - d_valyria = #############
+8233 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_paerysor = ###################
+############# c_rhaenor = - d_valyria = #############
+8234 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_qaenyth = ###################
+############# c_naeryth = - d_valyria = #############
+8235 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_raelion = ###################
+############# c_naeryth = - d_valyria = #############
+8236 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_saelthos = ###################
+############# c_naeryth = - d_valyria = #############
+8237 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_taerynox = ###################
+############# c_naeryth = - d_valyria = #############
+8238 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_ulethor = ###################
+############# c_naeryth = - d_valyria = #############
+8239 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_vaerynar = ###################
+############# c_valthar = - d_valyria = #############
+8240 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_xaelys = ###################
+############# c_valthar = - d_valyria = #############
+8241 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_yaerithos = ###################
+############# c_oelyth = - d_valyria = #############
+8242 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_zaenor = ###################
+############# c_oelyth = - d_valyria = #############
+8243 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_baeloris = ###################
+############# c_oelyth = - d_valyria = #############
+8244 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_daeryx = ###################
+############# c_oelyth = - d_valyria = #############
+8245 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_faelthys = ###################
+############# c_oelyth = - d_valyria = #############
+8246 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_gaelthar = ###################
+############# c_qaenor = - d_valyria = #############
+8247 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_haerynor = ###################
+############# c_qaenor = - d_valyria = #############
+8248 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_ilythion = ###################
+############# c_qaenor = - d_valyria = #############
+8249 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_jaelarys = ###################
+############# c_qaenor = - d_valyria = #############
+8250 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_kaerysor = ###################
+############# c_qaenor = - d_valyria = #############
+8251 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_laerithos = ###################
+############# c_gaelthor = - d_valyria = #############
+8252 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_maelyxor = ###################
+############# c_gaelthor = - d_valyria = #############
+8253 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_naerysor = ###################
+############# c_gaelthor = - d_valyria = #############
+8254 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_oerysor = ###################
+############# c_haelyx = - d_valyria = #############
+8255 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_paenor = ###################
+############# c_haelyx = - d_valyria = #############
+8256 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_qaelion = ###################
+############# c_haelyx = - d_valyria = #############
+8257 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_raethor = ###################
+############# c_haelyx = - d_valyria = #############
+8258 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_saelion = ###################
+############# c_maenor = - d_valyria = #############
+8259 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_taeryx = ###################
+############# c_maenor = - d_valyria = #############
+8260 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_ulyxor = ###################
+############# c_maenor = - d_valyria = #############
+8261 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_vaeryx = ###################
+############# c_xaeryth = - d_valyria = #############
+8262 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_xaelythos = ###################
+############# c_xaeryth = - d_valyria = #############
+8263 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_yaenyth = ###################
+############# c_xaeryth = - d_valyria = #############
+8264 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_zaelthar = ###################
+############# c_vaelythor = - d_oregon = #############
+8265 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_aerionor = ###################
+############# c_vaelythor = - d_oregon = #############
+8266 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_daelith = ###################
+############# c_vaelythor = - d_oregon = #############
+8267 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_faelynor = ###################
+############# c_vaelythor = - d_oregon = #############
+8268 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_aelthar = ###################
+############# c_yrnith = - d_paletilla = #############
+8269 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_brynox = ###################
+############# c_yrnith = - d_valyria = #############
+8270 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_caelynor = ###################
+############# c_yrnith = - d_valyria = #############
+8271 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_daerithon = ###################
+############# c_yrnith = - d_valyria = #############
+8272 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_erylxar = ###################
+############# c_zhaenor = - d_valyria = #############
+8273 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_faelyth = ###################
+############# c_zhaenor = - d_valyria = #############
+8274 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_gaerynox = ###################
+############# c_zhaenor = - d_valyria = #############
+8275 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_haelynor = ###################
+############# c_zhaenor = - d_valyria = #############
+8276 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_ilyxor = ###################
+############# c_laerion = - d_mazioragon = #############
+8277 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_jaelrys = ###################
+############# c_laerion = - d_mazioragon = #############
+8278 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_kaerion = ###################
+############# c_laerion = - d_mazioragon = #############
+8279 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_laenothor = ###################
+############# c_laerion = - d_mazioragon = #############
+8280 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_maenoxar = ###################
+############# c_saelzor = - d_mazioragon = #############
+8281 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_naelythor = ###################
+############# c_saelzor = - d_mazioragon = #############
+8282 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_oelyxar = ###################
+############# c_saelzor = - d_mazioragon = #############
+8283 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_paelthar = ###################
+############# c_paelion = - d_mazioragon = #############
+8284 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_qaerynor = ###################
+############# c_paelion = - d_mazioragon = #############
+8285 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_raenysar = ###################
+############# c_paelion = - d_mazioragon = #############
+8286 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_saelythor = ###################
+############# c_paelion = - d_mazioragon = #############
+8287 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_taelthor = ###################
+############# c_erythor = - d_mazioragon = #############
+8288 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_ulythion = ###################
+############# c_erythor = - d_mazioragon = #############
+8289 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_vaenithos = ###################
+############# c_erythor = - d_mazioragon = #############
+8290 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_xaelthor = ###################
+############# c_qaelyx = - d_loragon = #############
+8291 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_yaelryn = ###################
+############# c_qaelyx = - d_loragon = #############
+8292 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_zaelion = ###################
+############# c_qaelyx = - d_loragon = #############
+8293 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_aelthion = ###################
+############# c_qaelyx = - d_loragon = #############
+8294 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_brynor = ###################
+############# c_aerith = - d_loragon = #############
+8295 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_caenythar = ###################
+############# c_aerith = - d_loragon = #############
+8296 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_daenyr = ###################
+############# c_aerith = - d_loragon = #############
+8297 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_erynor = ###################
+############# c_aerith = - d_loragon = #############
+8298 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_faelionor = ###################
+############# c_raelyx = - d_loragon = #############
+8299 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_gaelthor = ###################
+############# c_raelyx = - d_loragon = #############
+8300 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_haelysar = ###################
+############# c_raelyx = - d_loragon = #############
+8301 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_ilythor = ###################
+############# c_raelyx = - d_loragon = #############
+8302 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_jaenoxor = ###################
+############# c_daenyth = - d_valyria = #############
+8303 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_kaeryth = ###################
+############# c_daenyth = - d_valyria = #############
+8304 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_laethosar = ###################
+############# c_daenyth = - d_valyria = #############
+8305 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_maelynar = ###################
+############# c_daenyth = - d_valyria = #############
+8306 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_naelyx = ###################
+############# c_vaelor = - d_valyria = #############
+8307 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_oelythor = ###################
+############# c_vaelor = - d_valyria = #############
+8308 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_paerythos = ###################
+############# c_vaelor = - d_valyria = #############
+8309 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_qaelynor = ###################
+############# c_vaelor = - d_valyria = #############
+8310 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_raelthys = ###################
+############# c_maelrion = - d_valyria = #############
+8311 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_saelthor = ###################
+############# c_maelrion = - d_valyria = #############
+8312 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_taenor = ###################
+############# c_maelrion = - d_valyria = #############
+8313 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_ulenor = ###################
+############# c_maelrion = - d_valyria = #############
+8314 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+
+############# GOING INTO K_MIDDLE HERE
+
+#################### b_vaelthor = ###################
+############# c_jaelys = - d_valyria = #############
+8315 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_xaerynor = ###################
+############# c_jaelys = - d_valyria = #############
+8316 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_yaelyx = ###################
+############# c_jaelys = - d_valyria = #############
+8317 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_zaeryth = ###################
+############# c_jaelys = - d_valyria = #############
+8318 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_aelthor = ###################
+############# c_zhaeryth = - d_valyria = #############
+8319 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_brynaris = ###################
+############# c_zhaeryth = - d_valyria = #############
+8320 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_caenithar = ###################
+############# c_zhaeryth = - d_valyria = #############
+8321 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_daelyxar = ###################
+############# c_zhaeryth = - d_valyria = #############
+8322 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_erythion = ###################
+############# c_zhaeryth = - d_valyria = #############
+8323 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_faelthar = ###################
+############# c_faenys = - d_valyria = #############
+8324 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_gaeryxar = ###################
+############# c_faenys = - d_valyria = #############
+8325 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_haelionor = ###################
+############# c_faenys = - d_valyria = #############
+8326 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_ilythosar = ###################
+############# c_oelryth = - d_valyria = #############
+8327 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_jaelthor = ###################
+############# c_oelryth = - d_valyria = #############
+8328 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_kaelthar = ###################
+############# c_oelryth = - d_valyria = #############
+8329 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_laerynor = ###################
+############# c_oelryth = - d_valyria = #############
+8330 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_maelryx = ###################
+############# c_qaelyth = - d_valyria = #############
+8331 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_naelythos = ###################
+############# c_qaelyth = - d_valyria = #############
+8332 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_oerynor = ###################
+############# c_qaelyth = - d_valyria = #############
+8333 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_paelyxar = ###################
+############# c_qaelyth = - d_valyria = #############
+8334 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_qaelthor = ###################
+############# c_brythor = - d_valyria = #############
+8335 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_raelionor = ###################
+############# c_brythor = - d_valyria = #############
+8336 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_saelysor = ###################
+############# c_brythor = - d_valyria = #############
+8337 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_taerynor = ###################
+############# c_brythor = - d_valyria = #############
+8338 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_ulythar = ###################
+############# c_xaelyth = - d_valyria = #############
+8339 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    special_building_slot = vf_copper_mines_01
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_vaelyxar = ###################
+############# c_xaelyth = - d_valyria = #############
+8340 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_xaelion = ###################
+############# c_xaelyth = - d_valyria = #############
+8341 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_yaelthar = ###################
+############# c_xaelyth = - d_valyria = #############
+8342 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_zaelynor = ###################
+############# c_ilythar = - d_valyria = #############
+8343 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_aerythos = ###################
+############# c_ilythar = - d_valyria = #############
+8344 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_bryxar = ###################
+############# c_ilythar = - d_valyria = #############
+8345 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_caelythos = ###################
+############# c_ilythar = - d_valyria = #############
+8346 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_daelionor = ###################
+############# c_haenith = - d_valyria = #############
+8347 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_elynthar = ###################
+############# c_haenith = - d_valyria = #############
+8348 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_faeryn = ###################
+############# c_haenith = - d_valyria = #############
+8349 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_gaerynor = ###################
+############# c_aelion = - d_valyria = #############
+8350 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_haelthys = ###################
+############# c_aelion = - d_valyria = #############
+8351 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_ilynthos = ###################
+############# c_aelion = - d_valyria = #############
+8352 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_jaelythor = ###################
+############# c_aelion = - d_valyria = #############
+8353 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+
+### GOING INTO BOTTOM HERE
+
+#################### b_kaelryn = ###################
+############# c_zaelthor = - d_valyria = #############
+8354 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_laeryth = ###################
+############# c_zaelthor = - d_valyria = #############
+8355 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_maerythar = ###################
+############# c_zaelthor = - d_valyria = #############
+8356 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+
+#### BACK INTO MIDDLE
+
+#################### b_naelthos = ###################
+############# c_vaenor = - d_valyria = #############
+8357 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_oelthor = ###################
+############# c_vaenor = - d_valyria = #############
+8358 = {
+	holding = castle_holding
+    special_building_slot = vf_gold_mines_01
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_paelrys = ###################
+############# c_vaenor = - d_valyria = #############
+8359 = {
+	holding = city_holding
+    special_building_slot = vf_copper_mines_01
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_qaelyxar = ###################
+############# c_vaenor = - d_valyria = #############
+8360 = {
+	holding = city_holding
+    special_building_slot = vf_silver_mines_01
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+
+#### BACK INTO BOTTOM
+
+#################### b_raelthor = ###################
+############# c_jaenyth = - d_valyria = #############
+8361 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_saelthion = ###################
+############# c_jaenyth = - d_valyria = #############
+8362 = {
+	holding = church_holding
+    special_building_slot = vf_gold_mines_01
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_taenythar = ###################
+############# c_jaenyth = - d_valyria = #############
+8363 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_ulaeryn = ###################
+############# c_laenith = - d_valyria = #############
+8364 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    special_building_slot = vf_silver_mines_01
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_vaerthar = ###################
+############# c_laenith = - d_valyria = #############
+8365 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_xaelith = ###################
+############# c_laenith = - d_valyria = #############
+8366 = {
+	holding = city_holding
+    special_building_slot = vf_silver_mines_01
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_yaelysor = ###################
+############# c_laenith = - d_valyria = #############
+8367 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_zaelthor = ###################
+############# c_elythar = - d_valyria = #############
+8368 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_aelthionor = ###################
+############# c_elythar = - d_valyria = #############
+8369 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_brythosar = ###################
+############# c_elythar = - d_valyria = #############
+8370 = {
+	holding = city_holding
+    special_building_slot = vf_copper_mines_01
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_caelysar = ###################
+############# c_elythar = - d_valyria = #############
+8371 = {
+	holding = city_holding
+    special_building_slot = vf_gold_mines_01
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_daenthor = ###################
+############# c_elythar = - d_valyria = #############
+8372 = {
+	holding = church_holding
+    special_building_slot = vf_silver_mines_01
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_elyxar = ###################
+############# c_naelrion = - d_valyria = #############
+8373 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_faelthysor = ###################
+############# c_naelrion = - d_valyria = #############
+8374 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_gaelynor = ###################
+############# c_naelrion = - d_valyria = #############
+8375 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_haerthar = ###################
+############# c_naelrion = - d_valyria = #############
+8376 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_ilyxion = ###################
+############# c_paenor = - d_valyria = #############
+8377 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_jaelthionor = ###################
+############# c_paenor = - d_valyria = #############
+8378 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_kaeryxar = ###################
+############# c_paenor = - d_valyria = #############
+8379 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_laelythor = ###################
+############# c_paenor = - d_valyria = #############
+8380 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_maelryn = ###################
+############# c_vaelion = - d_valyria = #############
+8381 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_naelionor = ###################
+############# c_vaelion = - d_valyria = #############
+8382 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_oelthar = ###################
+############# c_vaelion = - d_valyria = #############
+8383 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_paelithor = ###################
+############# c_zhaelyth = - d_valyria = #############
+8384 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_qaerionor = ###################
+############# c_zhaelyth = - d_valyria = #############
+8385 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_raelthion = ###################
+############# c_zhaelyth = - d_valyria = #############
+8386 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_saelryn = ###################
+############# c_zhaelyth = - d_valyria = #############
+8387 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_taerythar = ###################
+############# c_xaelor = - d_valyria = #############
+8388 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_ulythor = ###################
+############# c_xaelor = - d_valyria = #############
+8389 = {
+	holding = castle_holding
+    special_building_slot = vf_copper_mines_01
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_vaelionor = ###################
+############# c_xaelor = - d_valyria = #############
+8390 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_xaenor = ###################
+############# c_xaelor = - d_valyria = #############
+8391 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_yaerthosar = ###################
+############# c_ulenor = - d_valyria = #############
+8392 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_zaelryn = ###################
+############# c_ulenor = - d_valyria = #############
+8393 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_aerythion = ###################
+############# c_ulenor = - d_valyria = #############
+8394 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_brynionor = ###################
+############# c_ulenor = - d_valyria = #############
+8395 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_caelthar = ###################
+############# c_saelion = - d_valyria = #############
+8396 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_daelysar = ###################
+############# c_saelion = - d_valyria = #############
+8397 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_erynthos = ###################
+############# c_saelion = - d_valyria = #############
+8398 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_faerithor = ###################
+############# c_saelion = - d_valyria = #############
+8399 = {
+	holding = city_holding
+    special_building_slot = vf_gold_mines_01
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_gaerythar = ###################
+############# c_ilyzor = - d_valyria = #############
+8400 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_silver_mines_01
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_haelryx = ###################
+############# c_ilyzor = - d_valyria = #############
+8401 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_ilynor = ###################
+############# c_ilyzor = - d_valyria = #############
+8402 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_jaelithosar = ###################
+############# c_ilyzor = - d_valyria = #############
+8403 = {
+	holding = church_holding
+    special_building_slot = vf_gold_mines_01
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_kaenor = ###################
+############# c_maelyth = - d_valyria = #############
+8404 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_laerythos = ###################
+############# c_maelyth = - d_valyria = #############
+8405 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_maelrythos = ###################
+############# c_maelyth = - d_valyria = #############
+8406 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_naelthar = ###################
+############# c_brynith = - d_valyria = #############
+8407 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_oelysor = ###################
+############# c_brynith = - d_valyria = #############
+8408 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_paelion = ###################
+############# c_brynith = - d_valyria = #############
+8409 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_valyria = ###################
+############# c_valyria = - d_valyria = #############
+8410 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_valyria_city_civic
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_raelysar = ###################
+############# c_valyria = - d_valyria = #############
+8411 = {
+	holding = city_holding
+    special_building_slot = vf_valyria_city_industrial
+    7824.1.1 = {
+    buildings = { city_03 }
+    }
+}
+#################### b_saelythion = ###################
+############# c_valyria = - d_valyria = #############
+8412 = {
+	holding = church_holding
+    special_building_slot = vf_valyria_city_sept
+    7824.1.1 = {
+    buildings = { temple_03 }
+    }
+}
+#################### b_taerthosar = ###################
+############# c_valyria = - d_valyria = #############
+8413 = {
+	holding = city_holding
+    special_building_slot = vf_valyria_city_entertainment
+    7824.1.1 = {
+    buildings = { city_03 }
+    }
+}
+#################### b_ulenor = ###################
+############# c_valyria = - d_valyria = #############
+8414 = {
+	holding = castle_holding
+    special_building_slot = vf_valyria_city_defenses
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_vaelythor = ###################
+############# c_taelion = - d_valyria = #############
+8415 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_xaelthar = ###################
+############# c_taelion = - d_valyria = #############
+8416 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_yaelthos = ###################
+############# c_taelion = - d_valyria = #############
+8417 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_zaenor = ###################
+############# c_gaenor = - d_valyria = #############
+8418 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_aelrynor = ###################
+############# c_gaenor = - d_valyria = #############
+8419 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_brythion = ###################
+############# c_faelrion = - d_valyria = #############
+8420 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_caelythor = ###################
+############# c_faelrion = - d_valyria = #############
+8421 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_daelythor = ###################
+############# c_faelrion = - d_valyria = #############
+8422 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_erythos = ###################
+############# c_haerith = - d_valyria = #############
+8423 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_faenor = ###################
+############# c_haerith = - d_valyria = #############
+8424 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_gaerythion = ###################
+############# c_vaeryth = - d_valyria = #############
+8425 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_haelyxar = ###################
+############# c_vaeryth = - d_valyria = #############
+8426 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_ilyrion = ###################
+############# c_vaeryth = - d_valyria = #############
+8427 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_jaenor = ###################
+############# c_vaeryth = - d_valyria = #############
+8428 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_kaelthion = ###################
+############# c_xaenor = - d_valyria = #############
+8429 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_laenythar = ###################
+############# c_xaenor = - d_valyria = #############
+8430 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_maerythion = ###################
+############# c_xaenor = - d_valyria = #############
+8431 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_naelrysor = ###################
+############# c_xaenor = - d_valyria = #############
+8432 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_oelthion = ###################
+############# c_jaelion = - d_valyria = #############
+8433 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_paenyth = ###################
+############# c_jaelion = - d_valyria = #############
+8434 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_qaelythos = ###################
+############# c_jaelion = - d_valyria = #############
+8435 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_raelythor = ###################
+############# c_jaelion = - d_valyria = #############
+8436 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_saeryth = ###################
+############# c_jaelion = - d_valyria = #############
+8437 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_taelysar = ###################
+############# c_naenith = - d_valyria = #############
+8438 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_ulythosar = ###################
+############# c_naenith = - d_valyria = #############
+8439 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_vaelrythar = ###################
+############# c_naenith = - d_valyria = #############
+8440 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_xaelrynor = ###################
+############# c_naenith = - d_valyria = #############
+8441 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_yaelrys = ###################
+############# c_raelion = - d_valyria = #############
+8442 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_zaelionor = ###################
+############# c_raelion = - d_valyria = #############
+8443 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_aelthysor = ###################
+############# c_raelion = - d_valyria = #############
+8444 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_brynoris = ###################
+############# c_aelrion = - d_valyria = #############
+8445 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_gold_mines_01
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_caelrythar = ###################
+############# c_aelrion = - d_valyria = #############
+8446 = {
+	holding = castle_holding
+    special_building_slot = vf_copper_mines_01
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_daelthor = ###################
+############# c_aelrion = - d_valyria = #############
+8447 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_elythor = ###################
+############# c_aelrion = - d_valyria = #############
+8448 = {
+	holding = church_holding
+    special_building_slot = vf_silver_mines_01
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_faelryn = ###################
+############# c_qaenith = - d_valyria = #############
+8449 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_silver_mines_01
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_gaenithos = ###################
+############# c_qaenith = - d_valyria = #############
+8450 = {
+	holding = castle_holding
+    special_building_slot = vf_copper_mines_01
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_haelrynor = ###################
+############# c_qaenith = - d_valyria = #############
+8451 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_ilythar = ###################
+############# c_qaenith = - d_valyria = #############
+8452 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_jaelthosar = ###################
+############# c_gaelion = - d_valyria = #############
+8453 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_kaerthar = ###################
+############# c_gaelion = - d_valyria = #############
+8454 = {
+	holding = castle_holding
+    special_building_slot = vf_gold_mines_01
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_laenor = ###################
+############# c_gaelion = - d_valyria = #############
+8455 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_maelryxar = ###################
+############# c_gaelion = - d_valyria = #############
+8456 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_naelythor = ###################
+############# c_gaelion = - d_valyria = #############
+8457 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_oelionor = ###################
+############# c_saenor = - d_valyria = #############
+8458 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_paelythor = ###################
+############# c_saenor = - d_valyria = #############
+8459 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_qaelthionor = ###################
+############# c_saenor = - d_valyria = #############
+8460 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_raelithor = ###################
+############# c_saenor = - d_valyria = #############
+8461 = {
+	holding = city_holding
+    special_building_slot = vf_copper_mines_01
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_saelthos = ###################
+############# c_aenythor = - d_valyria = #############
+8462 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_taenor = ###################
+############# c_aenythor = - d_valyria = #############
+8463 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_ulaeryth = ###################
+############# c_aenythor = - d_valyria = #############
+8464 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_vaelythar = ###################
+############# c_aenythor = - d_valyria = #############
+8465 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_xaelithos = ###################
+############# c_velrion = - d_valyria = #############
+8466 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_yaelrythar = ###################
+############# c_velrion = - d_valyria = #############
+8467 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_zaelthion = ###################
+############# c_velrion = - d_valyria = #############
+8468 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_aerynoth = ###################
+############# c_daelryn = - d_valyria = #############
+8469 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_bryxionor = ###################
+############# c_daelryn = - d_valyria = #############
+8470 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_caelryxar = ###################
+############# c_daelryn = - d_valyria = #############
+8471 = {
+	holding = city_holding
+    special_building_slot = vf_gold_mines_01
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_daelrythor = ###################
+############# c_daelryn = - d_valyria = #############
+8472 = {
+	holding = city_holding
+    special_building_slot = vf_silver_mines_01
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_elynor = ###################
+############# c_rhaelyth = - d_valyria = #############
+8473 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_faelthionor = ###################
+############# c_rhaelyth = - d_valyria = #############
+8474 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_gaelrythos = ###################
+############# c_rhaelyth = - d_valyria = #############
+8475 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_haelrynor = ###################
+############# c_naelthor = - d_valyria = #############
+8476 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_ilythionor = ###################
+############# c_naelthor = - d_valyria = #############
+8477 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_jaeryn = ###################
+############# c_naelthor = - d_valyria = #############
+8478 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_kaenythar = ###################
+############# c_naelthor = - d_valyria = #############
+8479 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_laelythar = ###################
+############# c_naelthor = - d_valyria = #############
+8480 = {
+	holding = church_holding
+    special_building_slot = vf_silver_mines_01
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_maelion = ###################
+############# c_valenor = - d_valyria = #############
+8481 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_naerythor = ###################
+############# c_valenor = - d_valyria = #############
+8482 = {
+	holding = city_holding
+    special_building_slot = vf_gold_mines_01
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_oelthysor = ###################
+############# c_valenor = - d_valyria = #############
+8483 = {
+	holding = city_holding
+    special_building_slot = vf_silver_mines_01
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_paenor = ###################
+############# c_oelyrion = - d_valyria = #############
+8484 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_qaelrythor = ###################
+############# c_oelyrion = - d_valyria = #############
+8485 = {
+	holding = castle_holding
+    special_building_slot = vf_copper_mines_01
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_raelthosar = ###################
+############# c_oelyrion = - d_valyria = #############
+8486 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_saenythor = ###################
+############# c_oelyrion = - d_valyria = #############
+8487 = {
+	holding = city_holding
+    special_building_slot = vf_silver_mines_01
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_taelionor = ###################
+############# c_qaelrion = - d_valyria = #############
+8488 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_ulenithos = ###################
+############# c_qaelrion = - d_valyria = #############
+8489 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_vaelryn = ###################
+############# c_qaelrion = - d_valyria = #############
+8490 = {
+	holding = city_holding
+    special_building_slot = vf_gold_mines_01
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_xaelythion = ###################
+############# c_qaelrion = - d_valyria = #############
+8491 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_yaelthor = ###################
+############# c_gaelyr = - d_valyria = #############
+8492 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    special_building_slot = vf_copper_mines_01
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_zaelithar = ###################
+############# c_gaelyr = - d_valyria = #############
+8493 = {
+	holding = city_holding
+    special_building_slot = vf_gold_mines_01
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_aelryn = ###################
+############# c_gaelyr = - d_valyria = #############
+8494 = {
+	holding = city_holding
+    special_building_slot = vf_silver_mines_01
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_brynithos = ###################
+############# c_haelthor = - d_valyria = #############
+8495 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_caelionor = ###################
+############# c_haelthor = - d_valyria = #############
+8496 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_daelthionor = ###################
+############# c_haelthor = - d_valyria = #############
+8497 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_erythar = ###################
+############# c_haelthor = - d_valyria = #############
+8498 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_faelrynor = ###################
+############# c_maeryn = - d_valyria = #############
+8499 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_gaelthionor = ###################
+############# c_maeryn = - d_valyria = #############
+8500 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_haenor = ###################
+############# c_maeryn = - d_valyria = #############
+8501 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_ilyrithos = ###################
+############# c_maeryn = - d_valyria = #############
+8502 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_jaelythos = ###################
+############# c_xaelynor = - d_valyria = #############
+8503 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_kaelythion = ###################
+############# c_xaelynor = - d_valyria = #############
+8504 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_laelionor = ###################
+############# c_xaelynor = - d_valyria = #############
+8505 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_maelthysor = ###################
+############# c_vaenyth = - d_valyria = #############
+8506 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_naenor = ###################
+############# c_vaenyth = - d_valyria = #############
+8507 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_oelryn = ###################
+############# c_vaenyth = - d_valyria = #############
+8508 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+
+#### INTO THE MIDDLE AGAIN (ISLANDS TO THE RIGHT)
+
+#################### b_paelthosar = ###################
+############# c_yrithor = - d_valyria = #############
+8509 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_qaenithar = ###################
+############# c_yrithor = - d_valyria = #############
+8510 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_raenor = ###################
+############# c_yrithor = - d_valyria = #############
+8511 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_saelryn = ###################
+############# c_zhaenyth = - d_valyria = #############
+8512 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_taelrythos = ###################
+############# c_zhaenyth = - d_valyria = #############
+8513 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_ulenthor = ###################
+############# c_zhaenyth = - d_valyria = #############
+8514 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+
+### INTO THE TOP (ISLANDS TO THE LEFT)
+
+#################### b_vaelthysor = ###################
+############# c_laelthor = - d_valyria = #############
+8515 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_xaelthorion = ###################
+############# c_laelthor = - d_valyria = #############
+8516 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_yaelrythos = ###################
+############# c_saelrion = - d_valyria = #############
+8517 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_zaelythionor = ###################
+############# c_saelrion = - d_valyria = #############
+8518 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_aelthysor = ###################
+############# c_saelrion = - d_valyria = #############
+8519 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_brynoris = ###################
+############# c_saelrion = - d_valyria = #############
+8520 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_caelythionor = ###################
+############# c_saelrion = - d_valyria = #############
+8521 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+
+####### INTO THE MIDDLE 
+
+#################### b_daenithar = ###################
+############# c_paelys = - d_valyria = #############
+8522 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_copper_mines_01
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_elynthosar = ###################
+############# c_paelys = - d_valyria = #############
+8523 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_faelthor = ###################
+############# c_paelys = - d_valyria = #############
+8524 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_gaelithor = ###################
+############# c_elynor = - d_valyria = #############
+8525 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_haelrythos = ###################
+############# c_elynor = - d_valyria = #############
+8526 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_ilyxarion = ###################
+############# c_elynor = - d_valyria = #############
+8527 = {
+	holding = city_holding
+    special_building_slot = vf_gold_mines_01
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_jaenythos = ###################
+############# c_elynor = - d_valyria = #############
+8528 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_kaenor = ###################
+############# c_qaenithor = - d_valyria = #############
+8529 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    special_building_slot = vf_gold_mines_01
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_laelthor = ###################
+############# c_qaenithor = - d_valyria = #############
+8530 = {
+	holding = city_holding
+    special_building_slot = vf_silver_mines_01
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_maelythos = ###################
+############# c_qaenithor = - d_valyria = #############
+8531 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_naelyxion = ###################
+############# c_aerionor = - d_valyria = #############
+8532 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_oelithar = ###################
+############# c_aerionor = - d_valyria = #############
+8533 = {
+	holding = castle_holding
+    special_building_slot = vf_silver_mines_01
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_paeltharion = ###################
+############# c_aerionor = - d_valyria = #############
+8534 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_qaelrynor = ###################
+############# c_aerionor = - d_valyria = #############
+8535 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_raelithion = ###################
+############# c_raelthorion = - d_valyria = #############
+8536 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_saelithar = ###################
+############# c_raelthorion = - d_valyria = #############
+8537 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_taenorion = ###################
+############# c_raelthorion = - d_valyria = #############
+8538 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_ulerythos = ###################
+############# c_raelthorion = - d_valyria = #############
+8539 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_vaelrythor = ###################
+############# c_daelynor = - d_valyria = #############
+8540 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_xaelrythar = ###################
+############# c_daelynor = - d_valyria = #############
+8541 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_yaenithar = ###################
+############# c_daelynor = - d_valyria = #############
+8542 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_zaelrythor = ###################
+############# c_daelynor = - d_valyria = #############
+8543 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_aelrythosar = ###################
+############# c_daelynor = - d_valyria = #############
+8544 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_bryntor = ###################
+############# c_vaelrion = - d_valyria = #############
+8545 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_caerynor = ###################
+############# c_vaelrion = - d_valyria = #############
+8546 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_daelthys = ###################
+############# c_vaelrion = - d_valyria = #############
+8547 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_elythorion = ###################
+############# c_vaelrion = - d_valyria = #############
+8548 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_faelrynion = ###################
+############# c_maelryth = - d_valyria = #############
+8549 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_gaelryn = ###################
+############# c_maelryth = - d_valyria = #############
+8550 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_haenythor = ###################
+############# c_maelryth = - d_valyria = #############
+8551 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_ilynthion = ###################
+############# c_maelryth = - d_valyria = #############
+8552 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_jaelythorion = ###################
+############# c_jaeryn = - d_valyria = #############
+8553 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_kaeltharion = ###################
+############# c_jaeryn = - d_valyria = #############
+8554 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_laelithar = ###################
+############# c_jaeryn = - d_valyria = #############
+8555 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_maelrynor = ###################
+############# c_jaeryn = - d_valyria = #############
+8556 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_naelrythos = ###################
+############# c_jaeryn = - d_valyria = #############
+8557 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_oelrythar = ###################
+############# c_zhaelor = - d_valyria = #############
+8558 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_paelthorion = ###################
+############# c_zhaelor = - d_valyria = #############
+8559 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_qaerythos = ###################
+############# c_zhaelor = - d_valyria = #############
+8560 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_raelthionor = ###################
+############# c_zhaelor = - d_valyria = #############
+8561 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_saenithor = ###################
+############# c_faelith = - d_valyria = #############
+8562 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_taelrynor = ###################
+############# c_faelith = - d_valyria = #############
+8563 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_ulytharion = ###################
+############# c_faelith = - d_valyria = #############
+8564 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_vaenythor = ###################
+############# c_faelith = - d_valyria = #############
+8565 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_xaerynoris = ###################
+############# c_oelrynor = - d_valyria = #############
+8566 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_yaelionor = ###################
+############# c_oelrynor = - d_valyria = #############
+8567 = {
+	holding = castle_holding
+    special_building_slot = vf_copper_mines_01
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_zaeltharion = ###################
+############# c_oelrynor = - d_valyria = #############
+8568 = {
+	holding = city_holding
+    special_building_slot = vf_gold_mines_01
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_aelyzonor = ###################
+############# c_oelrynor = - d_valyria = #############
+8569 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_brynziros = ###################
+############# c_oelrynor = - d_valyria = #############
+8570 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_caenorax = ###################
+############# c_qaelthor = - d_valyria = #############
+8571 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_silver_mines_01
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_daelyssar = ###################
+############# c_qaelthor = - d_valyria = #############
+8572 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_erylxoth = ###################
+############# c_qaelthor = - d_valyria = #############
+8573 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_faelyzir = ###################
+############# c_qaelthor = - d_valyria = #############
+8574 = {
+	holding = city_holding
+    special_building_slot = vf_gold_mines_01
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_gaenytar = ###################
+############# c_brynysor = - d_valyria = #############
+8575 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_haelryzor = ###################
+############# c_brynysor = - d_valyria = #############
+8576 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_ilythoxar = ###################
+############# c_brynysor = - d_valyria = #############
+8577 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_jaelrythos = ###################
+############# c_brynysor = - d_valyria = #############
+8578 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_kaenyxion = ###################
+############# c_brynysor = - d_valyria = #############
+8579 = {
+	holding = city_holding
+    special_building_slot = vf_silver_mines_01
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_laelyrthar = ###################
+############# c_xaelionor = - d_valyria = #############
+8580 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_maelyssor = ###################
+############# c_xaelionor = - d_valyria = #############
+8581 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_naelyxor = ###################
+############# c_xaelionor = - d_valyria = #############
+8582 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_oelrynos = ###################
+############# c_xaelionor = - d_valyria = #############
+8583 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_paelrythor = ###################
+############# c_xaelionor = - d_valyria = #############
+8584 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_qaelythax = ###################
+############# c_ilynor = - d_valyria = #############
+8585 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_raelyssion = ###################
+############# c_ilynor = - d_valyria = #############
+8586 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_saenyzor = ###################
+############# c_ilynor = - d_valyria = #############
+8587 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_taelrythar = ###################
+############# c_ilynor = - d_valyria = #############
+8588 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_ulenyxor = ###################
+############# c_ilynor = - d_valyria = #############
+8589 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_vaelyxion = ###################
+############# c_haelryth = - d_valyria = #############
+8590 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_xaelyzor = ###################
+############# c_haelryth = - d_valyria = #############
+8591 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_yaelrythor = ###################
+############# c_haelryth = - d_valyria = #############
+8592 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_zaelythar = ###################
+############# c_aelrith = - d_valyria = #############
+8593 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_aenyssar = ###################
+############# c_aelrith = - d_valyria = #############
+8594 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_brythosior = ###################
+############# c_aelrith = - d_valyria = #############
+8595 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_caelyxoth = ###################
+############# c_aelrith = - d_valyria = #############
+8596 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_daelythorax = ###################
+############# c_zaelryth = - d_valyria = #############
+8597 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_elyzonor = ###################
+############# c_zaelryth = - d_valyria = #############
+8598 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_faenyxion = ###################
+############# c_zaelryth = - d_valyria = #############
+8599 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_gaelrythax = ###################
+############# c_zaelryth = - d_valyria = #############
+8600 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_haelyrthos = ###################
+############# c_vaelorion = - d_valyria = #############
+8601 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_ilynzorion = ###################
+############# c_vaelorion = - d_valyria = #############
+8602 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_jaelthorax = ###################
+############# c_vaelorion = - d_valyria = #############
+8603 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_kaelothor = ###################
+############# c_vaelorion = - d_valyria = #############
+8604 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_laelyxion = ###################
+############# c_vaelorion = - d_valyria = #############
+8605 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_maelrythos = ###################
+############# c_jaenorion = - d_valyria = #############
+8606 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_naelthorion = ###################
+############# c_jaenorion = - d_valyria = #############
+8607 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_oelythar = ###################
+############# c_jaenorion = - d_valyria = #############
+8608 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_paelzorax = ###################
+############# c_jaenorion = - d_valyria = #############
+8609 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_qaeltharion = ###################
+############# c_laelythor = - d_valyria = #############
+8610 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_raelithos = ###################
+############# c_laelythor = - d_valyria = #############
+8611 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_saelynorax = ###################
+############# c_laelythor = - d_valyria = #############
+8612 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_taelrynos = ###################
+############# c_elythorion = - d_valyria = #############
+8613 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_ulaeryxar = ###################
+############# c_elythorion = - d_valyria = #############
+8614 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_vaelrythos = ###################
+############# c_elythorion = - d_valyria = #############
+8615 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_xaelytharion = ###################
+############# c_elythorion = - d_valyria = #############
+8616 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_yaelrynor = ###################
+############# c_elythorion = - d_valyria = #############
+8617 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_zaelthorion = ###################
+############# c_naelythar = - d_valyria = #############
+8618 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_aelyzor = ###################
+############# c_naelythar = - d_valyria = #############
+8619 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_bryxion = ###################
+############# c_naelythar = - d_valyria = #############
+8620 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_caenor = ###################
+############# c_naelythar = - d_valyria = #############
+8621 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_daelyxar = ###################
+############# c_paelzor = - d_valyria = #############
+8622 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_elythor = ###################
+############# c_paelzor = - d_valyria = #############
+8623 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_faelzor = ###################
+############# c_paelzor = - d_valyria = #############
+8624 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_gaelryx = ###################
+############# c_vaelysor = - d_valyria = #############
+8625 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_haelyth = ###################
+############# c_vaelysor = - d_valyria = #############
+8626 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_ilynar = ###################
+############# c_vaelysor = - d_valyria = #############
+8627 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_jaelthor = ###################
+############# c_vaelysor = - d_valyria = #############
+8628 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_kaelyx = ###################
+############# c_zhaelthor = - d_valyria = #############
+8629 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_laelyth = ###################
+############# c_zhaelthor = - d_valyria = #############
+8630 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_maelrys = ###################
+############# c_zhaelthor = - d_valyria = #############
+8631 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_naelzor = ###################
+############# c_zhaelthor = - d_valyria = #############
+8632 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_oelryn = ###################
+############# c_zhaelthor = - d_valyria = #############
+8633 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_paelthor = ###################
+############# c_xaelythion = - d_valyria = #############
+8634 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_qaelion = ###################
+############# c_xaelythion = - d_valyria = #############
+8635 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_raelthos = ###################
+############# c_xaelythion = - d_valyria = #############
+8636 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+
+###### GOING INTO TOP
+
+#################### b_saelthor = ###################
+############# c_ulythar = - d_valyria = #############
+8637 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_taelryn = ###################
+############# c_ulythar = - d_valyria = #############
+8638 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_ulythar = ###################
+############# c_ulythar = - d_valyria = #############
+8639 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_vaelyx = ###################
+############# c_ulythar = - d_valyria = #############
+8640 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_xaelys = ###################
+############# c_saelynor = - d_valyria = #############
+8641 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_yaelion = ###################
+############# c_saelynor = - d_valyria = #############
+8642 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_zaelyx = ###################
+############# c_saelynor = - d_valyria = #############
+8643 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_aelionor = ###################
+############# c_saelynor = - d_valyria = #############
+8644 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_brythos = ###################
+############# c_ilyrion = - d_valyria = #############
+8645 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_caenith = ###################
+############# c_ilyrion = - d_valyria = #############
+8646 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_daelthos = ###################
+############# c_ilyrion = - d_valyria = #############
+8647 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_elyxar = ###################
+############# c_ilyrion = - d_valyria = #############
+8648 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_faelion = ###################
+############# c_ilyrion = - d_valyria = #############
+8649 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_gaenys = ###################
+############# c_maenythor = - d_valyria = #############
+8650 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_haelthar = ###################
+############# c_maenythor = - d_valyria = #############
+8651 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_ilythor = ###################
+############# c_maenythor = - d_valyria = #############
+8652 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_jaelion = ###################
+############# c_maenythor = - d_valyria = #############
+8653 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_kaelys = ###################
+############# c_maenythor = - d_valyria = #############
+8654 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_laenor = ###################
+############# c_brythorion = - d_valyria = #############
+8655 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_maelyxar = ###################
+############# c_brythorion = - d_valyria = #############
+8656 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_naelthar = ###################
+############# c_brythorion = - d_valyria = #############
+8657 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_oelion = ###################
+############# c_brythorion = - d_valyria = #############
+8658 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_paelith = ###################
+############# c_qaenorion = - d_valyria = #############
+8659 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_qaenys = ###################
+############# c_qaenorion = - d_valyria = #############
+8660 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_raenor = ###################
+############# c_qaenorion = - d_valyria = #############
+8661 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_saelthos = ###################
+############# c_qaenorion = - d_valyria = #############
+8662 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_taelion = ###################
+############# c_taelythar = - d_valyria = #############
+8663 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_ulionor = ###################
+############# c_taelythar = - d_valyria = #############
+8664 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_vaelthar = ###################
+############# c_taelythar = - d_valyria = #############
+8665 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_xaenor = ###################
+############# c_taelythar = - d_valyria = #############
+8666 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_yaelthar = ###################
+############# c_gaelzor = - d_valyria = #############
+8667 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_zaenys = ###################
+############# c_gaelzor = - d_valyria = #############
+8668 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_aelyzor = ###################
+############# c_gaelzor = - d_valyria = #############
+8669 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_brynos = ###################
+############# c_gaelzor = - d_valyria = #############
+8670 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_caenor = ###################
+############# c_faelynor = - d_valyria = #############
+8671 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_daelyxos = ###################
+############# c_faelynor = - d_valyria = #############
+8672 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_erylthos = ###################
+############# c_faelynor = - d_valyria = #############
+8673 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_faelzor = ###################
+############# c_haenorion = - d_valyria = #############
+8674 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_gaenythos = ###################
+############# c_haenorion = - d_valyria = #############
+8675 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_haelor = ###################
+############# c_haenorion = - d_valyria = #############
+8676 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_ilynzor = ###################
+############# c_vaelzorion = - d_valyria = #############
+8677 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_jaelros = ###################
+############# c_vaelzorion = - d_valyria = #############
+8678 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_kaelythor = ###################
+############# c_vaelzorion = - d_valyria = #############
+8679 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_laenor = ###################
+############# c_vaelzorion = - d_valyria = #############
+8680 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_maelzor = ###################
+############# c_xaelrynor = - d_valyria = #############
+8681 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_naelysor = ###################
+############# c_xaelrynor = - d_valyria = #############
+8682 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_oelthos = ###################
+############# c_xaelrynor = - d_valyria = #############
+8683 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_paelrynos = ###################
+############# c_xaelrynor = - d_valyria = #############
+8684 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_qaelzor = ###################
+############# c_xaelrynor = - d_valyria = #############
+8685 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}
+#################### b_raelithos = ###################
+############# c_jaelrithor = - d_valyria = #############
+8686 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_saelyros = ###################
+############# c_jaelrithor = - d_valyria = #############
+8687 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_taelythor = ###################
+############# c_jaelrithor = - d_valyria = #############
+8688 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_ulyros = ###################
+############# c_naerythion = - d_valyria = #############
+8689 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_vaenos = ###################
+############# c_naerythion = - d_valyria = #############
+8690 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_xaelyzos = ###################
+############# c_naerythion = - d_valyria = #############
+8691 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_yaelros = ###################
+############# c_naerythion = - d_valyria = #############
+8692 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_zaelithor = ###################
+############# c_raelythor = - d_valyria = #############
+8693 = {
+	culture = high_valyrian
+    religion = valyrian_pan_freehold
+    special_building_slot = vf_dragon_tower_01
+    holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_05 hill_forts_06 barracks_03 }
+    }
+}
+#################### b_aenor = ###################
+############# c_raelythor = - d_valyria = #############
+8694 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_03 }
+    }
+}
+#################### b_bryzor = ###################
+############# c_raelythor = - d_valyria = #############
+8695 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_caelithos = ###################
+############# c_raelythor = - d_valyria = #############
+8696 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_daenos = ###################
+############# c_aelyrion = - d_valyria = #############
+8697 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_elythor = ###################
+############# c_aelyrion = - d_valyria = #############
+8698 = {
+	holding = castle_holding
+    7824.1.1 = {
+    buildings = { castle_02 }
+    }
+}
+#################### b_faelysor = ###################
+############# c_aelyrion = - d_valyria = #############
+8699 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_gaelzor = ###################
+############# c_aelyrion = - d_valyria = #############
+8700 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_haelthos = ###################
+############# c_qaelythorion = - d_valyria = #############
+8701 = {
+    culture = high_valyrian
+    religion = valyrian_pan_freehold
+    holding = castle_holding
+    7824.1.1 = {
+        buildings = { castle_03 }
+    }
+}
+#################### b_ilynor = ###################
+############# c_qaelythorion = - d_valyria = #############
+8702 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_jaelithos = ###################
+############# c_qaelythorion = - d_valyria = #############
+8703 = {
+	holding = city_holding
+    7824.1.1 = {
+    buildings = { city_02 }
+    }
+}
+#################### b_kaenos = ###################
+############# c_qaelythorion = - d_valyria = #############
+8704 = {
+	holding = church_holding
+    7824.1.1 = {
+    buildings = { temple_02 }
+    }
+}

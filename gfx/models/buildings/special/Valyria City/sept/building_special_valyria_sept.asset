@@ -1,0 +1,49 @@
+pdxmesh = {
+	name = "building_special_valyria_sept_mesh"
+	file = "building_special_valyria_sept.mesh"
+
+	meshsettings = {
+		name = "building_special_valyria_aqueductShape"
+		index = 0
+		texture_diffuse = "PDXmat_building_special_valyria_aqueductShape_diffuse.dds"
+		texture_normal = "PDXmat_building_special_valyria_aqueductShape_normal.dds"
+		texture_specular = "PDXmat_building_special_valyria_aqueductShape_properties.dds"
+		shader = "standard_winter"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "building_special_valyria_big_boyShape"
+		index = 0
+		texture_diffuse = "PDXmat_building_special_valyria_big_boyShape_diffuse.dds"
+		texture_normal = "PDXmat_building_special_valyria_big_boyShape_normal.dds"
+		texture_specular = "PDXmat_building_special_valyria_big_boyShape_properties.dds"
+		shader = "standard_winter"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "building_special_valyria_gardenShape"
+		index = 0
+		texture_diffuse = "PDXmat_building_special_valyria_gardenShape_diffuse.dds"
+		texture_normal = "PDXmat_building_special_valyria_gardenShape_normal.dds"
+		texture_specular = "PDXmat_building_special_valyria_gardenShape_properties.dds"
+		shader = "standard_winter"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "building_special_valyria_sept_buildingsShape"
+		index = 0
+		texture_diffuse = "PDXmat_building_special_valyria_sept_buildingsShape_diffuse.dds"
+		texture_normal = "PDXmat_building_special_valyria_sept_buildingsShape_normal.dds"
+		texture_specular = "PDXmat_building_special_valyria_sept_buildingsShape_properties.dds"
+		shader = "standard_winter"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+}
+
+entity = {
+	name = "building_special_valyria_sept_entity"
+	pdxmesh = "building_special_valyria_sept_mesh"
+}

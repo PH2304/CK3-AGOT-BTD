@@ -1,0 +1,8 @@
+﻿vf_artifact_setup = {
+	if = {
+		limit = { game_start_date = 7888.1.1 }
+		character:Melnibone_1 ?= { vf_create_stormbringer_vs_artifact_effect = { OWNER = THIS } }
+		character:Atreides_1 ?= { vf_create_artifact_vs_dusk_effect = { OWNER = THIS } }
+		character:Atreides_1 ?= { vf_create_artifact_valyrian_steel_armor_effect = { OWNER = THIS } }
+	}
+}

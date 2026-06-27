@@ -1,0 +1,1659 @@
+﻿dragon_Zaldrīzes = {
+	name = Zaldrīzes
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_4
+	trait = dragon_physique_good_3
+	trait = dragon_majestic
+	trait = dragon_solitary
+	trait = dragon_defiant
+	trait = dragon_skittish
+
+
+	disallow_random_traits = yes
+
+	7692.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:lightest
+			}
+			set_variable = {
+			name = color
+			value = flag:green
+			}
+		}
+	}
+	7882.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Atreides_1 # Daemon
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_valyria
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_jaeqaelix = {
+	name = Jaeqaelix
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_5
+	trait = dragon_physique_good_1
+	trait = dragon_friendly
+	trait = dragon_cooperative
+	trait = dragon_supporting
+
+
+	disallow_random_traits = yes
+
+	7792.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:lightest
+			}
+			set_variable = {
+			name = color
+			value = flag:red
+			}
+		}
+	}
+	7871.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Qorbareon_2 # Rhaemon
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_naelrion
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_flamefang= {
+	name = Flamefang
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_2
+	trait = dragon_physique_good_2
+	trait = dragon_friendly
+	trait = dragon_calculating
+	trait = dragon_accepting
+
+
+	disallow_random_traits = yes
+
+	7692.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:lightest
+			}
+			set_variable = {
+			name = color
+			value = flag:fuschia
+			}
+		}
+	}
+	7876.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Melnibone_1 # Elric
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_jaelion
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+
+dragon_shellox= {
+	name = Shellox
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_5
+	trait = dragon_physique_good_2
+	trait = dragon_defiant
+	trait = dragon_calculating
+	trait = dragon_bloodthirsty
+
+
+	disallow_random_traits = yes
+
+	7710.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:darkest
+			}
+			set_variable = {
+			name = color
+			value = flag:red
+			}
+		}
+	}
+	7833.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Stavaryen_1 # Vargo
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_oelyth
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_arraks = {
+	name = Arraks
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_4
+	trait = dragon_physique_good_1
+	trait = dragon_restrained
+	trait = dragon_bloodthirsty
+	trait = dragon_supporting
+
+
+	disallow_random_traits = yes
+
+	7728.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:lightest
+			}
+			set_variable = {
+			name = color
+			value = flag:green
+			}
+		}
+	}
+	7871.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Jentys_1 # Jentys
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_haelthor
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_bantāzma = {
+	name = Bantāzma
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_5
+	trait = dragon_physique_good_1
+	trait = dragon_friendly
+	trait = dragon_skittish
+	trait = dragon_cooperative
+
+
+	disallow_random_traits = yes
+
+	7710.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:lightest
+			}
+			set_variable = {
+			name = color
+			value = flag:white
+			}
+		}
+	}
+	7855.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Azantys_1 # Aenys
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_ulenor
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_ezarion = {
+	name = Ezarion
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_2
+	trait = dragon_physique_good_2
+	trait = dragon_defiant
+	trait = dragon_imperious
+
+
+	disallow_random_traits = yes
+
+	7770.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:middle
+			}
+			set_variable = {
+			name = color
+			value = flag:teal
+			}
+		}
+	}
+	7875.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Issaros_1 # Daegon
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_elythar
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_geratrix = {
+	name = Geratrix
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_2
+	trait = dragon_physique_good_1
+	trait = dragon_bloodthirsty
+	trait = dragon_solitary
+	trait = dragon_aggressive
+
+
+	disallow_random_traits = yes
+
+	7865.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:darkest
+			}
+			set_variable = {
+			name = color
+			value = flag:blue
+			}
+		}
+	}
+	7878.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Jaelarys_1 # Aerys
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_zaelthor
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_katla = {
+	name = Katla
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_4
+	trait = dragon_physique_good_1
+	trait = dragon_bloodthirsty
+	trait = dragon_restrained
+	trait = dragon_accepting
+
+
+	disallow_random_traits = yes
+
+	7808.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:darker
+			}
+			set_variable = {
+			name = color
+			value = flag:black
+			}
+		}
+	}
+	7871.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Zalarys_1 # Vaegon
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_gaelion
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_gravyx = {
+	name = Gravyx
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_5
+	trait = dragon_physique_good_3
+	trait = dragon_supporting
+	trait = dragon_skittish
+	trait = dragon_impulsive
+
+
+	disallow_random_traits = yes
+
+	7830.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:darkest
+			}
+			set_variable = {
+			name = color
+			value = flag:blue
+			}
+		}
+	}
+	7875.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Vaeritrix_1 # Aelyx
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_naelthor
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_zaesar = {
+	name = Zaesar
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_2
+	trait = dragon_physique_good_3
+	trait = dragon_spindly
+	trait = dragon_supporting
+	trait = dragon_defiant
+
+
+	disallow_random_traits = yes
+
+	7845.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:lighter
+			}
+			set_variable = {
+			name = color
+			value = flag:black
+			}
+		}
+	}
+	7878.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Aegustys_1 # Aegon
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_oelyrion
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_arostys = {
+	name = Arostys
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_5
+	trait = dragon_physique_good_3
+	trait = dragon_cooperative
+	trait = dragon_calculating
+
+
+	disallow_random_traits = yes
+
+	7769.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:lighter
+			}
+			set_variable = {
+			name = color
+			value = flag:pink
+			}
+		}
+	}
+	7854.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Taenys_1 # Aenar
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_qaelrion
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_haeron = {
+	name = Haeron
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_2
+	trait = dragon_physique_good_1
+	trait = dragon_impulsive
+	trait = dragon_aggressive
+	trait = dragon_imperious
+
+
+	disallow_random_traits = yes
+
+	7787.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:darkest
+			}
+			set_variable = {
+			name = color
+			value = flag:fuschia
+			}
+		}
+	}
+	7865.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Zaldrizys_1 # Aemon
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_saelion
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_blackfyre = {
+	name = Blackfyre
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_3
+	trait = dragon_physique_good_1
+	trait = dragon_defiant
+	trait = dragon_solitary
+
+
+	disallow_random_traits = yes
+
+	7859.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:lighter
+			}
+			set_variable = {
+			name = color
+			value = flag:fuschia
+			}
+		}
+	}
+	7877.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Vermaxos_1 # Faegon
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:brynysor
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_pertinax = {
+	name = Pertinax
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_2
+	trait = dragon_physique_good_2
+	trait = dragon_fertile
+	trait = dragon_calculating
+	trait = dragon_friendly
+	trait = dragon_restrained
+
+
+	disallow_random_traits = yes
+
+	7831.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:lighter
+			}
+			set_variable = {
+			name = color
+			value = flag:red
+			}
+		}
+	}
+	7882.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Paelinox_1 # Aegon
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_vaenor
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_seti = {
+	name = Seti
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_4
+	trait = dragon_physique_good_1
+	trait = dragon_cooperative
+	trait = dragon_impulsive
+	trait = dragon_skittish
+
+
+	disallow_random_traits = yes
+
+	7785.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:middle
+			}
+			set_variable = {
+			name = color
+			value = flag:blue
+			}
+		}
+	}
+	7885.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Ramessid_1 # Ramesys
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_oelrynor
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+
+dragon_ronyx = {
+	name = Ronyx
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_5
+	trait = dragon_physique_good_3
+	trait = dragon_calculating
+	trait = dragon_defiant
+
+
+	disallow_random_traits = yes
+
+	7665.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:lighter
+			}
+			set_variable = {
+			name = color
+			value = flag:teal
+			}
+		}
+	}
+	7822.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Roloros_1 # Maegon
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_qaelyx
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_orix = {
+	name = Orix
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_2
+	trait = dragon_physique_good_3
+	trait = dragon_imperious
+	trait = dragon_calculating
+
+
+	disallow_random_traits = yes
+
+	7760.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:darker
+			}
+			set_variable = {
+			name = color
+			value = flag:orange
+			}
+		}
+	}
+	7838.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Aderion_1 # Daria
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_haelyx
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_noctus = {
+	name = Noctus
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_4
+	trait = dragon_physique_good_1
+	trait = dragon_imperious
+	trait = dragon_accepting
+	trait = dragon_skittish
+
+
+	disallow_random_traits = yes
+
+	7694.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:lighter
+			}
+			set_variable = {
+			name = color
+			value = flag:green
+			}
+		}
+	}
+	7832.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Doros_1 # Ebiron
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_raelythor
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_draxxis = {
+	name = Draxxis
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_2
+	trait = dragon_physique_good_1
+	trait = dragon_impulsive
+	trait = dragon_solitary
+	trait = dragon_defiant
+
+
+	disallow_random_traits = yes
+
+	7712.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:middle
+			}
+			set_variable = {
+			name = color
+			value = flag:black
+			}
+		}
+	}
+	7864.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Danderion_1 # Alion
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_daelthor
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_binx = {
+	name = Binx
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_2
+	trait = dragon_physique_good_2
+	trait = dragon_spindly
+	trait = dragon_defiant
+	trait = dragon_calculating
+	trait = dragon_cooperative
+
+
+	disallow_random_traits = yes
+
+	7799.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:lightest
+			}
+			set_variable = {
+			name = color
+			value = flag:blue
+			}
+		}
+	}
+	7869.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Vyros_1 # Jaerjaerys
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:aelzor
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_maraxis = {
+	name = Maraxis
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_2
+	trait = dragon_physique_good_2
+	trait = dragon_restrained
+	trait = dragon_imperious
+	trait = dragon_calculating
+
+
+	disallow_random_traits = yes
+
+	7691.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:middle
+			}
+			set_variable = {
+			name = color
+			value = flag:purple
+			}
+		}
+	}
+	7805.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Festerion_1 # Karlerys
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_vaeryth
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_seiless = {
+	name = Seiless
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_4
+	trait = dragon_physique_good_2
+	trait = dragon_solitary
+	trait = dragon_restrained
+	trait = dragon_supporting
+
+
+	disallow_random_traits = yes
+
+	7650.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:darkest
+			}
+			set_variable = {
+			name = color
+			value = flag:white
+			}
+		}
+	}
+	7868.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Bargerion_1 # Illio
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_saelrion
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_stix = {
+	name = Stix
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_3
+	trait = dragon_physique_good_2
+	trait = dragon_impulsive
+	trait = dragon_solitary
+	trait = dragon_friendly
+
+
+	disallow_random_traits = yes
+
+	7652.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:lightest
+			}
+			set_variable = {
+			name = color
+			value = flag:yellow
+			}
+		}
+	}
+	7868.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Tavaros_1 # Aemor
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_ilythar
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_vexion = {
+	name = Vexion
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_4
+	trait = dragon_physique_good_2
+	trait = dragon_accepting
+	trait = dragon_supporting
+
+
+	disallow_random_traits = yes
+
+	7752.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:middle
+			}
+			set_variable = {
+			name = color
+			value = flag:white
+			}
+		}
+	}
+	7868.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Heilor_1 # Aegar
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_jaelys
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_nyx = {
+	name = Nyx
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_3
+	trait = dragon_physique_good_2
+	trait = dragon_impulsive
+	trait = dragon_restrained
+
+
+	disallow_random_traits = yes
+
+	7702.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:lighter
+			}
+			set_variable = {
+			name = color
+			value = flag:teal
+			}
+		}
+	}
+	7871.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Vaemerian_2 # Maron
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_zhaeryth
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_wormax = {
+	name = Wormax
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_3
+	trait = dragon_physique_good_3
+	trait = dragon_skittish
+	trait = dragon_calculating
+	trait = dragon_restrained
+
+
+	disallow_random_traits = yes
+
+	7635.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:lighter
+			}
+			set_variable = {
+			name = color
+			value = flag:teal
+			}
+		}
+	}
+	7868.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Zumeryon_1 # Maegor
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_aerionor
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_gorax = {
+	name = Gorax
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_3
+	trait = dragon_physique_good_3
+	trait = dragon_friendly
+	trait = dragon_impulsive
+	trait = dragon_supporting
+
+
+	disallow_random_traits = yes
+
+	7650.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:lightest
+			}
+			set_variable = {
+			name = color
+			value = flag:black
+			}
+		}
+	}
+	7870.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Jultarion_1 # Faedor
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_jaeryn
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_barthor = {
+	name = Barthor
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_5
+	trait = dragon_physique_good_2
+	trait = dragon_spindly
+	trait = dragon_cooperative
+	trait = dragon_supporting
+	trait = dragon_skittish
+
+
+	disallow_random_traits = yes
+
+	7699.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:middle
+			}
+			set_variable = {
+			name = color
+			value = flag:purple
+			}
+		}
+	}
+	7869.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Hanserion_1 # Vargon
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_faelith
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_rexiax = {
+	name = Rexiax
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_3
+	trait = dragon_physique_good_1
+	trait = dragon_ugly
+	trait = dragon_cooperative
+	trait = dragon_accepting
+	trait = dragon_aggressive
+
+
+	disallow_random_traits = yes
+
+	7719.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:lightest
+			}
+			set_variable = {
+			name = color
+			value = flag:green
+			}
+		}
+	}
+	7860.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Ullaryon_1 # Ilythra
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_zhaelthor
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_neltrix = {
+	name = Neltrix
+	female = yes
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_3
+	trait = dragon_physique_good_1
+	trait = dragon_spindly
+	trait = dragon_voracious
+	trait = dragon_skittish
+	trait = dragon_imperious
+
+
+	disallow_random_traits = yes
+
+	7834.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:darker
+			}
+			set_variable = {
+			name = color
+			value = flag:pink
+			}
+		}
+	}
+	7880.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Penloryon_1 # Sorylla
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.1.1 = {
+		effect = {
+			set_variable = { name = clutches value = 1 }
+		}
+		create_character_memory = {
+			type = agot_dragon_laid_clutch_2
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_elythorion
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_vhalix = {
+	name = Vhalix
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_4
+	trait = dragon_physique_good_2
+	trait = dragon_aggressive
+	trait = dragon_impulsive
+	trait = dragon_imperious
+
+
+	disallow_random_traits = yes
+
+	7816.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:lighter
+			}
+			set_variable = {
+			name = color
+			value = flag:white
+			}
+		}
+	}
+	7886.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Vuloryon_1 # Zaelor
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_ilyrion
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_rend = {
+	name = Rend
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_5
+	trait = dragon_physique_good_3
+	trait = dragon_impulsive
+	trait = dragon_skittish
+	trait = dragon_aggressive
+
+
+	disallow_random_traits = yes
+
+	7712.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:lighter
+			}
+			set_variable = {
+			name = color
+			value = flag:blue
+			}
+		}
+	}
+	7879.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Orarion_1 # Loryx
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_daenyth
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_tearmax = {
+	name = Tearmax
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_5
+	trait = dragon_physique_good_1
+	trait = dragon_calculating
+	trait = dragon_supporting
+	trait = dragon_friendly
+
+
+	disallow_random_traits = yes
+
+	7750.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:darker
+			}
+			set_variable = {
+			name = color
+			value = flag:orange
+			}
+		}
+	}
+	7869.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Musarion_1 # Vaemir
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_gaelzor
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_verox = {
+	name = Verox
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_3
+	trait = dragon_physique_good_1
+	trait = dragon_friendly
+	trait = dragon_calculating
+	trait = dragon_restrained
+
+
+	disallow_random_traits = yes
+
+	7688.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:darker
+			}
+			set_variable = {
+			name = color
+			value = flag:grey
+			}
+		}
+	}
+	7869.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Nilfarion_1 # Coryella
+				DRAGON = ROOT
+			}
+		}
+	}
+	7886.7.1 = {
+		effect = {
+			agot_assign_dragon_to_pit_history_effect = {
+				DRAGONPIT_COUNTY = title:c_xaelrynor
+			}
+		}
+	}
+	7992.1.1 = { death = { death_reason = death_old_age } }
+}
+dragon_terraks = {
+	name = Terraks
+
+	religion = valyrian_pan_freehold
+	culture = dragon_culture
+
+	trait = dragon
+	trait = education_dragon_4
+	trait = dragon_physique_good_1
+	trait = dragon_calculating
+	trait = dragon_supporting
+	trait = dragon_friendly
+
+
+	disallow_random_traits = yes
+
+	7850.1.1 = {
+		birth = yes
+		effect = {
+			set_variable = {
+			name = color_grading
+			value = flag:darker
+			}
+			set_variable = {
+			name = color
+			value = flag:blue
+			}
+		}
+	}
+	7885.1.1 = {
+		effect = {
+			agot_tame_dragon = {
+				TAMER = character:Atreides_2 # Naerys
+				DRAGON = ROOT
+			}
+		}
+	}
+	8092.1.1 = { death = { death_reason = death_old_age } }
+}

@@ -1,0 +1,159 @@
+﻿freehold_archonate_elective = {
+	elector_vote_strength = {
+		base = 0
+		#modifier = { # Wealth
+		#	desc = tooltip_magisterial_wealth
+		#	gold > 0
+		#	add = gold
+		#}
+		modifier = {
+			desc = tooltip_house_dragons
+			add = {
+				this.house = {
+					every_house_member = {
+						limit = { has_trait = dragonrider }
+						add = 1
+					}
+				}
+			}
+		}
+	}
+	
+	electors = {
+		add = holder
+		add = {
+			type = holder_direct_vassals
+			limit = {
+				is_house_head = yes
+				has_trait = dragonrider
+			}
+		}
+	}
+
+	candidate_score = {
+		base = 0
+		######################	Elector self-voting pattern	##########################
+		elector_self_voting_pattern_feudal_elective_modifier = yes
+
+		##########################	Holder voting pattern	##########################
+		holder_voting_pattern_feudal_elective_modifier = yes
+
+		##########################	Elector voting patterns (circumstances)	##########################
+		elector_voting_pattern_circumstances_feudal_elective_modifier = yes
+
+		##########################	Elector voting patterns (prestige/piety)	##########################
+		elector_voting_pattern_prestige_piety_feudal_elective_modifier = yes
+
+		##########################	Elector voting patterns (traits)	##########################
+		elector_voting_pattern_traits_feudal_elective_modifier = yes
+
+		##########################	Elector voting patterns (opinion)	##########################
+		elector_voting_pattern_opinion_feudal_elective_modifier = yes
+
+		##########################	Elector voting patterns (house dragons)	##########################
+		freehold_voting_pattern_dragons_elective_modifier = yes
+
+		modifier = {
+			desc = tooltip_feudal_elector_vote_child
+			scope:candidate = {
+				age < 16
+			}
+			add = -200
+		}
+	}
+	
+	candidates = {
+		add = {
+			type = holder_direct_vassals
+			limit = {
+				is_adult = yes
+				is_landed = yes
+				primary_title.tier = tier_duchy
+				government_has_flag = government_is_freehold
+				has_trait = dragonrider
+			}
+		}
+	}
+}
+
+freehold_primarch_elective = {
+	elector_vote_strength = {
+		base = 1
+		modifier = {
+			desc = tooltip_house_dragons
+			add = {
+				this.house = {
+					every_house_member = {
+						limit = { has_trait = dragonrider }
+						add = 1
+					}
+				}
+			}
+		}
+		modifier = {
+			desc = tooltip_primarch_vote_strength
+			add = 2
+			highest_held_title_tier = 5
+		}
+		modifier = {
+			desc = tooltip_archon_vote_strength
+			add = 1
+			highest_held_title_tier = 4
+		}
+	}
+	
+	electors = {
+		add = holder
+		add = {
+			type = title_dejure_vassals
+			limit = {
+				is_house_head = yes
+				has_trait = dragonrider
+			}
+		}
+	}
+
+	candidate_score = {
+		base = 0
+		######################	Elector self-voting pattern	##########################
+		elector_self_voting_pattern_feudal_elective_modifier = yes
+
+		##########################	Holder voting pattern	##########################
+		holder_voting_pattern_feudal_elective_modifier = yes
+
+		##########################	Elector voting patterns (circumstances)	##########################
+		elector_voting_pattern_circumstances_feudal_elective_modifier = yes
+
+		##########################	Elector voting patterns (prestige/piety)	##########################
+		elector_voting_pattern_prestige_piety_feudal_elective_modifier = yes
+
+		##########################	Elector voting patterns (traits)	##########################
+		elector_voting_pattern_traits_feudal_elective_modifier = yes
+
+		##########################	Elector voting patterns (opinion)	##########################
+		elector_voting_pattern_opinion_feudal_elective_modifier = yes
+
+		##########################	Elector voting patterns (house dragons)	##########################
+		freehold_voting_pattern_dragons_elective_modifier = yes
+
+		modifier = {
+			desc = tooltip_feudal_elector_vote_child
+			scope:candidate = {
+				age < 16
+			}
+			add = -200
+		}
+	}
+	
+	candidates = {
+		add = {
+			type = holder_direct_vassals
+			limit = {
+				is_adult = yes
+				is_landed = yes
+				primary_title.tier = tier_kingdom
+				government_has_flag = government_is_freehold
+			}
+		}
+	}
+}

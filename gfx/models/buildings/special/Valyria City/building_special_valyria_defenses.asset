@@ -1,0 +1,59 @@
+pdxmesh = {
+	name = "building_special_valyria_defenses_mesh"
+	file = "building_special_valyria_defenses.mesh"
+
+	meshsettings = {
+		name = "building_special_valyria_citadelShape"
+		index = 0
+		texture_diffuse = "PDXmat_building_special_valyria_citadelShape_diffuse.dds"
+		texture_normal = "PDXmat_building_special_valyria_citadelShape_normal.dds"
+		texture_specular = "PDXmat_building_special_valyria_citadelShape_properties.dds"
+		shader = "standard_winter"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "building_special_valyria_entranceShape"
+		index = 0
+		texture_diffuse = "PDXmat_building_special_valyria_entranceShape_diffuse.dds"
+		texture_normal = "PDXmat_building_special_valyria_entranceShape_normal.dds"
+		texture_specular = "PDXmat_building_special_valyria_entranceShape_properties.dds"
+		shader = "standard_winter"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "building_special_valyria_spikesShape"
+		index = 0
+		texture_diffuse = "PDXmat_building_special_valyria_spikesShape_diffuse.dds"
+		texture_normal = "PDXmat_building_special_valyria_spikesShape_normal.dds"
+		texture_specular = "PDXmat_building_special_valyria_spikesShape_properties.dds"
+		shader = "standard_winter"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "building_special_valyria_turretsShape"
+		index = 0
+		texture_diffuse = "PDXmat_building_special_valyria_turretsShape_diffuse.dds"
+		texture_normal = "PDXmat_building_special_valyria_turretsShape_normal.dds"
+		texture_specular = "PDXmat_building_special_valyria_turretsShape_properties.dds"
+		shader = "standard_winter"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "building_special_valyria_wallsShape"
+		index = 0
+		texture_diffuse = "PDXmat_building_special_valyria_wallsShape_diffuse.dds"
+		texture_normal = "PDXmat_building_special_valyria_wallsShape_normal.dds"
+		texture_specular = "PDXmat_building_special_valyria_wallsShape_properties.dds"
+		shader = "standard_winter"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+}
+
+entity = {
+	name = "building_special_valyria_defenses_entity"
+	pdxmesh = "building_special_valyria_defenses_mesh"
+}

@@ -1,0 +1,48 @@
+﻿vf_valyria = {
+	county = c_valyria
+	barony = b_valyria
+	character_modifier = {
+		cultural_head_fascination_mult = 0.15
+		monthly_county_control_growth_factor = 0.05
+	}
+}
+vf_tyria = {
+	county = c_saelion
+	barony = b_caelthar
+	character_modifier = {
+		opinion_of_different_faith = 20
+		development_growth_factor = 0.1
+	}
+}
+vf_oros = {
+	county = c_aerionor
+	barony = b_naelyxion
+	character_modifier = {
+		opinion_of_different_faith = 20
+		knight_effectiveness_mult = 0.1
+	}
+}
+vf_elyria = {
+	county = c_valthar
+	barony = b_vaerynar
+	character_modifier = {
+		opinion_of_different_faith = 20
+		martial_per_prestige_level = 1
+	}
+}
+vf_tolos = {
+	county = c_aelzor
+	barony = b_aeryxor
+	character_modifier = {
+		max_combat_roll = 4
+		attacker_advantage = 5
+	}
+}
+vf_dragonstone = {
+	county = c_dragonstone
+	barony = b_dragonstone
+	character_modifier = {
+		opinion_of_different_faith = 20
+		same_faith_opinion = 10
+	}
+}
