@@ -182,7 +182,7 @@ Atreides_1 = {
 	trait = patient
 	trait = temperate
 	trait = education_martial_prowess_5
-	trait = lifestyle_blademaster_3_history
+	trait = lifestyle_blademaster
 
 	disallow_random_traits = yes
 
@@ -960,7 +960,7 @@ Melnibone_1 = {
 	trait = depressed_1
 	trait = patient
 	trait = just
-	trait = lifestyle_mystic_3_history
+	trait = lifestyle_mystic
 
 	7863.1.1 = {
 		birth = yes
@@ -3559,7 +3559,7 @@ Hanserion_2 = {
 	trait = paranoid
 	trait = lustful
 	trait = murderer
-	trait = kinslayer
+	trait = kinslayer_1
 
 	disallow_random_traits = yes
 
@@ -3981,3 +3981,83 @@ Nilfarion_2 = {
 	}
 	7950.1.1 = { death = { death_reason = death_old_age } }
 }
+
+# ============================================================
+# ANCESTOR STUBS - parents referenced by existing characters
+# These are required to avoid null-pointer crash during history
+# ============================================================
+
+Mataeryon_1 = {
+	name = Maerys
+	dynasty = dynn_Mataeryon
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	disallow_random_traits = yes
+	trait = education_learning_2
+	7830.1.1 = { birth = yes }
+	7925.1.1 = { death = { death_reason = death_old_age } }
+}
+
+Varezys_1 = {
+	name = Vaekar
+	dynasty = dynn_Varezys
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	disallow_random_traits = yes
+	trait = education_intrigue_2
+	7830.1.1 = { birth = yes }
+	7925.1.1 = { death = { death_reason = death_old_age } }
+}
+
+Melnibone_1_dad = {
+	name = Elric
+	dynasty = dynn_Melnibone
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	disallow_random_traits = yes
+	trait = education_martial_2
+	7820.1.1 = { birth = yes }
+	7880.1.1 = { death = { death_reason = death_old_age } }
+}
+
+Jentys_1_wife = {
+	name = Aelyx
+	dynasty = dynn_Jentys
+	female = yes
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	disallow_random_traits = yes
+	trait = education_diplomacy_2
+	7855.1.1 = { birth = yes }
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+
+# ============================================================
+# MISSING TITLE HOLDERS - referenced in title history files
+# ============================================================
+
+Sonaryen_1 = {
+	name = Sonar
+	dynasty = dynn_Sonaryen
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	disallow_random_traits = yes
+	trait = education_diplomacy_3
+	trait = gregarious
+	7850.1.1 = { birth = yes }
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+
+Urnebar_1 = {
+	name = Urne
+	dynasty = dynn_Urnebar
+	culture = high_valyrian
+	religion = valyrian_pan_freehold
+	disallow_random_traits = yes
+	trait = education_stewardship_3
+	trait = diligent
+	7850.1.1 = { birth = yes }
+	7950.1.1 = { death = { death_reason = death_old_age } }
+}
+
+

@@ -125,7 +125,7 @@
 			dynasty:dynn_Atreides.dynast = {
 				send_interface_toast = {
 					title = dusk_refused_title
-					custom_tooltip = dusk_refused_desc
+					desc = dusk_refused_desc
 					left_icon = scope:recipient
 				}
 			}

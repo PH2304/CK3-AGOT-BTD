@@ -1,4 +1,4 @@
-﻿dragon_Zaldrīzes = {
+﻿dragon_zaldrizes = {
 	name = Zaldrīzes
 
 	religion = valyrian_pan_freehold
@@ -635,7 +635,7 @@ dragon_blackfyre = {
 	7886.7.1 = {
 		effect = {
 			agot_assign_dragon_to_pit_history_effect = {
-				DRAGONPIT_COUNTY = title:brynysor
+				DRAGONPIT_COUNTY = title:c_brynysor
 			}
 		}
 	}
@@ -958,7 +958,7 @@ dragon_binx = {
 	7886.7.1 = {
 		effect = {
 			agot_assign_dragon_to_pit_history_effect = {
-				DRAGONPIT_COUNTY = title:aelzor
+				DRAGONPIT_COUNTY = title:c_aelzor
 			}
 		}
 	}

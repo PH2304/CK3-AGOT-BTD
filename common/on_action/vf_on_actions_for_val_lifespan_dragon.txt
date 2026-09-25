@@ -18,6 +18,10 @@ vf_valyrian_modifier_count = {
 		}
 	}
 	effect = {
+		# BUG-16 FIX: Restructured counter logic to avoid race condition.
+		# The second 'if' was independent, causing the modifier to be removed
+		# in the same tick it was incremented to 6. Now using else_if to ensure
+		# proper sequential evaluation.
 		if = {
 			limit = {
 				NOT = { exists = var:vf_count_to_five }
@@ -30,15 +34,17 @@ vf_valyrian_modifier_count = {
 		else_if = {
 			limit = {
 				exists = var:vf_count_to_five
+				var:vf_count_to_five < 6
 			}
 			change_variable = {
 				name = vf_count_to_five
 				add = 1
 			}
 		}
-		if = {
+		else_if = {
+			# BUG-16 FIX: Only remove after the counter has been >= 6 for a full tick
 			limit = {
-				var:vf_count_to_five ?= 6
+				var:vf_count_to_five >= 6
 			}
 			remove_character_modifier = vf_lives_in_valyria_modifier
 			remove_variable = vf_count_to_five
@@ -51,8 +57,16 @@ vf_apply_valyrian_dragon_modifier = {
 		vf_dragon_or_its_rider_lives_in_valyria = yes
 	}
 	effect = {
-		add_character_modifier = {
-			modifier = vf_lives_in_valyria_modifier
+		# BUG-06 FIX: Only add the modifier if it is not already present.
+		# Without this check, every dragon birthday would stack another permanent
+		# instance of vf_lives_in_valyria_modifier, causing massive unintended bonuses.
+		if = {
+			limit = {
+				NOT = { has_character_modifier = vf_lives_in_valyria_modifier }
+			}
+			add_character_modifier = {
+				modifier = vf_lives_in_valyria_modifier
+			}
 		}
 	}
 }

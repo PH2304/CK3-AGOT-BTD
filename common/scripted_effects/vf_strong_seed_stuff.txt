@@ -194,6 +194,16 @@
 			vf_apply_strong_seed = yes
 		}
 	}
+	dynasty:dynn_Varezys = {
+		every_dynasty_member = {
+			vf_apply_strong_seed = yes
+		}
+	}
+	dynasty:dynn_Mataeryon = {
+		every_dynasty_member = {
+			vf_apply_strong_seed = yes
+		}
+	}
 }
 
 vf_apply_strong_seed = {
@@ -239,12 +249,20 @@ vf_apply_strong_seed = {
 				dynasty ?= dynasty:dynn_Tulgaryan
 				dynasty ?= dynasty:dynn_Helerion
 				dynasty ?= dynasty:dynn_Eideryon
+				# BUG-23 FIX: dynn_Varezys and dynn_Mataeryon are playable in the bookmark
+				# but were missing from the strong seed list — their members had no guaranteed
+				# silver hair / purple eyes at game start
+				dynasty ?= dynasty:dynn_Varezys
+				dynasty ?= dynasty:dynn_Mataeryon
 			}
 		}
+		# AGOT Parity: make_trait_inactive assigns the genetic trait as inactive so it passes to offspring
 		random_list = {
 			1 = { make_trait_inactive = cool_silver_hair }
 			1 = { make_trait_inactive = cool_neutral_silver_hair }
 			1 = { make_trait_inactive = neutral_silver_hair }
+			1 = { make_trait_inactive = silver_blonde_hair }
+			1 = { make_trait_inactive = silver_gold_hair }
 		}
 		random_list = {
 			1 = { make_trait_inactive = purple_eyes_1 }

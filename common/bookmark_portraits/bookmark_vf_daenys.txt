@@ -1,4 +1,4 @@
-# Auto generated file, do not edit manually. Created using console command dump_bookmark_portraits
+﻿# Auto generated file, do not edit manually. Created using console command dump_bookmark_portraits
 # History database id:Targaryen_15
 bookmark_vf_daenys={
 	type=female
@@ -115,21 +115,21 @@ bookmark_vf_daenys={
  		gene_dragon_aging={ "non_dragon_aging" 127 "non_dragon_aging" 127 }
  		gene_camera_zoom={ "no_camera_zoom" 0 "no_camera_zoom" 0 }
  		gene_dragon_size={ "non_dragon_size" 127 "non_dragon_size" 127 }
- 		gene_dragon_skin_hue={ "dragon_skin_hue" 127 "dragon_skin_hue" 127 }
- 		gene_dragon_skin_value={ "dragon_skin_value" 127 "dragon_skin_value" 127 }
- 		gene_dragon_highlight_hue={ "dragon_highlight_hue" 127 "dragon_highlight_hue" 127 }
- 		gene_dragon_highlight_value={ "dragon_highlight_value" 127 "dragon_highlight_value" 127 }
- 		gene_dragon_eye_hue={ "dragon_eye_hue" 127 "dragon_eye_hue" 127 }
- 		gene_dragon_eye_value={ "dragon_eye_value" 127 "dragon_eye_value" 127 }
- 		gene_dragon_horn_hue={ "dragon_horn_hue" 127 "dragon_horn_hue" 127 }
- 		gene_dragon_horn_value={ "dragon_horn_value" 127 "dragon_horn_value" 127 }
+ 		gene_dragon_primary_color_hue={ "dragon_primary_color_hue" 127 "dragon_skin_hue" 127 }
+ 		gene_dragon_primary_color_value={ "dragon_primary_color_value" 127 "dragon_skin_value" 127 }
+ 		gene_dragon_secondary_hue={ "dragon_secondary_hue" 127 "dragon_highlight_hue" 127 }
+ 		gene_dragon_secondary_value={ "dragon_secondary_value" 127 "dragon_highlight_value" 127 }
+ 		gene_dragon_eye_color_hue={ "dragon_eye_color_hue" 127 "dragon_eye_hue" 127 }
+ 		gene_dragon_eye_color_value={ "dragon_eye_color_value" 127 "dragon_eye_value" 127 }
+ 		gene_dragon_horn_color_hue={ "dragon_horn_color_hue" 127 "dragon_horn_hue" 127 }
+ 		gene_dragon_horn_color_value={ "dragon_horn_color_value" 127 "dragon_horn_value" 127 }
  		gene_dragon_brow_width={ "dragon_brow_width" 127 "dragon_brow_width" 127 }
  		gene_dragon_cheek_width={ "dragon_cheek_width" 127 "dragon_cheek_width" 127 }
  		gene_dragon_chin_profile={ "dragon_chin_profile" 127 "dragon_chin_profile" 127 }
  		gene_dragon_crest_depth={ "dragon_crest_depth" 127 "dragon_crest_depth" 127 }
  		gene_dragon_head_roundness={ "dragon_head_roundness" 127 "dragon_head_roundness" 127 }
  		gene_dragon_horns_eyebrow_length={ "dragon_horns_eyebrow_length" 127 "dragon_horns_eyebrow_length" 127 }
- 		gene_dragon_main_horn_shape={ "dragon_horns_none" 127 "dragon_horns_none" 127 }
+ 		gene_dragon_main_horn_shape={ "dragon_horns_drogon" 127 "dragon_horns_drogon" 127 }
  		gene_dragon_jaw_width={ "dragon_jaw_width" 127 "dragon_jaw_width" 127 }
  		gene_dragon_lower_jaw_height={ "dragon_lower_jaw_height" 127 "dragon_lower_jaw_height" 127 }
  		gene_dragon_lower_jaw_width={ "dragon_lower_jaw_width" 127 "dragon_lower_jaw_width" 127 }

@@ -15,7 +15,7 @@ vf_dragonpit_redirect.0001 = {
 	}
 
 	immediate = {
-		every_realm_province = {
+		random_realm_province = {
 			limit = {
 				has_building = vf_dragon_tower_01
 			}

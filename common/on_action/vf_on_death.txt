@@ -9,13 +9,23 @@ vf_on_death = {
 		root = {
 			every_character_artifact = {
 				limit = { has_variable = is_dusk }
-				set_owner = {
-					target = dynasty:dynn_Atreides.dynast
-					history = {
-						location = dynasty:dynn_Atreides.dynast.location
-						actor = dynasty:dynn_Atreides.dynast
-						recipient = root
-						type = inherited
+				if = {
+					limit = { exists = dynasty:dynn_Atreides.dynast }
+					set_owner = {
+						target = dynasty:dynn_Atreides.dynast
+						history = {
+							location = dynasty:dynn_Atreides.dynast.location
+							actor = dynasty:dynn_Atreides.dynast
+							recipient = root
+							type = inherited
+						}
+					}
+					# BUG-03 FIX: Equip the sword on the new owner so it isn't stuck in inventory
+					dynasty:dynn_Atreides.dynast = {
+						random_character_artifact = {
+							limit = { has_variable = is_dusk }
+							equip_artifact_to_owner_replace = yes
+						}
 					}
 				}
 			}

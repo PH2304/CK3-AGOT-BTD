@@ -53,8 +53,6 @@ vf_game_start = {
 				add_innovation = innovation_agot_anti_dragon_fighting
 			}
 		}
-
-		too_lazy_to_change_the_generated_counties_liege_in_the_files_effect = yes # From base AGOT mod - verify it exists
 		vf_dynasty_strong_seeds = yes
 		vf_assign_starting_dragon_eggs_effect = yes
 
@@ -106,20 +104,8 @@ vf_game_start = {
 		dynasty:dynn_Helerion = { vf_valyrian_dynasty_setup = yes }
 		dynasty:dynn_Eideryon = { vf_valyrian_dynasty_setup = yes }
 
-		dynasty:dynn_Varezys = {
-			agot_safe_add_dynasty_perk_history_effect = { PERK = dragonrider_dynasty_legacy_1 }
-			agot_safe_add_dynasty_perk_history_effect = { PERK = dragonrider_dynasty_legacy_2 }
-			agot_safe_add_dynasty_perk_history_effect = { PERK = dragonrider_dynasty_legacy_3 }
-			agot_safe_add_dynasty_perk_history_effect = { PERK = dragonrider_dynasty_legacy_4 }
-			agot_safe_add_dynasty_perk_history_effect = { PERK = dragonrider_dynasty_legacy_5 }
-		}
-		dynasty:dynn_Mataeryon = {
-			agot_safe_add_dynasty_perk_history_effect = { PERK = dragonrider_dynasty_legacy_1 }
-			agot_safe_add_dynasty_perk_history_effect = { PERK = dragonrider_dynasty_legacy_2 }
-			agot_safe_add_dynasty_perk_history_effect = { PERK = dragonrider_dynasty_legacy_3 }
-			agot_safe_add_dynasty_perk_history_effect = { PERK = dragonrider_dynasty_legacy_4 }
-			agot_safe_add_dynasty_perk_history_effect = { PERK = dragonrider_dynasty_legacy_5 }
-		}
+		dynasty:dynn_Varezys = { vf_valyrian_dynasty_setup = yes }
+		dynasty:dynn_Mataeryon = { vf_valyrian_dynasty_setup = yes }
 
 		## Manage valyrian_heritage_dynasty_modifier and dragonrider_house_modifier
 		#dynasty:dynn_Atreides = { add_dynasty_modifier = valyrian_heritage_dynasty_modifier }
@@ -211,7 +197,8 @@ vf_on_game_start_after_lobby = {
 	effect = {
 		if = {
 			limit = {
-				game_start_date = 7888.1.1
+				# BUG-04 FIX: use >= for consistency with vf_game_start and to support future bookmarks
+				game_start_date >= 7888.1.1
 			}
 			vf_artifact_setup = yes
 			vf_dragon_setup = yes

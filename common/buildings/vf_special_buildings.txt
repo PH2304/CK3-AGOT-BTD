@@ -46,6 +46,7 @@ vf_valyria_city_defenses = {
 	construction_time = very_slow_construction_time
 
 	can_construct_potential = {
+		always = no
 	}
 
 	can_construct_showing_failures_only = {
@@ -137,6 +138,7 @@ vf_valyria_city_industrial = {
 	construction_time = very_slow_construction_time
 
 	can_construct_potential = {
+		always = no
 	}
 
 	can_construct_showing_failures_only = {
@@ -181,6 +183,7 @@ vf_valyria_city_entertainment = {
 	construction_time = very_slow_construction_time
 
 	can_construct_potential = {
+		always = no
 	}
 
 	can_construct_showing_failures_only = {
@@ -225,6 +228,7 @@ vf_valyria_city_sept = {
 	construction_time = very_slow_construction_time
 
 	can_construct_potential = {
+		always = no
 	}
 
 	can_construct_showing_failures_only = {

@@ -27,7 +27,7 @@
 			name = "bookmark_vf_gaemon"
 			relation = "BOOKMARK_RELATION_SON"
 			dynasty = dynn_Targaryen
-			type = female
+			type = male
 			birth = 7868.1.1
 			culture = high_valyrian
 			religion = valyrian_pan_freehold
@@ -62,7 +62,7 @@
 		history_id = Atreides_1
 		position = { 770 750 }
 
-		animation = martial
+		animation = marshal
 
 		character = {
 			name = "bookmark_vf_naerys"

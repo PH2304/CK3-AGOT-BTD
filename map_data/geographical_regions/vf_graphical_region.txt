@@ -4,4 +4,13 @@
 	regions = {
 		world_valyrian_peninsula
 	}
+	# Sea, river, lake, and impassable provinces (must be in a graphical region to avoid errors)
+	provinces = {
+		# Sea zones (6916-6936 missing from sea_zones range)
+		6916 6918 6919 6920 6921 6922 6923 6924 6925 6926 6927 6928 6929 6930 6931 6932 6933 6934 6935 6936
+		# River provinces
+		7274 7277 8201 8202 8203 8204 8205 8206 8207
+		# Additional sea/impassable provinces
+		8208 8213 8214 8216
+	}
 }

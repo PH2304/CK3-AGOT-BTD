@@ -31,7 +31,7 @@ change_to_administrative_effect = {
 				}
 			}
 		}
-		# create_noble_family_effect = yes # Removed: requires arguments in AGOT override
+		create_noble_family_effect = { GOVERNMENT_GIVER = top_liege }
 	}
 
 	hidden_effect = {
@@ -83,14 +83,14 @@ agot_change_dragonpit_status = {
 		limit = {
 			has_character_flag = in_dragonpit
 		}
-		agot_send_to_dragonpit = { DRAGON = root DRAGONPIT_HOLDER = scope:owner DRAGONPIT_COUNTY = scope:dragon_pit_location }
+		agot_send_to_dragonpit_effect = { DRAGON = root DRAGONPIT_HOLDER = scope:owner DRAGONPIT_COUNTY = scope:dragon_pit_location }
 	}
 	if = {
 		limit = {
 			has_character_flag = owned_dragon
 			NOT = { has_character_flag = in_dragonpit }
 		}
-		agot_send_to_dragonpit = { DRAGON = root DRAGONPIT_HOLDER = scope:owner DRAGONPIT_COUNTY = scope:dragon_pit_location }
+		agot_send_to_dragonpit_effect = { DRAGON = root DRAGONPIT_HOLDER = scope:owner DRAGONPIT_COUNTY = scope:dragon_pit_location }
 	}
 	if = {
 		limit = {
@@ -131,14 +131,14 @@ agot_change_dragonpit_status_ai = {
 			limit = {
 				has_character_flag = in_dragonpit
 			}
-			agot_send_to_dragonpit = { DRAGON = $DRAGON_REC$ DRAGONPIT_HOLDER = $OWNER$ DRAGONPIT_COUNTY = scope:dragon_pit_location }
+			agot_send_to_dragonpit_effect = { DRAGON = $DRAGON_REC$ DRAGONPIT_HOLDER = $OWNER$ DRAGONPIT_COUNTY = scope:dragon_pit_location }
 		}
 		if = {
 			limit = {
 				has_character_flag = owned_dragon
 				NOT = { has_character_flag = in_dragonpit }
 			}
-			agot_send_to_dragonpit = { DRAGON = $DRAGON_REC$ DRAGONPIT_HOLDER = $OWNER$ DRAGONPIT_COUNTY = scope:dragon_pit_location }
+			agot_send_to_dragonpit_effect = { DRAGON = $DRAGON_REC$ DRAGONPIT_HOLDER = $OWNER$ DRAGONPIT_COUNTY = scope:dragon_pit_location }
 		}
 		if = {
 			limit = {

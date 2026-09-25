@@ -1,1 +1,2 @@
-﻿
+﻿# vf_on_title_gain — reservado para uso futuro
+# BUG-13 FIX: arquivo estava vazio; mantido como placeholder comentado

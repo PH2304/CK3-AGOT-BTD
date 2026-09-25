@@ -11,7 +11,7 @@ worthy_sword_of_the_evening_trigger = {
 		AND = {
 			is_agot_knight_trigger = yes
 			has_trait = lifestyle_blademaster
-			age < 16
+			age >= 16
 		}
 	}
 	prowess >= 20

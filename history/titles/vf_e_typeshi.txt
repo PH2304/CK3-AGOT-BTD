@@ -8,7 +8,7 @@
 					exists = holder
 					holder = { has_government = freehold_government }
 				}
-				set_state_faith = faith:valyrian
+				set_state_faith = faith:valyrian_pan_freehold
 			}
 			if = {
 				limit = {
@@ -63,7 +63,7 @@
 					has_dlc_feature = royal_court
 				}
 				holder = {
-					set_court_language = language_valyrian
+					set_court_language = language_agot_valyrian
 					if = {
 						limit = { NOT = { knows_court_language_of = this } }
 						learn_court_language_of = this

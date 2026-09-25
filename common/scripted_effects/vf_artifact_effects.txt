@@ -33,9 +33,11 @@
 			name = historical_unique_artifact
 			value = yes
 		}
+		# BUG-15 FIX: was incorrectly set to dynasty:dynn_Roxton (copy-paste from AGOT base).
+		# Stormbringer belongs to House Melnibone in the BTD setting, not House Roxton.
 		set_variable = {
 			name = traditional_house_owner
-			value = dynasty:dynn_Roxton.dynasty_founder.house
+			value = dynasty:dynn_Melnibone.dynasty_founder.house
 		}
 		agot_add_artifact_history = {
 			ARTIFACT = this
@@ -67,12 +69,11 @@ vf_create_artifact_vs_dusk_effect = {
 		decaying = no
 	}
 	scope:newly_created_artifact = {
-		if = {
-			limit = {
-				scope:owner = { has_character_flag = is_sword_of_evening }
-			}
-			equip_artifact_to_owner_replace = yes
-		}
+		# BUG-08 FIX: The original code only equipped Dusk if 'is_sword_of_evening' flag existed,
+		# but that flag is never set before artifact creation — so Dusk was NEVER equipped at game start.
+		# Now Dusk is always equipped on the owner at creation. The 'claim_dusk_worthy_decision'
+		# will still properly restrict which character can legitimately wield it via is_shown/is_valid.
+		equip_artifact_to_owner_replace = yes
 		set_variable = {
 			name = valyrian_steel
 			value = yes
@@ -145,5 +146,7 @@ vf_create_artifact_valyrian_crown_effect = {
 		set_variable = { name = westerosi_valyrian_crown2_artifact value = yes }
 		set_variable = { name = historical_unique_artifact value = yes }
 		set_variable = { name = vf_crown value = yes }
+		# BUG-21 FIX: Crown was created but never equipped — added equip call
+		equip_artifact_to_owner_replace = yes
 	}
 }

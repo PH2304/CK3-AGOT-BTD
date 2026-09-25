@@ -2,32 +2,35 @@
 	value = 0
 	if = {
 		limit = {
+			exists = var:current_dragon
 			OR = {
-				root.var:current_dragon = { level_zero_dragon_size_trigger = yes }
-				root.var:current_dragon = { level_one_dragon_size_trigger = yes }
-				root.var:current_dragon = { level_two_dragon_size_trigger = yes }
+				var:current_dragon = { level_zero_dragon_size_trigger = yes }
+				var:current_dragon = { level_one_dragon_size_trigger = yes }
+				var:current_dragon = { level_two_dragon_size_trigger = yes }
 			}
 		}
 		add = 10
 	}
 	else_if = {
 		limit = {
+			exists = var:current_dragon
 			OR = {
-				root.var:current_dragon = { level_three_dragon_size_trigger = yes }
-				root.var:current_dragon = { level_four_dragon_size_trigger = yes }
-				root.var:current_dragon = { level_five_dragon_size_trigger = yes }
-				root.var:current_dragon = { level_six_dragon_size_trigger = yes }
+				var:current_dragon = { level_three_dragon_size_trigger = yes }
+				var:current_dragon = { level_four_dragon_size_trigger = yes }
+				var:current_dragon = { level_five_dragon_size_trigger = yes }
+				var:current_dragon = { level_six_dragon_size_trigger = yes }
 			}
 		}
 		add = 20
 	}
 	else_if = {
 		limit = {
+			exists = var:current_dragon
 			OR = {
-				root.var:current_dragon = { level_seven_dragon_size_trigger = yes }
-				root.var:current_dragon = { level_eight_dragon_size_trigger = yes }
-				root.var:current_dragon = { level_nine_dragon_size_trigger = yes }
-				root.var:current_dragon = { level_ten_dragon_size_trigger = yes }
+				var:current_dragon = { level_seven_dragon_size_trigger = yes }
+				var:current_dragon = { level_eight_dragon_size_trigger = yes }
+				var:current_dragon = { level_nine_dragon_size_trigger = yes }
+				var:current_dragon = { level_ten_dragon_size_trigger = yes }
 			}
 		}
 		add = 30
@@ -36,10 +39,15 @@
 
 num_of_house_dragoons = {
 	value = 0
-	root.house = {
-		every_house_member = {
-			limit = { has_trait = dragonrider }
-			add = 10
+	if = {
+		limit = { exists = house }
+		add = {
+			house = {
+				every_house_member = {
+					limit = { has_trait = dragonrider }
+					add = 10
+				}
+			}
 		}
 	}
 }

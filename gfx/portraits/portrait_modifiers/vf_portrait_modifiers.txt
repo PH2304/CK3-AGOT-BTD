@@ -40,7 +40,7 @@
 				mode = add
 				gene = clothes
 				template = agot_all_clothes
-				accessory = female_clothes_special_dragon_rider_dynastic_alt_01
+				accessory = female_clothes_special_dragon_rider_01
 			}
 		}
 		weight = {
@@ -70,8 +70,8 @@
 			accessory = {
 				mode = add
 				gene = clothes
-				template = valyrian_war_nobility_clothes
-				accessory = male_clothes_valyrian_war_03
+				template = agot_all_clothes
+				accessory = male_clothes_secular_valyrian_war_05
 			}
 		}
 		weight = {
@@ -96,7 +96,7 @@
 			accessory = {
 				mode = add
 				gene = clothes
-				template = agot_all_clothes
+				template = all_clothes
 				accessory = female_clothes_secular_fp2_iberian_christian_nobility_01_high
 				type = female
 			}

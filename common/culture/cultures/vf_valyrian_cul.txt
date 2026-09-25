@@ -3,16 +3,16 @@
 
 	ethos = ethos_bellicose
 	heritage = heritage_valyrian
-	language = language_valyrian
+	language = language_agot_valyrian  # AGOT 0.5.2.1: renamed from language_valyrian
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 
 	traditions = {
-		agot_tradition_valyrian
+		tradition_agot_high_valyrian  # AGOT 0.5.2.1: renamed from agot_tradition_valyrian
 		tradition_ruling_caste
 		tradition_diasporic
 		tradition_culture_blending
-		vf_tradition_freehold
+		vf_tradition_freehold         # BTD custom tradition
 	}
 
 	name_list = name_list_high_valyrian
@@ -30,8 +30,12 @@
 		western_clothing_gfx
 	}
 	unit_gfx = {
+		high_valyrian_unit_gfx  # AGOT 0.5.2.1: added
 		eastern_unit_gfx
 	}
+	house_coa_frame = house_frame_val1          # AGOT 0.5.2.1: added
+	house_coa_mask_offset = { 0.0 0.0 }        # AGOT 0.5.2.1: added
+	house_coa_mask_scale = { 0.79500034 0.79500034 }  # AGOT 0.5.2.1: added
 
 	ethnicities = {
 		10 = high_valyrian_ethnicity_01
@@ -57,4 +61,7 @@
 		10 = high_valyrian_ethnicity_21
 		10 = high_valyrian_ethnicity_22
 	}
+
+	parents = { valyrian_original }  # AGOT 0.5.2.1: added parent culture chain
+	created = 2500.1.1               # AGOT 0.5.2.1: added creation date
 }

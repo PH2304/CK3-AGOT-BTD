@@ -1,4 +1,4 @@
-#c_aelzor = {
+﻿#c_aelzor = {
 	#7884.7.17 = {
 		 #holder = mrcount_1
 		 #government = freehold_government

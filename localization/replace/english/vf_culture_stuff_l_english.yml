@@ -1,5 +1,14 @@
 ﻿l_english:
+ tradition_vf_tradition_freehold_name:0 "Might of the Freehold"
+ tradition_vf_tradition_freehold_desc:0 "The Valyrian Freehold was built upon dragons, sorcery, and legions of enslaved laborers. Its scions view dominion and servitude as the natural order of the world."
  vf_tradition_freehold_name:0 "Might of the Freehold"
- vf_tradition_freehold_desc:0 ""
+ vf_tradition_freehold_desc:0 "The Valyrian Freehold was built upon dragons, sorcery, and legions of enslaved laborers. Its scions view dominion and servitude as the natural order of the world."
  culture_parameter_vf_slaveowner_trait_gives_bonuses:0 "The [GetTrait('slave_master').GetName( GetNullCharacter )] [trait|E] has additional bonuses"
- 
+ trait_slaver:0 "Slaver"
+ trait_slaver_desc:0 "This character participates in the buying and selling of human beings."
+ trait_slaver_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] participates in the buying and selling of human beings."
+ trait_slave_master:0 "Slaver"
+ trait_slave_master_desc:0 "This character participates in the buying and selling of human beings."
+ trait_slave_master_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] participates in the buying and selling of human beings."
+ slave_master:0 "Slaver"
+ slave_master_desc:0 "This character participates in the buying and selling of human beings."

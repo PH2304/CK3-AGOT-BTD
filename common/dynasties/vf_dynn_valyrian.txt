@@ -165,3 +165,224 @@ dynn_Eideryon = {
 	name = "dynn_Eideryon"
 	culture = "high_valyrian"
 }
+
+# DYNASTIES USED IN vf_counts_with_python.txt (auto-generated count characters)
+dynn_Anogaryen = {
+	name = "dynn_Anogaryen"
+	culture = "high_valyrian"
+}
+dynn_Arranion = {
+	name = "dynn_Arranion"
+	culture = "high_valyrian"
+}
+dynn_Atroksiarys = {
+	name = "dynn_Atroksiarys"
+	culture = "high_valyrian"
+}
+dynn_Celereon = {
+	name = "dynn_Celereon"
+	culture = "high_valyrian"
+}
+dynn_Daomiorys = {
+	name = "dynn_Daomiorys"
+	culture = "high_valyrian"
+}
+dynn_Ezimatheon = {
+	name = "dynn_Ezimatheon"
+	culture = "high_valyrian"
+}
+dynn_Galgaeron = {
+	name = "dynn_Galgaeron"
+	culture = "high_valyrian"
+}
+dynn_Gelenkys = {
+	name = "dynn_Gelenkys"
+	culture = "high_valyrian"
+}
+dynn_Gelionar = {
+	name = "dynn_Gelionar"
+	culture = "high_valyrian"
+}
+dynn_Gevgarys = {
+	name = "dynn_Gevgarys"
+	culture = "high_valyrian"
+}
+dynn_Gryvetheon = {
+	name = "dynn_Gryvetheon"
+	culture = "high_valyrian"
+}
+dynn_Haedaryen = {
+	name = "dynn_Haedaryen"
+	culture = "high_valyrian"
+}
+dynn_Haeteros = {
+	name = "dynn_Haeteros"
+	culture = "high_valyrian"
+}
+dynn_Henaeris = {
+	name = "dynn_Henaeris"
+	culture = "high_valyrian"
+}
+dynn_Hoskagys = {
+	name = "dynn_Hoskagys"
+	culture = "high_valyrian"
+}
+dynn_Huretheon = {
+	name = "dynn_Huretheon"
+	culture = "high_valyrian"
+}
+dynn_Hurys = {
+	name = "dynn_Hurys"
+	culture = "high_valyrian"
+}
+dynn_Ilirigys = {
+	name = "dynn_Ilirigys"
+	culture = "high_valyrian"
+}
+dynn_Jelmazeon = {
+	name = "dynn_Jelmazeon"
+	culture = "high_valyrian"
+}
+dynn_Jenqeleon = {
+	name = "dynn_Jenqeleon"
+	culture = "high_valyrian"
+}
+dynn_Kastaryen = {
+	name = "dynn_Kastaryen"
+	culture = "high_valyrian"
+}
+dynn_Kessatheon = {
+	name = "dynn_Kessatheon"
+	culture = "high_valyrian"
+}
+dynn_Kostagar = {
+	name = "dynn_Kostagar"
+	culture = "high_valyrian"
+}
+dynn_Laergyr = {
+	name = "dynn_Laergyr"
+	culture = "high_valyrian"
+}
+dynn_Laeseon = {
+	name = "dynn_Laeseon"
+	culture = "high_valyrian"
+}
+dynn_Manaereon = {
+	name = "dynn_Manaereon"
+	culture = "high_valyrian"
+}
+dynn_Mazigonys = {
+	name = "dynn_Mazigonys"
+	culture = "high_valyrian"
+}
+dynn_Maznareon = {
+	name = "dynn_Maznareon"
+	culture = "high_valyrian"
+}
+dynn_Merntys = {
+	name = "dynn_Merntys"
+	culture = "high_valyrian"
+}
+dynn_Nuqiryen = {
+	name = "dynn_Nuqiryen"
+	culture = "high_valyrian"
+}
+dynn_Ondoryen = {
+	name = "dynn_Ondoryen"
+	culture = "high_valyrian"
+}
+dynn_Orbareon = {
+	name = "dynn_Orbareon"
+	culture = "high_valyrian"
+}
+dynn_Perzys = {
+	name = "dynn_Perzys"
+	culture = "high_valyrian"
+}
+dynn_Pirtiryen = {
+	name = "dynn_Pirtiryen"
+	culture = "high_valyrian"
+}
+dynn_Pyllyr = {
+	name = "dynn_Pyllyr"
+	culture = "high_valyrian"
+}
+dynn_Qogrorys = {
+	name = "dynn_Qogrorys"
+	culture = "high_valyrian"
+}
+dynn_Qupteneon = {
+	name = "dynn_Qupteneon"
+	culture = "high_valyrian"
+}
+dynn_Quptys = {
+	name = "dynn_Quptys"
+	culture = "high_valyrian"
+}
+dynn_Raegaros = {
+	name = "dynn_Raegaros"
+	culture = "high_valyrian"
+}
+dynn_Ronnon = {
+	name = "dynn_Ronnon"
+	culture = "high_valyrian"
+}
+dynn_Ruakys = {
+	name = "dynn_Ruakys"
+	culture = "high_valyrian"
+}
+dynn_Sytivilar = {
+	name = "dynn_Sytivilar"
+	culture = "high_valyrian"
+}
+dynn_Syzeon = {
+	name = "dynn_Syzeon"
+	culture = "high_valyrian"
+}
+dynn_Tistaleon = {
+	name = "dynn_Tistaleon"
+	culture = "high_valyrian"
+}
+dynn_Tyvar = {
+	name = "dynn_Tyvar"
+	culture = "high_valyrian"
+}
+dynn_Unendia = {
+	name = "dynn_Unendia"
+	culture = "high_valyrian"
+}
+dynn_Valzyren = {
+	name = "dynn_Valzyren"
+	culture = "high_valyrian"
+}
+dynn_Voksia = {
+	name = "dynn_Voksia"
+	culture = "high_valyrian"
+}
+dynn_Zaldrizyen = {
+	name = "dynn_Zaldrizyen"
+	culture = "high_valyrian"
+}
+
+# ADDITIONAL MISSING DYNASTIES
+dynn_Mataeryon = {
+	name = "dynn_Mataeryon"
+	culture = "high_valyrian"
+}
+dynn_Varezys = {
+	name = "dynn_Varezys"
+	culture = "high_valyrian"
+}
+dynn_Sonaryen = {
+	name = "dynn_Sonaryen"
+	culture = "high_valyrian"
+}
+dynn_Urnebar = {
+	name = "dynn_Urnebar"
+	culture = "high_valyrian"
+}
+dynn_Tresys = {
+	name = "dynn_Tresys"
+	culture = "high_valyrian"
+}
+

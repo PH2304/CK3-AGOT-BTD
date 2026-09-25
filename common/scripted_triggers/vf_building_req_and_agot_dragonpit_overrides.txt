@@ -3,19 +3,13 @@
 		highest_held_title_tier >= tier_duchy # dukes n above
 		agot_has_dragonpit_requirements_trigger = yes
 	}
-	NOR = {
+	NOT = {
 		scope:holder = { # Cannot have any dragonpits already built in your held titles
 			any_held_title = {
 				tier = tier_county
 				any_county_province = {
 					has_building_or_higher = vf_dragon_tower_01
 				}
-			}
-		}
-		has_building = vf_dragon_tower_01
-		county = {
-			any_county_province = {
-				has_building = vf_dragon_tower_01
 			}
 		}
 	}
@@ -31,13 +25,12 @@ can_this_dragonpit_be_destroyed_when_dragonpit_building_is_replaced = {
 			has_building_or_higher = generic_dragon_pit_01
 		}
 		any_county_province = {
+			# BUG-12 FIX: Removed redundant nested OR — flattened into parent OR
 			OR = {
 				this = title:b_rhaenyss_hill.title_province
 				this = title:b_dragonstone.title_province
-				OR = {
-					has_building_or_higher = vf_dragon_tower_01
-					has_building_or_higher = vf_valyria_city_civic
-				}
+				has_building_or_higher = vf_dragon_tower_01
+				has_building_or_higher = vf_valyria_city_civic
 			}
 		}
 	}

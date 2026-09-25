@@ -4,8 +4,10 @@
 	special = holder
 	tier = kingdom
 	priority = 999
-	top_liege = no
 	governments = { freehold_government }
+	flavourization_rules = {
+		top_liege = no
+	}
 }
 king_archonate_female_spouse = {
 	type = character
@@ -13,8 +15,10 @@ king_archonate_female_spouse = {
 	special = holder
 	tier = kingdom
 	priority = 999
-	top_liege = no
 	governments = { freehold_government }
+	flavourization_rules = {
+		top_liege = no
+	}
 }
 king_archonate_male = {
 	type = character
@@ -22,9 +26,11 @@ king_archonate_male = {
 	special = holder
 	tier = kingdom
 	priority = 1000
-	top_liege = no
-	only_holder = yes
 	governments = { freehold_government }
+	flavourization_rules = {
+		top_liege = no
+		only_holder = yes
+	}
 }
 king_archonate_female = {
 	type = character
@@ -32,9 +38,11 @@ king_archonate_female = {
 	special = holder
 	tier = kingdom
 	priority = 1000
-	top_liege = no
-	only_holder = yes
 	governments = { freehold_government }
+	flavourization_rules = {
+		top_liege = no
+		only_holder = yes
+	}
 }
 prince_archonate_male = {
 	type = character
@@ -83,8 +91,10 @@ emperor_archonate_male = {
 	special = holder
 	tier = empire
 	priority = 1002
-	only_holder = yes
 	governments = { freehold_government }
+	flavourization_rules = {
+		only_holder = yes
+	}
 }
 emperor_archonate_female = {
 	type = character
@@ -92,8 +102,10 @@ emperor_archonate_female = {
 	special = holder
 	tier = empire
 	priority = 1002
-	only_holder = yes
 	governments = { freehold_government }
+	flavourization_rules = {
+		only_holder = yes
+	}
 }
 prince_emperor_archonate_male = {
 	type = character
@@ -126,9 +138,11 @@ freehold_male = {
 	special = holder
 	tier = county
 	priority = 16
-	top_liege = no
-	only_holder = yes
 	governments = { freehold_government }
+	flavourization_rules = {
+		top_liege = no
+		only_holder = yes
+	}
 }
 freehold_female = {
 	type = character
@@ -136,9 +150,11 @@ freehold_female = {
 	special = holder
 	tier = county
 	priority = 16
-	top_liege = no
-	only_holder = yes
 	governments = { freehold_government }
+	flavourization_rules = {
+		top_liege = no
+		only_holder = yes
+	}
 }
 freehold_male_d = {
 	type = character
@@ -146,9 +162,11 @@ freehold_male_d = {
 	special = holder
 	tier = duchy
 	priority = 26
-	top_liege = no
-	only_holder = yes
 	governments = { freehold_government }
+	flavourization_rules = {
+		top_liege = no
+		only_holder = yes
+	}
 }
 duke_freehold_female = {
 	type = character
@@ -156,7 +174,9 @@ duke_freehold_female = {
 	special = holder
 	tier = duchy
 	priority = 26
-	top_liege = no
-	only_holder = yes
 	governments = { freehold_government }
+	flavourization_rules = {
+		top_liege = no
+		only_holder = yes
+	}
 }

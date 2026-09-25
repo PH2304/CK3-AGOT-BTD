@@ -1,0 +1,11 @@
+﻿# Compatibility stub effects for AGOT base mod effects that may not be available
+# These are no-op definitions to prevent "Unknown effect" errors during loading
+# If the real AGOT definition is loaded, it will take precedence based on load order
+
+# This effect is called in vf_game_start.txt on_action.
+# It is referenced as being from the base AGOT mod, but may not be available
+# in all AGOT versions or submod configurations.
+too_lazy_to_change_the_generated_counties_liege_in_the_files_effect = {
+	# Stub: the real AGOT effect handles county liege assignment
+	# If AGOT is loaded correctly, this definition is overridden
+}
