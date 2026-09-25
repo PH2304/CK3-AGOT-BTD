@@ -1441,14 +1441,14 @@ world_essos_qohor_north = {
 	provinces = {
 		# c_foresters_quarter #Partial
 		# 8679
-# 		8680 # BTD override: claimed by Valyria
-# 		8681 # BTD override: claimed by Valyria
-# 		8682 # BTD override: claimed by Valyria
+		8680
+		8681
+		8682
 		# c_op_glogjestiri #Partial
-# 		8701 # BTD override: claimed by Valyria
-# 		8702 # BTD override: claimed by Valyria
-# 		8703 # BTD override: claimed by Valyria
-# 		8704 # BTD override: claimed by Valyria
+		8701
+		8702
+		8703
+		8704
 		# 8705
 		# c_shiverness #Partial
 		8969
@@ -1506,7 +1506,7 @@ world_essos_qohor_south = {
 	}
 	provinces = {
 		# c_foresters_quarter #Partial
-# 		8679 # BTD override: claimed by Valyria
+		8679
 		# 8680
 		# 8681
 		# 8682
@@ -1515,7 +1515,7 @@ world_essos_qohor_south = {
 		# 8702
 		# 8703
 		# 8704
-# 		8705 # BTD override: claimed by Valyria
+		8705
 	}
 }
 
@@ -4520,9 +4520,9 @@ graphical_india = {
 
 	# }
 	provinces = {
-# 		8219 # BTD override: claimed by Valyria
-# 		8220 # BTD override: claimed by Valyria
-# 		8221 # BTD override: claimed by Valyria
+		8219
+		8220
+		8221
 	}
 }
 

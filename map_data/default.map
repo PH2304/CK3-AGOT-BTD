@@ -1,4 +1,4 @@
-definitions = "definition.csv"
+﻿definitions = "definition.csv"
 provinces = "provinces.png"
 rivers = "rivers.png"
 topology = "heightmap.heightmap"
@@ -36,6 +36,6 @@ impassable_mountains = RANGE { 2224  2250 }
 impassable_mountains = RANGE { 6100  6166 }
 impassable_mountains = RANGE { 7267  7268 }
 impassable_mountains = RANGE { 9389  9394 }
-impassable_mountains = LIST { 8705 8988 }
+impassable_mountains = LIST { 9887 8988 }
 river_provinces = RANGE { 6498  6598 }
 river_provinces = LIST  { 7274 7277 8201 8202 8203 8204 8205 8206 8207 }

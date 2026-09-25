@@ -11,23 +11,23 @@
 				color = { 22 10 6 }
 			
 				b_vaelrythor = {
-					province = 8540 #c_87_1 
+					province = 9722 #c_87_1 
 					color = { 22 10 6 }
 				}
 				b_xaelrythar = {
-					province = 8541 #c_87_2 
+					province = 9723 #c_87_2 
 					color = { 22 10 6 }
 				}
 				b_yaenithar = {
-					province = 8542 #c_87_3 
+					province = 9724 #c_87_3 
 					color = { 22 10 6 }
 				}
 				b_zaelrythor = {
-					province = 8543 #c_87_4 
+					province = 9725 #c_87_4 
 					color = { 22 10 6 }
 				}
 				b_aelrythosar = {
-					province = 8544 #c_87_5 
+					province = 9726 #c_87_5 
 					color = { 22 10 6 }
 				}
 			}
@@ -35,19 +35,19 @@
 					color = { 22 10 6 }
 				
 				b_raelithion = {
-					province = 8536 #c_86_1 
+					province = 9718 #c_86_1 
 					color = { 22 10 6 }
 				}
 				b_saelithar = {
-					province = 8537 #c_86_2 
+					province = 9719 #c_86_2 
 					color = { 22 10 6 }
 				}
 				b_taenorion = {
-					province = 8538 #c_86_3 
+					province = 9720 #c_86_3 
 					color = { 22 10 6 }
 				}
 				b_ulerythos = {
-					province = 8539 #c_86_4 
+					province = 9721 #c_86_4 
 					color = { 22 10 6 }
 				}
 			}
@@ -55,19 +55,19 @@
 					color = { 55 32 15 }
 				
 				b_oelrythar = {
-					province = 8558 #c_91_1 
+					province = 9740 #c_91_1 
 					color = { 55 32 15 }
 				}
 				b_paelthorion = {
-					province = 8559 #c_91_2 
+					province = 9741 #c_91_2 
 					color = { 55 32 15 }
 				}
 				b_qaerythos = {
-					province = 8560 #c_91_3 
+					province = 9742 #c_91_3 
 					color = { 55 32 15 }
 				}
 				b_raelthionor = {
-					province = 8561 #c_91_4 
+					province = 9743 #c_91_4 
 					color = { 55 32 15 }
 				}
 			}
@@ -75,23 +75,23 @@
 					color = { 87 62 23 }
 				
 				b_qaelythax = {
-					province = 8585 #c_97_1 
+					province = 9767 #c_97_1 
 					color = { 87 62 23 }
 				}
 				b_raelyssion = {
-					province = 8586 #c_97_2 
+					province = 9768 #c_97_2 
 					color = { 87 62 23 }
 				}
 				b_saenyzor = {
-					province = 8587 #c_97_3 
+					province = 9769 #c_97_3 
 					color = { 87 62 23 }
 				}
 				b_taelrythar = {
-					province = 8588 #c_97_4 
+					province = 9770 #c_97_4 
 					color = { 87 62 23 }
 				}
 				b_ulenyxor = {
-					province = 8589 #c_97_5 
+					province = 9771 #c_97_5 
 					color = { 87 62 23 }
 				}
 			}
@@ -103,23 +103,23 @@
 					color = { 10 4 2 }
 				
 				b_aelthor = {
-					province = 8319 #c_27_1 
+					province = 9501 #c_27_1 
 					color = { 10 4 2 }
 				}
 				b_brynaris = {
-					province = 8320 #c_27_2 
+					province = 9502 #c_27_2 
 					color = { 10 4 2 }
 				}
 				b_caenithar = {
-					province = 8321 #c_27_3 
+					province = 9503 #c_27_3 
 					color = { 10 4 2 }
 				}
 				b_daelyxar = {
-					province = 8322 #c_27_4 
+					province = 9504 #c_27_4 
 					color = { 10 4 2 }
 				}
 				b_erythion = {
-					province = 8323 #c_27_5 
+					province = 9505 #c_27_5 
 					color = { 10 4 2 }
 				}
 			}
@@ -127,15 +127,15 @@
 					color = { 42 23 11 }
 				
 				b_faelthar = {
-					province = 8324 #c_28_1 
+					province = 9506 #c_28_1 
 					color = { 42 23 11 }
 				}
 				b_gaeryxar = {
-					province = 8325 #c_28_2 
+					province = 9507 #c_28_2 
 					color = { 42 23 11 }
 				}
 				b_haelionor = {
-					province = 8326 #c_28_3 
+					province = 9508 #c_28_3 
 					color = { 42 23 11 }
 				}
 			}
@@ -143,19 +143,19 @@
 					color = { 75 51 20 }
 				
 				b_ilythosar = {
-					province = 8327 #c_29_1 
+					province = 9509 #c_29_1 
 					color = { 75 51 20 }
 				}
 				b_jaelthor = {
-					province = 8328 #c_29_2 
+					province = 9510 #c_29_2 
 					color = { 75 51 20 }
 				}
 				b_kaelthar = {
-					province = 8329 #c_29_3 
+					province = 9511 #c_29_3 
 					color = { 75 51 20 }
 				}
 				b_laerynor = {
-					province = 8330 #c_29_4 
+					province = 9512 #c_29_4 
 					color = { 75 51 20 }
 				}
 			}
@@ -167,19 +167,19 @@
 					color = { 30 15 8 }
 				
 				b_saenithor = {
-					province = 8562 #c_92_1 
+					province = 9744 #c_92_1 
 					color = { 30 15 8 }
 				}
 				b_taelrynor = {
-					province = 8563 #c_92_2 
+					province = 9745 #c_92_2 
 					color = { 30 15 8 }
 				}
 				b_ulytharion = {
-					province = 8564 #c_92_3 
+					province = 9746 #c_92_3 
 					color = { 30 15 8 }
 				}
 				b_vaenythor = {
-					province = 8565 #c_92_4 
+					province = 9747 #c_92_4 
 					color = { 30 15 8 }
 				}
 			}
@@ -187,15 +187,15 @@
 					color = { 62 40 17 }
 				
 				b_vaelyxion = {
-					province = 8590 #c_98_1 
+					province = 9772 #c_98_1 
 					color = { 62 40 17 }
 				}
 				b_xaelyzor = {
-					province = 8591 #c_98_2 
+					province = 9773 #c_98_2 
 					color = { 62 40 17 }
 				}
 				b_yaelrythor = {
-					province = 8592 #c_98_3 
+					province = 9774 #c_98_3 
 					color = { 62 40 17 }
 				}
 			}
@@ -203,19 +203,19 @@
 					color = { 95 73 25 }
 				
 				b_zaelythar = {
-					province = 8593 #c_99_1 
+					province = 9775 #c_99_1 
 					color = { 95 73 25 }
 				}
 				b_aenyssar = {
-					province = 8594 #c_99_2 
+					province = 9776 #c_99_2 
 					color = { 95 73 25 }
 				}
 				b_brythosior = {
-					province = 8595 #c_99_3 
+					province = 9777 #c_99_3 
 					color = { 95 73 25 }
 				}
 				b_caelyxoth = {
-					province = 8596 #c_99_4 
+					province = 9778 #c_99_4 
 					color = { 95 73 25 }
 				}
 			}
@@ -223,19 +223,19 @@
 					color = { 127 114 34 }
 				
 				b_daelythorax = {
-					province = 8597 #c_100_1 
+					province = 9779 #c_100_1 
 					color = { 127 114 34 }
 				}
 				b_elyzonor = {
-					province = 8598 #c_100_2 
+					province = 9780 #c_100_2 
 					color = { 127 114 34 }
 				}
 				b_faenyxion = {
-					province = 8599 #c_100_3 
+					province = 9781 #c_100_3 
 					color = { 127 114 34 }
 				}
 				b_gaelrythax = {
-					province = 8600 #c_100_4 
+					province = 9782 #c_100_4 
 					color = { 127 114 34 }
 				}
 			}
@@ -247,23 +247,23 @@
 					color = { 83 59 22 }
 				
 				b_kaelyx = {
-					province = 8629 #c_108_1 
+					province = 9811 #c_108_1 
 					color = { 83 59 22 }
 				}
 				b_laelyth = {
-					province = 8630 #c_108_2 
+					province = 9812 #c_108_2 
 					color = { 83 59 22 }
 				}
 				b_maelrys = {
-					province = 8631 #c_108_3 
+					province = 9813 #c_108_3 
 					color = { 83 59 22 }
 				}
 				b_naelzor = {
-					province = 8632 #c_108_4 
+					province = 9814 #c_108_4 
 					color = { 83 59 22 }
 				}
 				b_hunanne = {
-					province = 8633 #c_108_5 
+					province = 9815 #c_108_5 
 					color = { 83 59 22 }
 				}
 			}
@@ -271,15 +271,15 @@
 					color = { 51 29 13 }
 				
 				b_ezima = {
-					province = 8622 #c_106_1 
+					province = 9804 #c_106_1 
 					color = { 51 29 13 }
 				}
 				b_henka = {
-					province = 8623 #c_106_2 
+					province = 9805 #c_106_2 
 					color = { 51 29 13 }
 				}
 				b_faelzor = {
-					province = 8624 #c_106_3 
+					province = 9806 #c_106_3 
 					color = { 51 29 13 }
 				}
 			}
@@ -287,15 +287,15 @@
 					color = { 115 97 31 }
 				
 				b_paelthor = {
-					province = 8634 #c_109_1 
+					province = 9816 #c_109_1 
 					color = { 115 97 31 }
 				}
 				b_qaelion = {
-					province = 8635 #c_109_2 
+					province = 9817 #c_109_2 
 					color = { 115 97 31 }
 				}
 				b_raelthos = {
-					province = 8636 #c_109_3 
+					province = 9818 #c_109_3 
 					color = { 115 97 31 }
 				}
 			}
@@ -307,19 +307,19 @@
 				color = { 103 83 27 }
 			
 				b_zaelynor = {
-					province = 8343 #c_33_1 
+					province = 9525 #c_33_1 
 					color = { 103 83 27 }
 				}
 				b_aerythos = {
-					province = 8344 #c_33_2 
+					province = 9526 #c_33_2 
 					color = { 103 83 27 }
 				}
 				b_bryxar = {
-					province = 8345 #c_33_3 
+					province = 9527 #c_33_3 
 					color = { 103 83 27 }
 				}
 				b_caelythos = {
-					province = 8346 #c_33_4 
+					province = 9528 #c_33_4 
 					color = { 103 83 27 }
 				}
 			}
@@ -327,19 +327,19 @@
 					color = { 71 47 18 }
 				
 				b_ulythar = {
-					province = 8339 #c_32_1 
+					province = 9521 #c_32_1 
 					color = { 71 47 18 }
 				}
 				b_vaelyxar = {
-					province = 8340 #c_32_2 
+					province = 9522 #c_32_2 
 					color = { 71 47 18 }
 				}
 				b_xaelion = {
-					province = 8341 #c_32_3 
+					province = 9523 #c_32_3 
 					color = { 71 47 18 }
 				}
 				b_yaelthar = {
-					province = 8342 #c_32_4 
+					province = 9524 #c_32_4 
 					color = { 71 47 18 }
 				}
 			}
@@ -347,15 +347,15 @@
 					color = { 136 127 36 }
 				
 				b_daelionor = {
-					province = 8347 #c_34_1 
+					province = 9529 #c_34_1 
 					color = { 136 127 36 }
 				}
 				b_elynthar = {
-					province = 8348 #c_34_2 
+					province = 9530 #c_34_2 
 					color = { 136 127 36 }
 				}
 				b_faeryn = {
-					province = 8349 #c_34_3 
+					province = 9531 #c_34_3 
 					color = { 136 127 36 }
 				}
 			}
@@ -367,23 +367,23 @@
 					color = { 35 17 9 }
 				
 				b_jaelythorion = {
-					province = 8553 #c_90_1 
+					province = 9735 #c_90_1 
 					color = { 0 0 0 }
 				}
 				b_kaeltharion = {
-					province = 8554 #c_90_2 
+					province = 9736 #c_90_2 
 					color = { 0 0 0 }
 				}
 				b_laelithar = {
-					province = 8555 #c_90_3 
+					province = 9737 #c_90_3 
 					color = { 0 0 0 }
 				}
 				b_maelrynor = {
-					province = 8556 #c_90_4 
+					province = 9738 #c_90_4 
 					color = { 0 0 0 }
 				}
 				b_naelrythos = {
-					province = 8557 #c_90_5 
+					province = 9739 #c_90_5 
 					color = { 0 0 0 }
 				}
 			}
@@ -391,23 +391,23 @@
 					color = { 2 0 0 }
 				
 				b_laelyrthar = {
-					province = 8580 #c_96_1 
+					province = 9762 #c_96_1 
 					color = { 2 0 0 }
 				}
 				b_maelyssor = {
-					province = 8581 #c_96_2 
+					province = 9763 #c_96_2 
 					color = { 2 0 0 }
 				}
 				b_naelyxor = {
-					province = 8582 #c_96_3 
+					province = 9764 #c_96_3 
 					color = { 2 0 0 }
 				}
 				b_oelrynos = {
-					province = 8583 #c_96_4 
+					province = 9765 #c_96_4 
 					color = { 2 0 0 }
 				}
 				b_paelrythor = {
-					province = 8584 #c_96_5 
+					province = 9766 #c_96_5 
 					color = { 2 0 0 }
 				}
 			}
@@ -415,23 +415,23 @@
 					color = { 34 17 9 }
 				
 				b_haelyrthos = {
-					province = 8601 #c_101_1 
+					province = 9783 #c_101_1 
 					color = { 34 17 9 }
 				}
 				b_ilynzorion = {
-					province = 8602 #c_101_2 
+					province = 9784 #c_101_2 
 					color = { 34 17 9 }
 				}
 				b_jaelthorax = {
-					province = 8603 #c_101_3 
+					province = 9785 #c_101_3 
 					color = { 34 17 9 }
 				}
 				b_kaelothor = {
-					province = 8604 #c_101_4 
+					province = 9786 #c_101_4 
 					color = { 34 17 9 }
 				}
 				b_laelyxion = {
-					province = 8605 #c_101_5 
+					province = 9787 #c_101_5 
 					color = { 34 17 9 }
 				}
 			}
@@ -443,19 +443,19 @@
 					color = { 0 0 0 }
 				
 				b_naelyxion = {
-					province = 8532 #c_85_1 
+					province = 9714 #c_85_1 
 					color = { 0 0 0 }
 				}
 				b_oelithar = {
-					province = 8533 #c_85_2 
+					province = 9715 #c_85_2 
 					color = { 0 0 0 }
 				}
 				b_paeltharion = {
-					province = 8534 #c_85_3 
+					province = 9716 #c_85_3 
 					color = { 0 0 0 }
 				}
 				b_qaelrynor = {
-					province = 8535 #c_85_4 
+					province = 9717 #c_85_4 
 					color = { 0 0 0 }
 				}
 			}
@@ -463,19 +463,19 @@
 					color = { 22 10 6 }
 				
 				b_bryntor = {
-					province = 8545 #c_88_1 
+					province = 9727 #c_88_1 
 					color = { 22 10 6 }
 				}
 				b_caerynor = {
-					province = 8546 #c_88_2 
+					province = 9728 #c_88_2 
 					color = { 22 10 6 }
 				}
 				b_daelthys = {
-					province = 8547 #c_88_3 
+					province = 9729 #c_88_3 
 					color = { 22 10 6 }
 				}
 				b_elythorion = {
-					province = 8548 #c_88_4 
+					province = 9730 #c_88_4 
 					color = { 22 10 6 }
 				}
 			}
@@ -483,19 +483,19 @@
 					color = { 55 32 15 }
 				
 				b_faelrynion = {
-					province = 8549 #c_89_1 
+					province = 9731 #c_89_1 
 					color = { 55 32 15 }
 				}
 				b_gaelryn = {
-					province = 8550 #c_89_2 
+					province = 9732 #c_89_2 
 					color = { 55 32 15 }
 				}
 				b_haenythor = {
-					province = 8551 #c_89_3 
+					province = 9733 #c_89_3 
 					color = { 55 32 15 }
 				}
 				b_ilynthion = {
-					province = 8552 #c_89_4 
+					province = 9734 #c_89_4 
 					color = { 55 32 15 }
 				}
 			}
@@ -507,23 +507,23 @@
 					color = { 42 23 11 }
 				
 				b_taelrynos = {
-					province = 8613 #c_104_1 
+					province = 9795 #c_104_1 
 					color = { 42 23 11 }
 				}
 				b_ulaeryxar = {
-					province = 8614 #c_104_2 
+					province = 9796 #c_104_2 
 					color = { 42 23 11 }
 				}
 				b_vaelrythos = {
-					province = 8615 #c_104_3 
+					province = 9797 #c_104_3 
 					color = { 42 23 11 }
 				}
 				b_xaelytharion = {
-					province = 8616 #c_104_4 
+					province = 9798 #c_104_4 
 					color = { 42 23 11 }
 				}
 				b_yaelrynor = {
-					province = 8617 #c_104_5 
+					province = 9799 #c_104_5 
 					color = { 42 23 11 }
 				}
 			}
@@ -531,19 +531,19 @@
 					color = { 10 4 2 }
 				
 				b_gaelryx = {
-					province = 8625 #c_107_1 
+					province = 9807 #c_107_1 
 					color = { 10 4 2 }
 				}
 				b_haelyth = {
-					province = 8626 #c_107_2 
+					province = 9808 #c_107_2 
 					color = { 10 4 2 }
 				}
 				b_ilynar = {
-					province = 8627 #c_107_3 
+					province = 9809 #c_107_3 
 					color = { 10 4 2 }
 				}
 				b_engos = {
-					province = 8628 #c_107_4 
+					province = 9810 #c_107_4 
 					color = { 10 4 2 }
 				}
 			}
@@ -551,19 +551,19 @@
 					color = { 75 51 20 }
 				
 				b_zaelthorion = {
-					province = 8618 #c_105_1 
+					province = 9800 #c_105_1 
 					color = { 75 51 20 }
 				}
 				b_aelyzor = {
-					province = 8619 #c_105_2 
+					province = 9801 #c_105_2 
 					color = { 75 51 20 }
 				}
 				b_bryxion = {
-					province = 8620 #c_105_3 
+					province = 9802 #c_105_3 
 					color = { 75 51 20 }
 				}
 				b_caenor = {
-					province = 8621 #c_105_4 
+					province = 9803 #c_105_4 
 					color = { 75 51 20 }
 				}
 			}
@@ -575,23 +575,23 @@
 					color = { 95 73 25 }
 				
 				b_gaenytar = {
-					province = 8575 #c_95_1 
+					province = 9757 #c_95_1 
 					color = { 95 73 25 }
 				}
 				b_haelryzor = {
-					province = 8576 #c_95_2 
+					province = 9758 #c_95_2 
 					color = { 95 73 25 }
 				}
 				b_ilythoxar = {
-					province = 8577 #c_95_3 
+					province = 9759 #c_95_3 
 					color = { 95 73 25 }
 				}
 				b_jaelrythos = {
-					province = 8578 #c_95_4 
+					province = 9760 #c_95_4 
 					color = { 95 73 25 }
 				}
 				b_kaenyxion = {
-					province = 8579 #c_95_5 
+					province = 9761 #c_95_5 
 					color = { 95 73 25 }
 				}
 			}
@@ -599,15 +599,15 @@
 					color = { 30 15 8 }
 				
 				b_daenithar = {
-					province = 8522 #c_82_1 
+					province = 9704 #c_82_1 
 					color = { 30 15 8 }
 				}
 				b_elynthosar = {
-					province = 8523 #c_82_2 
+					province = 9705 #c_82_2 
 					color = { 30 15 8 }
 				}
 				b_faelthor = {
-					province = 8524 #c_82_3 
+					province = 9706 #c_82_3 
 					color = { 30 15 8 }
 				}
 			}
@@ -615,19 +615,19 @@
 					color = { 62 40 17 }
 				
 				b_caenorax = {
-					province = 8571 #c_94_1 
+					province = 9753 #c_94_1 
 					color = { 62 40 17 }
 				}
 				b_daelyssar = {
-					province = 8572 #c_94_2 
+					province = 9754 #c_94_2 
 					color = { 62 40 17 }
 				}
 				b_erylxoth = {
-					province = 8573 #c_94_3 
+					province = 9755 #c_94_3 
 					color = { 62 40 17 }
 				}
 				b_faelyzir = {
-					province = 8574 #c_94_4 
+					province = 9756 #c_94_4 
 					color = { 62 40 17 }
 				}
 			}
@@ -639,19 +639,19 @@
 				color = { 83 59 22 }
 				
 				b_naelthos = {
-					province = 8357 #c_37_1 
+					province = 9539 #c_37_1 
 					color = { 83 59 22 }
 				}
 				b_oelthor = {
-					province = 8358 #c_37_2 
+					province = 9540 #c_37_2 
 					color = { 83 59 22 }
 				}
 				b_paelrys = {
-					province = 8359 #c_37_3 
+					province = 9541 #c_37_3 
 					color = { 83 59 22 }
 				}
 				b_qaelyxar = {
-					province = 8360 #c_37_4 
+					province = 9542 #c_37_4 
 					color = { 83 59 22 }
 				}
 			}
@@ -659,19 +659,19 @@
 					color = { 51 29 13 }
 				
 				b_gaerynor = {
-					province = 8350 #c_35_1 
+					province = 9532 #c_35_1 
 					color = { 51 29 13 }
 				}
 				b_haelthys = {
-					province = 8351 #c_35_2 
+					province = 9533 #c_35_2 
 					color = { 51 29 13 }
 				}
 				b_ilynthos = {
-					province = 8352 #c_35_3 
+					province = 9534 #c_35_3 
 					color = { 51 29 13 }
 				}
 				b_jaelythor = {
-					province = 8353 #c_35_4 
+					province = 9535 #c_35_4 
 					color = { 51 29 13 }
 				}
 			}
@@ -679,19 +679,19 @@
 					color = { 115 97 31 }
 				
 				b_gaelithor = {
-					province = 8525 #c_83_1 
+					province = 9707 #c_83_1 
 					color = { 115 97 31 }
 				}
 				b_haelrythos = {
-					province = 8526 #c_83_2 
+					province = 9708 #c_83_2 
 					color = { 115 97 31 }
 				}
 				b_ilyxarion = {
-					province = 8527 #c_83_3 
+					province = 9709 #c_83_3 
 					color = { 115 97 31 }
 				}
 				b_jaenythos = {
-					province = 8528 #c_83_4 
+					province = 9710 #c_83_4 
 					color = { 115 97 31 }
 				}
 			}
@@ -699,15 +699,15 @@
 					color = { 148 144 39 }
 				
 				b_jomozugon = {
-					province = 8529 #c_84_1 
+					province = 9711 #c_84_1 
 					color = { 148 144 39 }
 				}
 				b_laelthor = {
-					province = 8530 #c_84_2 
+					province = 9712 #c_84_2 
 					color = { 148 144 39 }
 				}
 				b_maelythos = {
-					province = 8531 #c_84_3 
+					province = 9713 #c_84_3 
 					color = { 148 144 39 }
 				}
 			}
@@ -719,23 +719,23 @@
 					color = { 103 83 27 }
 				
 				b_xaerynoris = {
-					province = 8566 #c_93_1 
+					province = 9748 #c_93_1 
 					color = { 103 83 27 }
 				}
 				b_yaelionor = {
-					province = 8567 #c_93_2 
+					province = 9749 #c_93_2 
 					color = { 103 83 27 }
 				}
 				b_zaeltharion = {
-					province = 8568 #c_93_3 
+					province = 9750 #c_93_3 
 					color = { 103 83 27 }
 				}
 				b_aelyzonor = {
-					province = 8569 #c_93_4 
+					province = 9751 #c_93_4 
 					color = { 103 83 27 }
 				}
 				b_brynziros = {
-					province = 8570 #c_93_5 
+					province = 9752 #c_93_5 
 					color = { 103 83 27 }
 				}
 			}
@@ -743,19 +743,19 @@
 					color = { 71 47 18 }
 				
 				b_jeson = {
-					province = 8606 #c_102_1 
+					province = 9788 #c_102_1 
 					color = { 71 47 18 }
 				}
 				b_naelthorion = {
-					province = 8607 #c_102_2 
+					province = 9789 #c_102_2 
 					color = { 71 47 18 }
 				}
 				b_oelythar = {
-					province = 8608 #c_102_3 
+					province = 9790 #c_102_3 
 					color = { 71 47 18 }
 				}
 				b_paelzorax = {
-					province = 8609 #c_102_4 
+					province = 9791 #c_102_4 
 					color = { 71 47 18 }
 				}
 			}
@@ -763,15 +763,15 @@
 					color = { 136 127 36 }
 				
 				b_qaeltharion = {
-					province = 8610 #c_103_1 
+					province = 9792 #c_103_1 
 					color = { 136 127 36 }
 				}
 				b_raelithos = {
-					province = 8611 #c_103_2 
+					province = 9793 #c_103_2 
 					color = { 136 127 36 }
 				}
 				b_saelynorax = {
-					province = 8612 #c_103_3 
+					province = 9794 #c_103_3 
 					color = { 136 127 36 }
 				}
 			}
@@ -783,19 +783,19 @@
 					color = { 0 0 0 }
 				
 				b_vaelthor = {
-					province = 8315 #c_26_1 
+					province = 9497 #c_26_1 
 					color = { 0 0 0 }
 				}
 				b_xaerynor = {
-					province = 8316 #c_26_2 
+					province = 9498 #c_26_2 
 					color = { 0 0 0 }
 				}
 				b_yaelyx = {
-					province = 8317 #c_26_3 
+					province = 9499 #c_26_3 
 					color = { 0 0 0 }
 				}
 				b_zaeryth = {
-					province = 8318 #c_26_4 
+					province = 9500 #c_26_4 
 					color = { 0 0 0 }
 				}
 			}
@@ -803,19 +803,19 @@
 					color = { 2 0 0 }
 				
 				b_maelryx = {
-					province = 8331 #c_30_1 
+					province = 9513 #c_30_1 
 					color = { 2 0 0 }
 				}
 				b_naelythos = {
-					province = 8332 #c_30_2 
+					province = 9514 #c_30_2 
 					color = { 2 0 0 }
 				}
 				b_oerynor = {
-					province = 8333 #c_30_3 
+					province = 9515 #c_30_3 
 					color = { 2 0 0 }
 				}
 				b_paelyxar = {
-					province = 8334 #c_30_4 
+					province = 9516 #c_30_4 
 					color = { 2 0 0 }
 				}
 			}
@@ -823,19 +823,19 @@
 					color = { 34 17 9 }
 				
 				b_qaelthor = {
-					province = 8335 #c_31_1 
+					province = 9517 #c_31_1 
 					color = { 34 17 9 }
 				}
 				b_raelionor = {
-					province = 8336 #c_31_2 
+					province = 9518 #c_31_2 
 					color = { 34 17 9 }
 				}
 				b_saelysor = {
-					province = 8337 #c_31_3 
+					province = 9519 #c_31_3 
 					color = { 34 17 9 }
 				}
 				b_taerynor = {
-					province = 8338 #c_31_4 
+					province = 9520 #c_31_4 
 					color = { 34 17 9 }
 				}
 			}
@@ -851,19 +851,19 @@
 				color = { 62 75 157 }
 				
 				b_paelthar = {
-					province = 8284 #c_18_1 
+					province = 9466 #c_18_1 
 					color = { 62 75 157 }
 				}
 				b_qaerynor = {
-					province = 8285 #c_18_2 
+					province = 9467 #c_18_2 
 					color = { 62 75 157 }
 				}
 				b_raenysar = {
-					province = 8286 #c_18_3 
+					province = 9468 #c_18_3 
 					color = { 62 75 157 }
 				}
 				b_saelythor = {
-					province = 8287 #c_18_4 
+					province = 9469 #c_18_4 
 					color = { 62 75 157 }
 				}
 			}
@@ -871,19 +871,19 @@
 					color = { 38 69 98 }
 				
 				b_ilyxor = {
-					province = 8277 #c_16_1 
+					province = 9459 #c_16_1 
 					color = { 38 69 98 }
 				}
 				b_jaelrys = {
-					province = 8278 #c_16_2 
+					province = 9460 #c_16_2 
 					color = { 38 69 98 }
 				}
 				b_kaerion = {
-					province = 8279 #c_16_3 
+					province = 9461 #c_16_3 
 					color = { 38 69 98 }
 				}
 				b_laenothor = {
-					province = 8280 #c_16_4 
+					province = 9462 #c_16_4 
 					color = { 38 69 98 }
 				}
 			}
@@ -891,15 +891,15 @@
 					color = { 50 75 127 }
 				
 				b_maenoxar = {
-					province = 8281 #c_17_1 
+					province = 9463 #c_17_1 
 					color = { 50 75 127 }
 				}
 				b_irughagon = {
-					province = 8282 #c_17_2 
+					province = 9464 #c_17_2 
 					color = { 50 75 127 }
 				}
 				b_oelyxar = {
-					province = 8283 #c_17_3 
+					province = 9465 #c_17_3 
 					color = { 50 75 127 }
 				}
 			}
@@ -907,15 +907,15 @@
 					color = { 79 75 184 }
 				
 				b_taelthor = {
-					province = 8288 #c_19_1 
+					province = 9470 #c_19_1 
 					color = { 79 75 184 }
 				}
 				b_ulythion = {
-					province = 8289 #c_19_2 
+					province = 9471 #c_19_2 
 					color = { 79 75 184 }
 				}
 				b_vaenithos = {
-					province = 8290 #c_19_3 
+					province = 9472 #c_19_3 
 					color = { 79 75 184 }
 				}
 			}
@@ -927,19 +927,19 @@
 					color = { 57 75 145 }
 				
 				b_oerysor = {
-					province = 8255 #c_10_1 
+					province = 9437 #c_10_1 
 					color = { 57 75 145 }
 				}
 				b_ilie = {
-					province = 8256 #c_10_2 
+					province = 9438 #c_10_2 
 					color = { 57 75 145 }
 				}
 				b_dedegon = {
-					province = 8257 #c_10_3 
+					province = 9439 #c_10_3 
 					color = { 57 75 145 }
 				}
 				b_raethor = {
-					province = 8258 #c_10_4 
+					province = 9440 #c_10_4 
 					color = { 57 75 145 }
 				}
 			}
@@ -947,15 +947,15 @@
 					color = { 45 73 116 }
 				
 				b_laerithos = {
-					province = 8252 #c_9_1 
+					province = 9434 #c_9_1 
 					color = { 45 73 116 }
 				}
 				b_maelyxor = {
-					province = 8253 #c_9_2 
+					province = 9435 #c_9_2 
 					color = { 45 73 116 }
 				}
 				b_naerysor = {
-					province = 8254 #c_9_3 
+					province = 9436 #c_9_3 
 					color = { 45 73 116 }
 				}
 			}
@@ -963,15 +963,15 @@
 					color = { 69 71 174 }
 				
 				b_saelion = {
-					province = 8259 #c_11_1 
+					province = 9441 #c_11_1 
 					color = { 69 71 174 }
 				}
 				b_taeryx = {
-					province = 8260 #c_11_2 
+					province = 9442 #c_11_2 
 					color = { 69 71 174 }
 				}
 				b_ulyxor = {
-					province = 8261 #c_11_3 
+					province = 9443 #c_11_3 
 					color = { 69 71 174 }
 				}
 			}
@@ -983,19 +983,19 @@
 				color = { 53 76 135 }
 				
 				b_jaenoxor = {
-					province = 8303 #c_23_1 
+					province = 9485 #c_23_1 
 					color = { 53 76 135 }
 				}
 				b_kaeryth = {
-					province = 8304 #c_23_2 
+					province = 9486 #c_23_2 
 					color = { 53 76 135 }
 				}
 				b_laethosar = {
-					province = 8305 #c_23_3 
+					province = 9487 #c_23_3 
 					color = { 53 76 135 }
 				}
 				b_maelynar = {
-					province = 8306 #c_23_4 
+					province = 9488 #c_23_4 
 					color = { 53 76 135 }
 				}
 			}
@@ -1003,19 +1003,19 @@
 					color = { 65 74 164 }
 				
 				b_naelyx = {
-					province = 8307 #c_24_1 
+					province = 9489 #c_24_1 
 					color = { 65 74 164 }
 				}
 				b_oelythor = {
-					province = 8308 #c_24_2 
+					province = 9490 #c_24_2 
 					color = { 65 74 164 }
 				}
 				b_paerythos = {
-					province = 8309 #c_24_3 
+					province = 9491 #c_24_3 
 					color = { 65 74 164 }
 				}
 				b_qaelynor = {
-					province = 8310 #c_24_4 
+					province = 9492 #c_24_4 
 					color = { 65 74 164 }
 				}
 			}
@@ -1023,19 +1023,19 @@
 					color = { 93 84 187 }
 				
 				b_raelthys = {
-					province = 8311 #c_25_1 
+					province = 9493 #c_25_1 
 					color = { 93 84 187 }
 				}
 				b_saelthor = {
-					province = 8312 #c_25_2 
+					province = 9494 #c_25_2 
 					color = { 93 84 187 }
 				}
 				b_kottion = {
-					province = 8313 #c_25_3 
+					province = 9495 #c_25_3 
 					color = { 93 84 187 }
 				}
 				b_beqes = {
-					province = 8314 #c_25_4 
+					province = 9496 #c_25_4 
 					color = { 93 84 187 }
 				}
 			}
@@ -1047,23 +1047,23 @@
 				color = { 61 74 153 }
 				
 				b_haves = {
-					province = 8227 #c_3_1 
+					province = 9409 #c_3_1 
 					color = { 61 74 153 }
 				}
 				b_jaelonys = {
-					province = 8228 #c_3_2 
+					province = 9410 #c_3_2 
 					color = { 61 74 153 }
 				}
 				b_kaerthos = {
-					province = 8229 #c_3_3 
+					province = 9411 #c_3_3 
 					color = { 61 74 153 }
 				}
 				b_laenysor = {
-					province = 8230 #c_3_4 
+					province = 9412 #c_3_4 
 					color = { 61 74 153 }
 				}
 				b_maerion = {
-					province = 8231 #c_3_5 
+					province = 9413 #c_3_5 
 					color = { 61 74 153 }
 				}
 			}
@@ -1071,15 +1071,15 @@
 					color = { 76 72 182 }
 				
 				b_naelion = {
-					province = 8232 #c_4_1 
+					province = 9414 #c_4_1 
 					color = { 76 72 182 }
 				}
 				b_oeryxos = {
-					province = 8233 #c_4_2 
+					province = 9415 #c_4_2 
 					color = { 76 72 182 }
 				}
 				b_paerysor = {
-					province = 8234 #c_4_3 
+					province = 9416 #c_4_3 
 					color = { 76 72 182 }
 				}
 			}
@@ -1087,23 +1087,23 @@
 					color = { 121 102 193 }
 				
 				b_qaenyth = {
-					province = 8235 #c_5_1 
+					province = 9417 #c_5_1 
 					color = { 121 102 193 }
 				}
 				b_raelion = {
-					province = 8236 #c_5_2 
+					province = 9418 #c_5_2 
 					color = { 121 102 193 }
 				}
 				b_kyvanon = {
-					province = 8237 #c_5_3 
+					province = 9419 #c_5_3 
 					color = { 121 102 193 }
 				}
 				b_taerynox = {
-					province = 8238 #c_5_4 
+					province = 9420 #c_5_4 
 					color = { 121 102 193 }
 				}
 				b_ulethor = {
-					province = 8239 #c_5_5 
+					province = 9421 #c_5_5 
 					color = { 121 102 193 }
 				}
 			}
@@ -1111,11 +1111,11 @@
 					color = { 160 131 205 }
 				
 				b_vaerynar = {
-					province = 8240 #c_6_1 
+					province = 9422 #c_6_1 
 					color = { 160 131 205 }
 				}
 				b_daoriot = {
-					province = 8241 #c_6_2 
+					province = 9423 #c_6_2 
 					color = { 160 131 205 }
 				}
 			}
@@ -1127,19 +1127,19 @@
 				color = { 68 71 171 }
 				
 				b_xaelthor = {
-					province = 8291 #c_20_1 
+					province = 9473 #c_20_1 
 					color = { 68 71 171 }
 				}
 				b_yaelryn = {
-					province = 8292 #c_20_2 
+					province = 9474 #c_20_2 
 					color = { 68 71 171 }
 				}
 				b_zaelion = {
-					province = 8293 #c_20_3 
+					province = 9475 #c_20_3 
 					color = { 68 71 171 }
 				}
 				b_aelthion = {
-					province = 8294 #c_20_4 
+					province = 9476 #c_20_4 
 					color = { 68 71 171 }
 				}
 			}
@@ -1147,19 +1147,19 @@
 					color = { 105 90 189 }
 				
 				b_brynor = {
-					province = 8295 #c_21_1 
+					province = 9477 #c_21_1 
 					color = { 105 90 189 }
 				}
 				b_caenythar = {
-					province = 8296 #c_21_2 
+					province = 9478 #c_21_2 
 					color = { 105 90 189 }
 				}
 				b_daenyr = {
-					province = 8297 #c_21_3 
+					province = 9479 #c_21_3 
 					color = { 105 90 189 }
 				}
 				b_erynor = {
-					province = 8298 #c_21_4 
+					province = 9480 #c_21_4 
 					color = { 105 90 189 }
 				}
 			}
@@ -1167,19 +1167,19 @@
 					color = { 147 119 201 }
 				
 				b_faelionor = {
-					province = 8299 #c_22_1 
+					province = 9481 #c_22_1 
 					color = { 147 119 201 }
 				}
 				b_gaelthor = {
-					province = 8300 #c_22_2 
+					province = 9482 #c_22_2 
 					color = { 147 119 201 }
 				}
 				b_haelysar = {
-					province = 8301 #c_22_3 
+					province = 9483 #c_22_3 
 					color = { 147 119 201 }
 				}
 				b_ilythor = {
-					province = 8302 #c_22_4 
+					province = 9484 #c_22_4 
 					color = { 147 119 201 }
 				}
 			}
@@ -1191,23 +1191,23 @@
 				color = { 31 62 80 }
 				
 				b_aeryxor = {
-					province = 8219 #c_1_1 
+					province = 9401 #c_1_1 
 					color = { 31 62 80 }
 				}
 				b_baelior = {
-					province = 8220 #c_1_2 
+					province = 9402 #c_1_2 
 					color = { 31 62 80 }
 				}
 				b_caerynar = {
-					province = 8221 #c_1_3 
+					province = 9403 #c_1_3 
 					color = { 31 62 80 }
 				}
 				b_daelys = {
-					province = 8222 #c_1_4 
+					province = 9404 #c_1_4 
 					color = { 31 62 80 }
 				}
 				b_erythor = {
-					province = 8223 #c_1_5 
+					province = 9405 #c_1_5 
 					color = { 31 62 80 }
 				}
 			}
@@ -1215,15 +1215,15 @@
 					color = { 43 72 109 }
 				
 				b_bratsi = {
-					province = 8224 #c_2_1 
+					province = 9406 #c_2_1 
 					color = { 43 72 109 }
 				}
 				b_gaenor = {
-					province = 8225 #c_2_2 
+					province = 9407 #c_2_2 
 					color = { 43 72 109 }
 				}
 				b_haeroxis = {
-					province = 8226 #c_2_3 
+					province = 9408 #c_2_3 
 					color = { 43 72 109 }
 				}
 			}
@@ -1235,23 +1235,23 @@
 					color = { 50 75 127 }
 				
 				b_gaenys = {
-					province = 8650 #c_113_1 
+					province = 9832 #c_113_1 
 					color = { 50 75 127 }
 				}
 				b_haelthar = {
-					province = 8651 #c_113_2 
+					province = 9833 #c_113_2 
 					color = { 50 75 127 }
 				}
 				b_drivose = {
-					province = 8652 #c_113_3 
+					province = 9834 #c_113_3 
 					color = { 50 75 127 }
 				}
 				b_jaelion = {
-					province = 8653 #c_113_4 
+					province = 9835 #c_113_4 
 					color = { 50 75 127 }
 				}
 				b_kaelys = {
-					province = 8654 #c_113_5 
+					province = 9836 #c_113_5 
 					color = { 50 75 127 }
 				}
 			}
@@ -1259,19 +1259,19 @@
 					color = { 38 69 98 }
 				
 				b_ilynzor = {
-					province = 8677 #c_120_1 
+					province = 9859 #c_120_1 
 					color = { 38 69 98 }
 				}
 				b_jaelros = {
-					province = 8678 #c_120_2 
+					province = 9860 #c_120_2 
 					color = { 38 69 98 }
 				}
 				b_kaelythor = {
-					province = 8679 #c_120_3 
+					province = 9861 #c_120_3 
 					color = { 38 69 98 }
 				}
 				b_iqrinumbagon = {
-					province = 8680 #c_120_4 
+					province = 9862 #c_120_4 
 					color = { 38 69 98 }
 				}
 			}
@@ -1279,19 +1279,19 @@
 					color = { 62 75 157 }
 				
 				b_izunnie = {
-					province = 8655 #c_114_1 
+					province = 9837 #c_114_1 
 					color = { 62 75 157 }
 				}
 				b_maelyxar = {
-					province = 8656 #c_114_2 
+					province = 9838 #c_114_2 
 					color = { 62 75 157 }
 				}
 				b_bode = {
-					province = 8657 #c_114_3 
+					province = 9839 #c_114_3 
 					color = { 62 75 157 }
 				}
 				b_oelion = {
-					province = 8658 #c_114_4 
+					province = 9840 #c_114_4 
 					color = { 62 75 157 }
 				}
 			}
@@ -1299,19 +1299,19 @@
 					color = { 79 75 184 }
 				
 				b_paelith = {
-					province = 8659 #c_115_1 
+					province = 9841 #c_115_1 
 					color = { 79 75 184 }
 				}
 				b_qaenys = {
-					province = 8660 #c_115_2 
+					province = 9842 #c_115_2 
 					color = { 79 75 184 }
 				}
 				b_greges = {
-					province = 8661 #c_115_3 
+					province = 9843 #c_115_3 
 					color = { 79 75 184 }
 				}
 				b_kydos = {
-					province = 8662 #c_115_4 
+					province = 9844 #c_115_4 
 					color = { 79 75 184 }
 				}
 			}
@@ -1323,23 +1323,23 @@
 				color = { 69 71 174 }
 				
 				b_yaelrythos = {
-					province = 8517 #c_81_1 
+					province = 9699 #c_81_1 
 					color = { 69 71 174 }
 				}
 				b_zaelythionor = {
-					province = 8518 #c_81_2 
+					province = 9700 #c_81_2 
 					color = { 69 71 174 }
 				}
 				b_jaelagon = {
-					province = 8519 #c_81_3 
+					province = 9701 #c_81_3 
 					color = { 69 71 174 }
 				}
 				b_hivagon = {
-					province = 8520 #c_81_4 
+					province = 9702 #c_81_4 
 					color = { 69 71 174 }
 				}
 				b_caelythionor = {
-					province = 8521 #c_81_5 
+					province = 9703 #c_81_5 
 					color = { 69 71 174 }
 				}
 			}
@@ -1347,19 +1347,19 @@
 					color = { 45 73 116 }
 				
 				b_taelion = {
-					province = 8663 #c_116_1 
+					province = 9845 #c_116_1 
 					color = { 45 73 116 }
 				}
 				b_ulionor = {
-					province = 8664 #c_116_2 
+					province = 9846 #c_116_2 
 					color = { 45 73 116 }
 				}
 				b_vaelthar = {
-					province = 8665 #c_116_3 
+					province = 9847 #c_116_3 
 					color = { 45 73 116 }
 				}
 				b_xaenor = {
-					province = 8666 #c_116_4 
+					province = 9848 #c_116_4 
 					color = { 45 73 116 }
 				}
 			}
@@ -1367,11 +1367,11 @@
 					color = { 57 75 145 }
 				
 				b_vaelthysor = {
-					province = 8515 #c_80_1 
+					province = 9697 #c_80_1 
 					color = { 57 75 145 }
 				}
 				b_xaelthorion = {
-					province = 8516 #c_80_2 
+					province = 9698 #c_80_2 
 					color = { 57 75 145 }
 				}
 			}
@@ -1383,19 +1383,19 @@
 				color = { 53 76 135 }
 				
 				b_zaelithor = {
-					province = 8693 #c_124_1 
+					province = 9875 #c_124_1 
 					color = { 53 76 135 }
 				}
 				b_aenor = {
-					province = 8694 #c_124_2 
+					province = 9876 #c_124_2 
 					color = { 53 76 135 }
 				}
 				b_bryzor = {
-					province = 8695 #c_124_3 
+					province = 9877 #c_124_3 
 					color = { 53 76 135 }
 				}
 				b_caelithos = {
-					province = 8696 #c_124_4 
+					province = 9878 #c_124_4 
 					color = { 53 76 135 }
 				}
 			}
@@ -1403,19 +1403,19 @@
 					color = { 65 74 164 }
 				
 				b_daenos = {
-					province = 8697 #c_125_1 
+					province = 9879 #c_125_1 
 					color = { 65 74 164 }
 				}
 				b_iderennion = {
-					province = 8698 #c_125_2 
+					province = 9880 #c_125_2 
 					color = { 65 74 164 }
 				}
 				b_faelysor = {
-					province = 8699 #c_125_3 
+					province = 9881 #c_125_3 
 					color = { 65 74 164 }
 				}
 				b_gaelzor = {
-					province = 8700 #c_125_4 
+					province = 9882 #c_125_4 
 					color = { 65 74 164 }
 				}
 			}
@@ -1423,19 +1423,19 @@
 					color = { 93 84 187 }
 				
 				b_haelthos = {
-					province = 8701 #c_126_1 
+					province = 9883 #c_126_1 
 					color = { 93 84 187 }
 				}
 				b_ioje = {
-					province = 8702 #c_126_2 
+					province = 9884 #c_126_2 
 					color = { 93 84 187 }
 				}
 				b_jaelithos = {
-					province = 8703 #c_126_3 
+					province = 9885 #c_126_3 
 					color = { 93 84 187 }
 				}
 				b_kaenos = {
-					province = 8704 #c_126_4 
+					province = 9886 #c_126_4 
 					color = { 93 84 187 }
 				}
 			}
@@ -1447,23 +1447,23 @@
 				color = { 61 74 153 }
 				
 				b_maelzor = {
-					province = 8681 #c_121_1 
+					province = 9863 #c_121_1 
 					color = { 61 74 153 }
 				}
 				b_naelysor = {
-					province = 8682 #c_121_2 
+					province = 9864 #c_121_2 
 					color = { 61 74 153 }
 				}
 				b_oelthos = {
-					province = 8683 #c_121_3 
+					province = 9865 #c_121_3 
 					color = { 61 74 153 }
 				}
 				b_paelrynos = {
-					province = 8684 #c_121_4 
+					province = 9866 #c_121_4 
 					color = { 61 74 153 }
 				}
 				b_qaelzor = {
-					province = 8685 #c_121_5 
+					province = 9867 #c_121_5 
 					color = { 61 74 153 }
 				}
 			}
@@ -1471,15 +1471,15 @@
 					color = { 76 72 182 }
 				
 				b_dori = {
-					province = 8686 #c_122_1 
+					province = 9868 #c_122_1 
 					color = { 76 72 182 }
 				}
 				b_saelyros = {
-					province = 8687 #c_122_2 
+					province = 9869 #c_122_2 
 					color = { 76 72 182 }
 				}
 				b_taelythor = {
-					province = 8688 #c_122_3 
+					province = 9870 #c_122_3 
 					color = { 76 72 182 }
 				}
 			}
@@ -1487,19 +1487,19 @@
 					color = { 121 102 193 }
 				
 				b_ulyros = {
-					province = 8689 #c_123_1 
+					province = 9871 #c_123_1 
 					color = { 121 102 193 }
 				}
 				b_vaenos = {
-					province = 8690 #c_123_2 
+					province = 9872 #c_123_2 
 					color = { 121 102 193 }
 				}
 				b_xaelyzos = {
-					province = 8691 #c_123_3 
+					province = 9873 #c_123_3 
 					color = { 121 102 193 }
 				}
 				b_yaelros = {
-					province = 8692 #c_123_4 
+					province = 9874 #c_123_4 
 					color = { 121 102 193 }
 				}
 			}
@@ -1511,19 +1511,19 @@
 				color = { 68 71 171 }
 				
 				b_gevurlion = {
-					province = 8667 #c_117_1 
+					province = 9849 #c_117_1 
 					color = { 68 71 171 }
 				}
 				b_zaenys = {
-					province = 8668 #c_117_2 
+					province = 9850 #c_117_2 
 					color = { 68 71 171 }
 				}
 				b_indirarion = {
-					province = 8669 #c_117_3 
+					province = 9851 #c_117_3 
 					color = { 68 71 171 }
 				}
 				b_brynos = {
-					province = 8670 #c_117_4 
+					province = 9852 #c_117_4 
 					color = { 68 71 171 }
 				}
 			}
@@ -1531,15 +1531,15 @@
 					color = { 105 90 189 }
 				
 				b_jaehio = {
-					province = 8671 #c_118_1 
+					province = 9853 #c_118_1 
 					color = { 105 90 189 }
 				}
 				b_daelyxos = {
-					province = 8672 #c_118_2 
+					province = 9854 #c_118_2 
 					color = { 105 90 189 }
 				}
 				b_erylthos = {
-					province = 8673 #c_118_3 
+					province = 9855 #c_118_3 
 					color = { 105 90 189 }
 				}
 			}
@@ -1547,15 +1547,15 @@
 					color = { 147 119 201 }
 				
 				b_izulion = {
-					province = 8674 #c_119_1 
+					province = 9856 #c_119_1 
 					color = { 147 119 201 }
 				}
 				b_gaenythos = {
-					province = 8675 #c_119_2 
+					province = 9857 #c_119_2 
 					color = { 147 119 201 }
 				}
 				b_haelor = {
-					province = 8676 #c_119_3 
+					province = 9858 #c_119_3 
 					color = { 147 119 201 }
 				}
 			}
@@ -1567,23 +1567,23 @@
 				color = { 55 76 139 }
 				
 				b_brythos = {
-					province = 8645 #c_112_1 
+					province = 9827 #c_112_1 
 					color = { 55 76 139 }
 				}
 				b_caenith = {
-					province = 8646 #c_112_2 
+					province = 9828 #c_112_2 
 					color = { 55 76 139 }
 				}
 				b_daelthos = {
-					province = 8647 #c_112_3 
+					province = 9829 #c_112_3 
 					color = { 55 76 139 }
 				}
 				b_jozigon = {
-					province = 8648 #c_112_4 
+					province = 9830 #c_112_4 
 					color = { 55 76 139 }
 				}
 				b_faelion = {
-					province = 8649 #c_112_5 
+					province = 9831 #c_112_5 
 					color = { 55 76 139 }
 				}
 			}
@@ -1591,19 +1591,19 @@
 					color = { 31 62 80 }
 				
 				b_elenar = {
-					province = 8637 #c_110_1 
+					province = 9819 #c_110_1 
 					color = { 31 62 80 }
 				}
 				b_taelryn = {
-					province = 8638 #c_110_2 
+					province = 9820 #c_110_2 
 					color = { 31 62 80 }
 				}
 				b_gimedenon = {
-					province = 8639 #c_110_3 
+					province = 9821 #c_110_3 
 					color = { 31 62 80 }
 				}
 				b_vaelyx = {
-					province = 8640 #c_110_4 
+					province = 9822 #c_110_4 
 					color = { 31 62 80 }
 				}
 			}
@@ -1611,19 +1611,19 @@
 					color = { 43 72 109 }
 				
 				b_xaelys = {
-					province = 8641 #c_111_1 
+					province = 9823 #c_111_1 
 					color = { 43 72 109 }
 				}
 				b_yaelion = {
-					province = 8642 #c_111_2 
+					province = 9824 #c_111_2 
 					color = { 43 72 109 }
 				}
 				b_zaelyx = {
-					province = 8643 #c_111_3 
+					province = 9825 #c_111_3 
 					color = { 43 72 109 }
 				}
 				b_aelionor = {
-					province = 8644 #c_111_4 
+					province = 9826 #c_111_4 
 					color = { 43 72 109 }
 				}
 			}
@@ -1635,23 +1635,23 @@
 				color = { 50 75 127 }
 				
 				b_yaerithos = {
-					province = 8242 #c_7_1 
+					province = 9424 #c_7_1 
 					color = { 50 75 127 }
 				}
 				b_kiragon = {
-					province = 8243 #c_7_2 
+					province = 9425 #c_7_2 
 					color = { 50 75 127 }
 				}
 				b_baeloris = {
-					province = 8244 #c_7_3 
+					province = 9426 #c_7_3 
 					color = { 50 75 127 }
 				}
 				b_daeryx = {
-					province = 8245 #c_7_4 
+					province = 9427 #c_7_4 
 					color = { 50 75 127 }
 				}
 				b_faelthys = {
-					province = 8246 #c_7_5 
+					province = 9428 #c_7_5 
 					color = { 50 75 127 }
 				}
 			}
@@ -1659,19 +1659,19 @@
 					color = { 38 69 98 }
 				
 				b_zaelthar = {
-					province = 8265 #c_13_1 
+					province = 9447 #c_13_1 
 					color = { 38 69 98 }
 				}
 				b_aerionor = {
-					province = 8266 #c_13_2 
+					province = 9448 #c_13_2 
 					color = { 38 69 98 }
 				}
 				b_daelith = {
-					province = 8267 #c_13_3 
+					province = 9449 #c_13_3 
 					color = { 38 69 98 }
 				}
 				b_faelynor = {
-					province = 8268 #c_13_4 
+					province = 9450 #c_13_4 
 					color = { 38 69 98 }
 				}
 			}
@@ -1679,23 +1679,23 @@
 					color = { 62 75 157 }
 				
 				b_gaelthar = {
-					province = 8247 #c_8_1 
+					province = 9429 #c_8_1 
 					color = { 62 75 157 }
 				}
 				b_haerynor = {
-					province = 8248 #c_8_2 
+					province = 9430 #c_8_2 
 					color = { 62 75 157 }
 				}
 				b_ilythion = {
-					province = 8249 #c_8_3 
+					province = 9431 #c_8_3 
 					color = { 62 75 157 }
 				}
 				b_jaelarys = {
-					province = 8250 #c_8_4 
+					province = 9432 #c_8_4 
 					color = { 62 75 157 }
 				}
 				b_kaerysor = {
-					province = 8251 #c_8_5 
+					province = 9433 #c_8_5 
 					color = { 62 75 157 }
 				}
 			}
@@ -1707,19 +1707,19 @@
 				color = { 57 75 145 }
 				
 				b_aelthar = {
-					province = 8269 #c_14_1 
+					province = 9451 #c_14_1 
 					color = { 57 75 145 }
 				}
 				b_brynox = {
-					province = 8270 #c_14_2 
+					province = 9452 #c_14_2 
 					color = { 57 75 145 }
 				}
 				b_caelynor = {
-					province = 8271 #c_14_3 
+					province = 9453 #c_14_3 
 					color = { 57 75 145 }
 				}
 				b_daerithon = {
-					province = 8272 #c_14_4 
+					province = 9454 #c_14_4 
 					color = { 57 75 145 }
 				}
 			}
@@ -1727,15 +1727,15 @@
 					color = { 45 73 116 }
 				
 				b_vaeryx = {
-					province = 8262 #c_12_1 
+					province = 9444 #c_12_1 
 					color = { 45 73 116 }
 				}
 				b_xaelythos = {
-					province = 8263 #c_12_2 
+					province = 9445 #c_12_2 
 					color = { 45 73 116 }
 				}
 				b_yaenyth = {
-					province = 8264 #c_12_3 
+					province = 9446 #c_12_3 
 					color = { 45 73 116 }
 				}
 			}
@@ -1743,19 +1743,19 @@
 					color = { 69 71 174 }
 				
 				b_erylxar = {
-					province = 8273 #c_15_1 
+					province = 9455 #c_15_1 
 					color = { 69 71 174 }
 				}
 				b_faelyth = {
-					province = 8274 #c_15_2 
+					province = 9456 #c_15_2 
 					color = { 69 71 174 }
 				}
 				b_gaerynox = {
-					province = 8275 #c_15_3 
+					province = 9457 #c_15_3 
 					color = { 69 71 174 }
 				}
 				b_haelynor = {
-					province = 8276 #c_15_4 
+					province = 9458 #c_15_4 
 					color = { 69 71 174 }
 				}
 			}
@@ -1771,23 +1771,23 @@
 				color = { 83 228 118 }
 				
 				b_valyria = {
-					province = 8410 #c_51_1 
+					province = 9592 #c_51_1 
 					color = { 83 228 118 }
 				}
 				b_raelysar = {
-					province = 8411 #c_51_2 
+					province = 9593 #c_51_2 
 					color = { 83 228 118 }
 				}
 				b_saelythion = {
-					province = 8412 #c_51_3 
+					province = 9594 #c_51_3 
 					color = { 83 228 118 }
 				}
 				b_taerthosar = {
-					province = 8413 #c_51_4 
+					province = 9595 #c_51_4 
 					color = { 83 228 118 }
 				}
 				b_ulenor = {
-					province = 8414 #c_51_5 
+					province = 9596 #c_51_5 
 					color = { 83 228 118 }
 				}
 			}
@@ -1795,15 +1795,15 @@
 					color = { 51 198 31 }
 				
 				b_naelthar = {
-					province = 8407 #c_50_1 
+					province = 9589 #c_50_1 
 					color = { 51 198 31 }
 				}
 				b_oelysor = {
-					province = 8408 #c_50_2 
+					province = 9590 #c_50_2 
 					color = { 51 198 31 }
 				}
 				b_paelion = {
-					province = 8409 #c_50_3 
+					province = 9591 #c_50_3 
 					color = { 51 198 31 }
 				}
 			}
@@ -1811,15 +1811,15 @@
 					color = { 48 222 59 }
 				
 				b_yaelrys = {
-					province = 8442 #c_60_1 
+					province = 9624 #c_60_1 
 					color = { 48 222 59 }
 				}
 				b_zaelionor = {
-					province = 8443 #c_60_2 
+					province = 9625 #c_60_2 
 					color = { 48 222 59 }
 				}
 				b_aelthysor = {
-					province = 8444 #c_60_3 
+					province = 9626 #c_60_3 
 					color = { 48 222 59 }
 				}
 			}
@@ -1827,19 +1827,19 @@
 					color = { 119 233 167 }
 				
 				b_taelysar = {
-					province = 8438 #c_59_1 
+					province = 9620 #c_59_1 
 					color = { 119 233 167 }
 				}
 				b_ulythosar = {
-					province = 8439 #c_59_2 
+					province = 9621 #c_59_2 
 					color = { 119 233 167 }
 				}
 				b_vaelrythar = {
-					province = 8440 #c_59_3 
+					province = 9622 #c_59_3 
 					color = { 119 233 167 }
 				}
 				b_xaelrynor = {
-					province = 8441 #c_59_4 
+					province = 9623 #c_59_4 
 					color = { 119 233 167 }
 				}
 			}
@@ -1847,15 +1847,15 @@
 					color = { 154 239 205 }
 				
 				b_vaelythor = {
-					province = 8415 #c_52_1 
+					province = 9597 #c_52_1 
 					color = { 154 239 205 }
 				}
 				b_xaelthar = {
-					province = 8416 #c_52_2 
+					province = 9598 #c_52_2 
 					color = { 154 239 205 }
 				}
 				b_yaelthos = {
-					province = 8417 #c_52_3 
+					province = 9599 #c_52_3 
 					color = { 154 239 205 }
 				}
 			}
@@ -1867,19 +1867,19 @@
 					color = { 35 219 35 }
 				
 				b_brynithos = {
-					province = 8495 #c_74_1 
+					province = 9677 #c_74_1 
 					color = { 35 219 35 }
 				}
 				b_caelionor = {
-					province = 8496 #c_74_2 
+					province = 9678 #c_74_2 
 					color = { 35 219 35 }
 				}
 				b_daelthionor = {
-					province = 8497 #c_74_3 
+					province = 9679 #c_74_3 
 					color = { 35 219 35 }
 				}
 				b_erythar = {
-					province = 8498 #c_74_4 
+					province = 9680 #c_74_4 
 					color = { 35 219 35 }
 				}
 			}
@@ -1887,19 +1887,19 @@
 					color = { 70 225 98 }
 				
 				b_faelrynor = {
-					province = 8499 #c_75_1 
+					province = 9681 #c_75_1 
 					color = { 70 225 98 }
 				}
 				b_gaelthionor = {
-					province = 8500 #c_75_2 
+					province = 9682 #c_75_2 
 					color = { 70 225 98 }
 				}
 				b_haenor = {
-					province = 8501 #c_75_3 
+					province = 9683 #c_75_3 
 					color = { 70 225 98 }
 				}
 				b_ilyrithos = {
-					province = 8502 #c_75_4 
+					province = 9684 #c_75_4 
 					color = { 70 225 98 }
 				}
 			}
@@ -1907,15 +1907,15 @@
 					color = { 105 231 150 }
 				
 				b_elynor = {
-					province = 8473 #c_68_1 
+					province = 9655 #c_68_1 
 					color = { 105 231 150 }
 				}
 				b_faelthionor = {
-					province = 8474 #c_68_2 
+					province = 9656 #c_68_2 
 					color = { 105 231 150 }
 				}
 				b_gaelrythos = {
-					province = 8475 #c_68_3 
+					province = 9657 #c_68_3 
 					color = { 105 231 150 }
 				}
 			}
@@ -1923,19 +1923,19 @@
 					color = { 141 236 192 }
 				
 				b_saelthos = {
-					province = 8462 #c_65_1 
+					province = 9644 #c_65_1 
 					color = { 141 236 192 }
 				}
 				b_taenor = {
-					province = 8463 #c_65_2 
+					province = 9645 #c_65_2 
 					color = { 141 236 192 }
 				}
 				b_ulaeryth = {
-					province = 8464 #c_65_3 
+					province = 9646 #c_65_3 
 					color = { 141 236 192 }
 				}
 				b_vaelythar = {
-					province = 8465 #c_65_4 
+					province = 9647 #c_65_4 
 					color = { 141 236 192 }
 				}
 			}
@@ -1947,23 +1947,23 @@
 					color = { 59 222 78 }
 				
 				b_oelthion = {
-					province = 8433 #c_58_1 
+					province = 9615 #c_58_1 
 					color = { 59 222 78 }
 				}
 				b_paenyth = {
-					province = 8434 #c_58_2 
+					province = 9616 #c_58_2 
 					color = { 59 222 78 }
 				}
 				b_qaelythos = {
-					province = 8435 #c_58_3 
+					province = 9617 #c_58_3 
 					color = { 59 222 78 }
 				}
 				b_raelythor = {
-					province = 8436 #c_58_4 
+					province = 9618 #c_58_4 
 					color = { 59 222 78 }
 				}
 				b_saeryth = {
-					province = 8437 #c_58_5 
+					province = 9619 #c_58_5 
 					color = { 59 222 78 }
 				}
 			}
@@ -1971,19 +1971,19 @@
 					color = { 94 228 133 }
 				
 				b_kaelthion = {
-					province = 8429 #c_57_1 
+					province = 9611 #c_57_1 
 					color = { 94 228 133 }
 				}
 				b_laenythar = {
-					province = 8430 #c_57_2 
+					province = 9612 #c_57_2 
 					color = { 94 228 133 }
 				}
 				b_maerythion = {
-					province = 8431 #c_57_3 
+					province = 9613 #c_57_3 
 					color = { 94 228 133 }
 				}
 				b_naelrysor = {
-					province = 8432 #c_57_4 
+					province = 9614 #c_57_4 
 					color = { 94 228 133 }
 				}
 			}
@@ -1991,15 +1991,15 @@
 					color = { 128 234 179 }
 				
 				b_brythion = {
-					province = 8420 #c_54_1 
+					province = 9602 #c_54_1 
 					color = { 128 234 179 }
 				}
 				b_caelythor = {
-					province = 8421 #c_54_2 
+					province = 9603 #c_54_2 
 					color = { 128 234 179 }
 				}
 				b_daelythor = {
-					province = 8422 #c_54_3 
+					province = 9604 #c_54_3 
 					color = { 128 234 179 }
 				}
 			}
@@ -2011,19 +2011,19 @@
 				color = { 115 232 164 }
 				
 				b_gaerythion = {
-					province = 8425 #c_56_1 
+					province = 9607 #c_56_1 
 					color = { 115 232 164 }
 				}
 				b_haelyxar = {
-					province = 8426 #c_56_2 
+					province = 9608 #c_56_2 
 					color = { 115 232 164 }
 				}
 				b_ilyrion = {
-					province = 8427 #c_56_3 
+					province = 9609 #c_56_3 
 					color = { 115 232 164 }
 				}
 				b_jaenor = {
-					province = 8428 #c_56_4 
+					province = 9610 #c_56_4 
 					color = { 115 232 164 }
 				}
 			}
@@ -2031,11 +2031,11 @@
 					color = { 80 226 115 }
 				
 				b_zaenor = {
-					province = 8418 #c_53_1 
+					province = 9600 #c_53_1 
 					color = { 80 226 115 }
 				}
 				b_aelrynor = {
-					province = 8419 #c_53_2 
+					province = 9601 #c_53_2 
 					color = { 80 226 115 }
 				}
 			}
@@ -2043,11 +2043,11 @@
 					color = { 150 238 202 }
 				
 				b_erythos = {
-					province = 8423 #c_55_1 
+					province = 9605 #c_55_1 
 					color = { 150 238 202 }
 				}
 				b_faenor = {
-					province = 8424 #c_55_2 
+					province = 9606 #c_55_2 
 					color = { 150 238 202 }
 				}
 			}
@@ -2059,19 +2059,19 @@
 				color = { 103 229 148 }
 				
 				b_elyxar = {
-					province = 8373 #c_41_1 
+					province = 9555 #c_41_1 
 					color = { 103 229 148 }
 				}
 				b_faelthysor = {
-					province = 8374 #c_41_2 
+					province = 9556 #c_41_2 
 					color = { 103 229 148 }
 				}
 				b_gaelynor = {
-					province = 8375 #c_41_3 
+					province = 9557 #c_41_3 
 					color = { 103 229 148 }
 				}
 				b_haerthar = {
-					province = 8376 #c_41_4 
+					province = 9558 #c_41_4 
 					color = { 103 229 148 }
 				}
 			}
@@ -2079,19 +2079,19 @@
 					color = { 138 235 190 }
 				
 				b_ilyxion = {
-					province = 8377 #c_42_1 
+					province = 9559 #c_42_1 
 					color = { 138 235 190 }
 				}
 				b_jaelthionor = {
-					province = 8378 #c_42_2 
+					province = 9560 #c_42_2 
 					color = { 138 235 190 }
 				}
 				b_kaeryxar = {
-					province = 8379 #c_42_3 
+					province = 9561 #c_42_3 
 					color = { 138 235 190 }
 				}
 				b_laelythor = {
-					province = 8380 #c_42_4 
+					province = 9562 #c_42_4 
 					color = { 138 235 190 }
 				}
 			}
@@ -2099,15 +2099,15 @@
 					color = { 172 241 222 }
 				
 				b_maelryn = {
-					province = 8381 #c_43_1 
+					province = 9563 #c_43_1 
 					color = { 172 241 222 }
 				}
 				b_naelionor = {
-					province = 8382 #c_43_2 
+					province = 9564 #c_43_2 
 					color = { 172 241 222 }
 				}
 				b_oelthar = {
-					province = 8383 #c_43_3 
+					province = 9565 #c_43_3 
 					color = { 172 241 222 }
 				}
 			}
@@ -2119,19 +2119,19 @@
 				color = { 43 211 33 }
 				
 				b_yaerthosar = {
-					province = 8392 #c_46_1 
+					province = 9574 #c_46_1 
 					color = { 43 211 33 }
 				}
 				b_zaelryn = {
-					province = 8393 #c_46_2 
+					province = 9575 #c_46_2 
 					color = { 43 211 33 }
 				}
 				b_aerythion = {
-					province = 8394 #c_46_3 
+					province = 9576 #c_46_3 
 					color = { 43 211 33 }
 				}
 				b_brynionor = {
-					province = 8395 #c_46_4 
+					province = 9577 #c_46_4 
 					color = { 43 211 33 }
 				}
 			}
@@ -2139,15 +2139,15 @@
 					color = { 63 176 28 }
 				
 				b_kaenor = {
-					province = 8404 #c_49_1 
+					province = 9586 #c_49_1 
 					color = { 63 176 28 }
 				}
 				b_laerythos = {
-					province = 8405 #c_49_2 
+					province = 9587 #c_49_2 
 					color = { 63 176 28 }
 				}
 				b_maelrythos = {
-					province = 8406 #c_49_3 
+					province = 9588 #c_49_3 
 					color = { 63 176 28 }
 				}
 			}
@@ -2155,19 +2155,19 @@
 					color = { 61 224 81 }
 				
 				b_paelithor = {
-					province = 8384 #c_44_1 
+					province = 9566 #c_44_1 
 					color = { 61 224 81 }
 				}
 				b_qaerionor = {
-					province = 8385 #c_44_2 
+					province = 9567 #c_44_2 
 					color = { 61 224 81 }
 				}
 				b_raelthion = {
-					province = 8386 #c_44_3 
+					province = 9568 #c_44_3 
 					color = { 61 224 81 }
 				}
 				b_saelryn = {
-					province = 8387 #c_44_4 
+					province = 9569 #c_44_4 
 					color = { 61 224 81 }
 				}
 			}
@@ -2179,23 +2179,23 @@
 				color = { 51 198 31 }
 				
 				b_jaelthosar = {
-					province = 8453 #c_63_1 
+					province = 9635 #c_63_1 
 					color = { 51 198 31 }
 				}
 				b_kaerthar = {
-					province = 8454 #c_63_2 
+					province = 9636 #c_63_2 
 					color = { 51 198 31 }
 				}
 				b_laenor = {
-					province = 8455 #c_63_3 
+					province = 9637 #c_63_3 
 					color = { 51 198 31 }
 				}
 				b_maelryxar = {
-					province = 8456 #c_63_4 
+					province = 9638 #c_63_4 
 					color = { 51 198 31 }
 				}
 				b_naelythor = {
-					province = 8457 #c_63_5 
+					province = 9639 #c_63_5 
 					color = { 51 198 31 }
 				}
 			}
@@ -2203,19 +2203,19 @@
 					color = { 48 222 59 }
 				
 				b_oelionor = {
-					province = 8458 #c_64_1 
+					province = 9640 #c_64_1 
 					color = { 48 222 59 }
 				}
 				b_paelythor = {
-					province = 8459 #c_64_2 
+					province = 9641 #c_64_2 
 					color = { 48 222 59 }
 				}
 				b_qaelthionor = {
-					province = 8460 #c_64_3 
+					province = 9642 #c_64_3 
 					color = { 48 222 59 }
 				}
 				b_raelithor = {
-					province = 8461 #c_64_4 
+					province = 9643 #c_64_4 
 					color = { 48 222 59 }
 				}
 			}
@@ -2223,15 +2223,15 @@
 					color = { 83 228 118 }
 				
 				b_xaelithos = {
-					province = 8466 #c_66_1 
+					province = 9648 #c_66_1 
 					color = { 83 228 118 }
 				}
 				b_yaelrythar = {
-					province = 8467 #c_66_2 
+					province = 9649 #c_66_2 
 					color = { 83 228 118 }
 				}
 				b_zaelthion = {
-					province = 8468 #c_66_3 
+					province = 9650 #c_66_3 
 					color = { 83 228 118 }
 				}
 			}
@@ -2243,23 +2243,23 @@
 				color = { 35 219 35 }
 				
 				b_haelrynor = {
-					province = 8476 #c_69_1 
+					province = 9658 #c_69_1 
 					color = { 35 219 35 }
 				}
 				b_ilythionor = {
-					province = 8477 #c_69_2 
+					province = 9659 #c_69_2 
 					color = { 35 219 35 }
 				}
 				b_jaeryn = {
-					province = 8478 #c_69_3 
+					province = 9660 #c_69_3 
 					color = { 35 219 35 }
 				}
 				b_kaenythar = {
-					province = 8479 #c_69_4 
+					province = 9661 #c_69_4 
 					color = { 35 219 35 }
 				}
 				b_laelythar = {
-					province = 8480 #c_69_5 
+					province = 9662 #c_69_5 
 					color = { 35 219 35 }
 				}
 			}
@@ -2267,15 +2267,15 @@
 					color = { 70 225 98 }
 				
 				b_maelion = {
-					province = 8481 #c_70_1 
+					province = 9663 #c_70_1 
 					color = { 70 225 98 }
 				}
 				b_naerythor = {
-					province = 8482 #c_70_2 
+					province = 9664 #c_70_2 
 					color = { 70 225 98 }
 				}
 				b_oelthysor = {
-					province = 8483 #c_70_3 
+					province = 9665 #c_70_3 
 					color = { 70 225 98 }
 				}
 			}
@@ -2283,19 +2283,19 @@
 					color = { 105 231 150 }
 				
 				b_aerynoth = {
-					province = 8469 #c_67_1 
+					province = 9651 #c_67_1 
 					color = { 105 231 150 }
 				}
 				b_bryxionor = {
-					province = 8470 #c_67_2 
+					province = 9652 #c_67_2 
 					color = { 105 231 150 }
 				}
 				b_caelryxar = {
-					province = 8471 #c_67_3 
+					province = 9653 #c_67_3 
 					color = { 105 231 150 }
 				}
 				b_daelrythor = {
-					province = 8472 #c_67_4 
+					province = 9654 #c_67_4 
 					color = { 105 231 150 }
 				}
 			}
@@ -2307,19 +2307,19 @@
 				color = { 59 222 78 }
 				
 				b_paenor = {
-					province = 8484 #c_71_1 
+					province = 9666 #c_71_1 
 					color = { 59 222 78 }
 				}
 				b_qaelrythor = {
-					province = 8485 #c_71_2 
+					province = 9667 #c_71_2 
 					color = { 59 222 78 }
 				}
 				b_raelthosar = {
-					province = 8486 #c_71_3 
+					province = 9668 #c_71_3 
 					color = { 59 222 78 }
 				}
 				b_saenythor = {
-					province = 8487 #c_71_4 
+					province = 9669 #c_71_4 
 					color = { 59 222 78 }
 				}
 			}
@@ -2327,15 +2327,15 @@
 					color = { 94 228 133 }
 				
 				b_jaelythos = {
-					province = 8503 #c_76_1 
+					province = 9685 #c_76_1 
 					color = { 94 228 133 }
 				}
 				b_kaelythion = {
-					province = 8504 #c_76_2 
+					province = 9686 #c_76_2 
 					color = { 94 228 133 }
 				}
 				b_laelionor = {
-					province = 8505 #c_76_3 
+					province = 9687 #c_76_3 
 					color = { 94 228 133 }
 				}
 			}
@@ -2343,15 +2343,15 @@
 					color = { 128 234 179 }
 				
 				b_maelthysor = {
-					province = 8506 #c_77_1 
+					province = 9688 #c_77_1 
 					color = { 128 234 179 }
 				}
 				b_naenor = {
-					province = 8507 #c_77_2 
+					province = 9689 #c_77_2 
 					color = { 128 234 179 }
 				}
 				b_oelryn = {
-					province = 8508 #c_77_3 
+					province = 9690 #c_77_3 
 					color = { 128 234 179 }
 				}
 			}
@@ -2363,19 +2363,19 @@
 				color = { 80 226 115 }
 				
 				b_taelionor = {
-					province = 8488 #c_72_1 
+					province = 9670 #c_72_1 
 					color = { 80 226 115 }
 				}
 				b_ulenithos = {
-					province = 8489 #c_72_2 
+					province = 9671 #c_72_2 
 					color = { 80 226 115 }
 				}
 				b_vaelryn = {
-					province = 8490 #c_72_3 
+					province = 9672 #c_72_3 
 					color = { 80 226 115 }
 				}
 				b_xaelythion = {
-					province = 8491 #c_72_4 
+					province = 9673 #c_72_4 
 					color = { 80 226 115 }
 				}
 			}
@@ -2383,15 +2383,15 @@
 					color = { 115 232 164 }
 				
 				b_yaelthor = {
-					province = 8492 #c_73_1 
+					province = 9674 #c_73_1 
 					color = { 115 232 164 }
 				}
 				b_zaelithar = {
-					province = 8493 #c_73_2 
+					province = 9675 #c_73_2 
 					color = { 115 232 164 }
 				}
 				b_aelryn = {
-					province = 8494 #c_73_3 
+					province = 9676 #c_73_3 
 					color = { 115 232 164 }
 				}
 			}
@@ -2399,19 +2399,19 @@
 					color = { 150 238 202 }
 				
 				b_brynoris = {
-					province = 8445 #c_61_1 
+					province = 9627 #c_61_1 
 					color = { 150 238 202 }
 				}
 				b_caelrythar = {
-					province = 8446 #c_61_2 
+					province = 9628 #c_61_2 
 					color = { 150 238 202 }
 				}
 				b_daelthor = {
-					province = 8447 #c_61_3 
+					province = 9629 #c_61_3 
 					color = { 150 238 202 }
 				}
 				b_elythor = {
-					province = 8448 #c_61_4 
+					province = 9630 #c_61_4 
 					color = { 150 238 202 }
 				}
 			}
@@ -2419,19 +2419,19 @@
 					color = { 186 243 230 }
 				
 				b_faelryn = {
-					province = 8449 #c_62_1 
+					province = 9631 #c_62_1 
 					color = { 186 243 230 }
 				}
 				b_gaenithos = {
-					province = 8450 #c_62_2 
+					province = 9632 #c_62_2 
 					color = { 186 243 230 }
 				}
 				b_imazigon = {
-					province = 8451 #c_62_3 
+					province = 9633 #c_62_3 
 					color = { 186 243 230 }
 				}
 				b_ilythar = {
-					province = 8452 #c_62_4 
+					province = 9634 #c_62_4 
 					color = { 186 243 230 }
 				}
 			}
@@ -2443,19 +2443,19 @@
 				color = { 103 229 148 }
 				
 				b_caelthar = {
-					province = 8396 #c_47_1 
+					province = 9578 #c_47_1 
 					color = { 103 229 148 }
 				}
 				b_daelysar = {
-					province = 8397 #c_47_2 
+					province = 9579 #c_47_2 
 					color = { 103 229 148 }
 				}
 				b_erynthos = {
-					province = 8398 #c_47_3 
+					province = 9580 #c_47_3 
 					color = { 103 229 148 }
 				}
 				b_faerithor = {
-					province = 8399 #c_47_4 
+					province = 9581 #c_47_4 
 					color = { 103 229 148 }
 				}
 			}
@@ -2463,19 +2463,19 @@
 					color = { 138 235 190 }
 				
 				b_gaerythar = {
-					province = 8400 #c_48_1 
+					province = 9582 #c_48_1 
 					color = { 138 235 190 }
 				}
 				b_haelryx = {
-					province = 8401 #c_48_2 
+					province = 9583 #c_48_2 
 					color = { 138 235 190 }
 				}
 				b_ilynor = {
-					province = 8402 #c_48_3 
+					province = 9584 #c_48_3 
 					color = { 138 235 190 }
 				}
 				b_jaelithosar = {
-					province = 8403 #c_48_4 
+					province = 9585 #c_48_4 
 					color = { 138 235 190 }
 				}
 			}
@@ -2483,19 +2483,19 @@
 					color = { 172 241 222 }
 				
 				b_taerythar = {
-					province = 8388 #c_45_1 
+					province = 9570 #c_45_1 
 					color = { 172 241 222 }
 				}
 				b_ulythor = {
-					province = 8389 #c_45_2 
+					province = 9571 #c_45_2 
 					color = { 172 241 222 }
 				}
 				b_vaelionor = {
-					province = 8390 #c_45_3 
+					province = 9572 #c_45_3 
 					color = { 172 241 222 }
 				}
 				b_guesilla = {
-					province = 8391 #c_45_4 
+					province = 9573 #c_45_4 
 					color = { 172 241 222 }
 				}
 			}
@@ -2507,23 +2507,23 @@
 				color = { 61 224 81 }
 				
 				b_zaelthor = {
-					province = 8368 #c_40_1 
+					province = 9550 #c_40_1 
 					color = { 61 224 81 }
 				}
 				b_aelthionor = {
-					province = 8369 #c_40_2 
+					province = 9551 #c_40_2 
 					color = { 61 224 81 }
 				}
 				b_brythosar = {
-					province = 8370 #c_40_3 
+					province = 9552 #c_40_3 
 					color = { 61 224 81 }
 				}
 				b_caelysar = {
-					province = 8371 #c_40_4 
+					province = 9553 #c_40_4 
 					color = { 61 224 81 }
 				}
 				b_daenthor = {
-					province = 8372 #c_40_5 
+					province = 9554 #c_40_5 
 					color = { 61 224 81 }
 				}
 			}
@@ -2531,15 +2531,15 @@
 					color = { 63 176 28 }
 				
 				b_raelthor = {
-					province = 8361 #c_38_1 
+					province = 9543 #c_38_1 
 					color = { 63 176 28 }
 				}
 				b_saelthion = {
-					province = 8362 #c_38_2 
+					province = 9544 #c_38_2 
 					color = { 63 176 28 }
 				}
 				b_taenythar = {
-					province = 8363 #c_38_3 
+					province = 9545 #c_38_3 
 					color = { 63 176 28 }
 				}
 			}
@@ -2547,19 +2547,19 @@
 					color = { 43 211 33 }
 				
 				b_ulaeryn = {
-					province = 8364 #c_39_1 
+					province = 9546 #c_39_1 
 					color = { 43 211 33 }
 				}
 				b_vaerthar = {
-					province = 8365 #c_39_2 
+					province = 9547 #c_39_2 
 					color = { 43 211 33 }
 				}
 				b_xaelith = {
-					province = 8366 #c_39_3 
+					province = 9548 #c_39_3 
 					color = { 43 211 33 }
 				}
 				b_yaelysor = {
-					province = 8367 #c_39_4 
+					province = 9549 #c_39_4 
 					color = { 43 211 33 }
 				}
 			}
@@ -2571,15 +2571,15 @@
 				color = { 51 198 31 }
 				
 				b_kaelryn = {
-					province = 8354 #c_36_1 
+					province = 9536 #c_36_1 
 					color = { 51 198 31 }
 				}
 				b_laeryth = {
-					province = 8355 #c_36_2 
+					province = 9537 #c_36_2 
 					color = { 51 198 31 }
 				}
 				b_maerythar = {
-					province = 8356 #c_36_3 
+					province = 9538 #c_36_3 
 					color = { 51 198 31 }
 				}
 			}
@@ -2587,15 +2587,15 @@
 					color = { 48 222 59 }
 				
 				b_paelthosar = {
-					province = 8509 #c_78_1 
+					province = 9691 #c_78_1 
 					color = { 48 222 59 }
 				}
 				b_qaenithar = {
-					province = 8510 #c_78_2 
+					province = 9692 #c_78_2 
 					color = { 48 222 59 }
 				}
 				b_raenor = {
-					province = 8511 #c_78_3 
+					province = 9693 #c_78_3 
 					color = { 48 222 59 }
 				}
 			}
@@ -2603,15 +2603,15 @@
 					color = { 83 228 118 }
 				
 				b_jelmazmar = {
-					province = 8512 #c_79_1 
+					province = 9694 #c_79_1 
 					color = { 83 228 118 }
 				}
 				b_taelrythos = {
-					province = 8513 #c_79_2 
+					province = 9695 #c_79_2 
 					color = { 83 228 118 }
 				}
 				b_ulenthor = {
-					province = 8514 #c_79_3 
+					province = 9696 #c_79_3 
 					color = { 83 228 118 }
 				}
 			}

@@ -132,263 +132,263 @@
 vf_add_special_buildings_7888 = {
 	####### THE MINES ########
 	# 1
-	province:8461 = {
+	province:9643 = {
 		add_special_building = vf_copper_mines_04
 	}
-	province:8471 = {
+	province:9653 = {
 		add_special_building = vf_gold_mines_04
 	}
-	province:8472 = {
+	province:9654 = {
 		add_special_building = vf_silver_mines_04
 	}
-	province:8480 = {
+	province:9662 = {
 		add_special_building = vf_silver_mines_04
 	}
-	province:8482 = {
+	province:9664 = {
 		add_special_building = vf_gold_mines_04
 	}
-	province:8483 = {
+	province:9665 = {
 		add_special_building = vf_silver_mines_04
 	}
-	province:8485 = {
+	province:9667 = {
 		add_special_building = vf_copper_mines_04
 	}
-	province:8492 = {
+	province:9674 = {
 		add_special_building = vf_copper_mines_04
 	}
-	province:8493 = {
+	province:9675 = {
 		add_special_building = vf_gold_mines_04
 	}
-	province:8494 = {
+	province:9676 = {
 		add_special_building = vf_silver_mines_04
 	}
 	# 2
-	province:8454 = {
+	province:9636 = {
 		add_special_building = vf_gold_mines_04
 	}
-	province:8448 = {
+	province:9630 = {
 		add_special_building = vf_silver_mines_04
 	}
-	province:8446 = {
+	province:9628 = {
 		add_special_building = vf_copper_mines_04
 	}
-	province:8445 = {
+	province:9627 = {
 		add_special_building = vf_gold_mines_04
 	}
-	province:8449 = {
+	province:9631 = {
 		add_special_building = vf_silver_mines_04
 	}
-	province:8450 = {
+	province:9632 = {
 		add_special_building = vf_copper_mines_04
 	}
-	province:8490 = {
+	province:9672 = {
 		add_special_building = vf_gold_mines_04
 	}
-	province:8487 = {
+	province:9669 = {
 		add_special_building = vf_silver_mines_04
 	}
-	province:8403 = {
+	province:9585 = {
 		add_special_building = vf_gold_mines_04
 	}
-	province:8400 = {
+	province:9582 = {
 		add_special_building = vf_silver_mines_04
 	}
-	province:8522 = {
+	province:9704 = {
 		add_special_building = vf_copper_mines_04
 	}
-	province:8527 = {
+	province:9709 = {
 		add_special_building = vf_gold_mines_04
 	}
-	province:8529 = {
+	province:9711 = {
 		add_special_building = vf_gold_mines_04
 	}
-	province:8533 = {
+	province:9715 = {
 		add_special_building = vf_silver_mines_04
 	}
-	province:8574 = {
+	province:9756 = {
 		add_special_building = vf_gold_mines_04
 	}
-	province:8571 = {
+	province:9753 = {
 		add_special_building = vf_silver_mines_04
 	}
-	province:8568 = {
+	province:9750 = {
 		add_special_building = vf_gold_mines_04
 	}
-	province:8567 = {
+	province:9749 = {
 		add_special_building = vf_copper_mines_04
 	}
-	province:8579 = {
+	province:9761 = {
 		add_special_building = vf_silver_mines_04
 	}
-	province:8399 = {
+	province:9581 = {
 		add_special_building = vf_gold_mines_04
 	}
-	province:8530 = {
+	province:9712 = {
 		add_special_building = vf_silver_mines_04
 	}
-	province:8358 = {
+	province:9540 = {
 		add_special_building = vf_gold_mines_04
 	}
-	province:8359 = {
+	province:9541 = {
 		add_special_building = vf_copper_mines_04
 	}
-	province:8360 = {
+	province:9542 = {
 		add_special_building = vf_silver_mines_04
 	}
-	province:8362 = {
+	province:9544 = {
 		add_special_building = vf_gold_mines_04
 	}
-	province:8364 = {
+	province:9546 = {
 		add_special_building = vf_copper_mines_04
 	}
-	province:8366 = {
+	province:9548 = {
 		add_special_building = vf_silver_mines_04
 	}
-	province:8370 = {
+	province:9552 = {
 		add_special_building = vf_copper_mines_04
 	}
-	province:8371 = {
+	province:9553 = {
 		add_special_building = vf_gold_mines_04
 	}
-	province:8372 = {
+	province:9554 = {
 		add_special_building = vf_silver_mines_04
 	}
-	province:8339 = {
+	province:9521 = {
 		add_special_building = vf_copper_mines_04
 	}
 	###########################
-	province:8219 = {
+	province:9401 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8227 = {
+	province:9409 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8242 = {
+	province:9424 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8255 = {
+	province:9437 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8269 = {
+	province:9451 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8284 = {
+	province:9466 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8291 = {
+	province:9473 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8303 = {
+	province:9485 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8315 = {
+	province:9497 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8319 = {
+	province:9501 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8343 = {
+	province:9525 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8354 = {
+	province:9536 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8357 = {
+	province:9539 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8368 = {
+	province:9550 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8373 = {
+	province:9555 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8389 = {
+	province:9571 = {
 		add_special_building = vf_copper_mines_04
 	}
-	province:8392 = {
+	province:9574 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8396 = {
+	province:9578 = {
 		add_special_building = vf_dragon_tower_01 
 	}
 	##### VALYRIA CITY #####
-	province:8410 = {
+	province:9592 = {
 		add_special_building = vf_valyria_city_civic 
 	}
-	province:8411 = {
+	province:9593 = {
 		add_special_building = vf_valyria_city_industrial 
 	}
-	province:8412 = {
+	province:9594 = {
 		add_special_building = vf_valyria_city_sept 
 	}
-	province:8413 = {
+	province:9595 = {
 		add_special_building = vf_valyria_city_entertainment 
 	}
-	province:8414 = {
+	province:9596 = {
 		add_special_building = vf_valyria_city_defenses 
 	}
 	##### 
-	province:8425 = {
+	province:9607 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8433 = {
+	province:9615 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8453 = {
+	province:9635 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8476 = {
+	province:9658 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8484 = {
+	province:9666 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8488 = {
+	province:9670 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8495 = {
+	province:9677 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8517 = {
+	province:9699 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8532 = {
+	province:9714 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8540 = {
+	province:9722 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8553 = {
+	province:9735 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8562 = {
+	province:9744 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8566 = {
+	province:9748 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8575 = {
+	province:9757 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8613 = {
+	province:9795 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8629 = {
+	province:9811 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8645 = {
+	province:9827 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8650 = {
+	province:9832 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8667 = {
+	province:9849 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8681 = {
+	province:9863 = {
 		add_special_building = vf_dragon_tower_01 
 	}
-	province:8693 = {
+	province:9875 = {
 		add_special_building = vf_dragon_tower_01 
 	}
 }
