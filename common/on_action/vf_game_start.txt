@@ -44,6 +44,39 @@ vf_game_start = {
 				set_title_name = k_firekingdom_eng
 			}
 		}
+		title:e_valyria = {
+			holder ?= {
+				add_character_flag = dragonlord_oligarchy_adopted
+				change_government = dragonlord_oligarchy_government
+				dragonlord_refresh_bureaucracy_opinion_penalty_effect = yes
+				primary_title = {
+					set_title_name = dragonlord_valyrian_dragonlord_council
+					set_definitive_form = yes
+				}
+				if = {
+					limit = {
+						NOT = { has_realm_law = dragonlord_council_election_succession_law }
+					}
+					add_realm_law_skip_effects = dragonlord_council_election_succession_law
+				}
+				every_vassal_or_below = {
+					limit = {
+						highest_held_title_tier >= tier_county
+					}
+					add_character_flag = dragonlord_oligarchy_adopted
+					change_to_administrative_holding_effect = yes
+					change_government = dragonlord_oligarchy_government
+				}
+				dragonlord_enforce_single_high_title_effect = yes
+				dragonlord_initialize_noble_laws_effect = yes
+				dragonlord_establish_family_titles_effect = yes
+				add_character_flag = dragonlord_final_hierarchy_family_selection_migrated
+				dragonlord_restore_family_primary_titles_effect = yes
+				dragonlord_recalculate_fourteen_dragonlords_effect = yes
+				dragonlord_recalculate_tamed_dragon_influence_effect = yes
+				dragonlord_establish_default_provincial_laws_effect = yes
+			}
+		}
 		if = {
 			limit = {
 				game_start_date >= 7888.1.1

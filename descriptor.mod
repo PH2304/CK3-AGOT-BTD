@@ -9,9 +9,9 @@ tags={
 	"Graphics"
 }
 name="AGOT: Before the Doom"
-supported_version="1.19.0.6"
-remote_file_id="3752435984"
 replace_path="map_data"
 dependencies={
 	"A Game of Thrones"
 }
+supported_version="1.19.0.6"
+remote_file_id="3752435984"
